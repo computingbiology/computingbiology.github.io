@@ -1,0 +1,68 @@
+{{ define "main" }}
+{{ $posts_title := index .Site.Params "posts_title" | default "Posts" }}
+{{ $posts_count := index .Site.Params "posts_count" | default 5 }}
+{{ $pubs_title := index .Site.Params "pubs_title" | default "Publications" }}
+{{ $pubs_count := index .Site.Params "pubs_count" | default 5 }}
+
+   <div class="container">       
+   <div class="sidebar">
+   <p>
+University of Virginia<Br>
+cs4501 Spring 2021<br>
+<em>Computational Biology / Biological Computing</em>
+</p>
+
+   <p>
+   <p>
+  <b><a href="/syllabus">Syllabus</a></b></br>
+  <b><a href="/schedule">Schedule</a></b></br>
+   <a href="/resources/">Resources</a></p>
+
+<p></p>
+  <!--<b><a href="//github.com/csethics/csethics.github.io/discussions">Discussion</a></b></br>-->
+<p></p>
+   <p>
+   <b><a href="/post/">Recent Posts</a></b>
+   {{ range first 15 (where site.RegularPages "Type" "in" site.Params.mainSections).ByDate.Reverse }}
+   <div class="posttitle">
+      {{ partial "post-title" . }}
+   </div>
+   {{ end }}
+   
+   </p>
+
+   <p><br></br><br></br><br></br><br></br><br></br><br></br></p>
+      <p>
+     Teacher: <a href="https://www.cs.virginia.edu/evans">David Evans</a>
+   </p>
+
+   </div>
+
+
+    <div class="content">
+
+    {{ range .Site.Pages }}
+        {{ if eq .Type "index" }}
+           {{ .Content }}
+        {{ end }}
+    {{ end }}
+
+
+    
+    {{ range first $posts_count (where site.RegularPages "Type" "in" site.Params.mainSections).ByDate.Reverse }}
+    {{ partial "post-full-summary" . }}
+    {{ end }}
+
+   
+
+    <footer>
+      <nav>
+	<a href="/post/" class="button hollow primary">All {{ $posts_title }}</a>
+      </nav>
+    </footer>
+
+</div>
+</div>
+
+{{ end }}
+

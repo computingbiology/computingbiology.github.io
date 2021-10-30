@@ -1,0 +1,49 @@
+baseurl = "https://computingbiology.github.io/"
+languageCode = "en-us"
+title = "Computational Biology / Biological Computing"
+subtitle = "UVA CS 4501 Spring 2022"
+copyright = ""
+theme = "biocs"
+
+paginate = 10
+paginatePath = "page"
+
+pageNotFoundTitle = "Not Found"
+pageNotFoundDetail = "Your request cannot be resolved in the current axiomatic system. This could be because you have discovered a contradiction to Cantor's Continuum Hypothesis, but it is most likely a bad link or mistyped URL. If its a broken link, please let us know."
+
+[markup.goldmark.renderer]
+unsafe= true
+
+[permalinks]
+    post = "/:slug/"
+    code = "/:slug/"
+
+[taxonomies]
+    tag = "tags"
+    topic = "topics"
+
+[author]
+    name = "David Evans"
+    email = "evans@virginia.edu"
+
+[params]
+    brand = "Computational Biology / Biological Computing"
+    topline = "Computational Biology / Biological Computing"
+    footline = "<p align=\"center\">CS 4501 | University of Virginia, Spring 2022 | <a href=\"https://www.cs.virginia.edu/evans\">David Evans</a></p>"
+    sidebar = "left"
+    nodate = true
+    noauthor = true
+    noread = true
+    nopaging=true
+    notoc=true
+
+[blackfriday]
+    angledQuotes = false
+    fractions = false
+    hrefTargetBlank = false
+    latexDashes = true
+    plainIdAnchors = true
+    extensions = []
+    extensionmask = []
+
+[[menu.footer]]
