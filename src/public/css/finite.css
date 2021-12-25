@@ -1,15 +1,14 @@
 :root {
-  /* colors from: https://colorhunt.co/palette/154644 */
   --primary-color: #000000;
-  --bside-color: #0E7c7b; /* #c83660; */
-  --tb-color: #17bebb; /* #e15249; */
-  --sp-color: #17bebb; /* #c83660; /* #f6d365; */
-  --highlight-color: #0E7c7b; /* #f6d365; */
+  --bside-color: #29BF12; 
+  --tb-color: #F08700;
+  --sp-color: #EFCA08; 
+  --highlight-color: #F49F0A;
   --bg-color: #fff;
   --inverse-color: #fafafa;
-  --inverse-light-color: #d4f4dd;
+  --light-color: #424253;
+  --inverse-light-color: #f9f0ff;
 }
-
 
 /* literata-regular - latin */
 @font-face {
@@ -104,7 +103,7 @@ body {
 .nav-bar button,
 .nav-bar a,
 .nav-bar ul {
-    background-color: var(--tb-color);
+    background-color: var(--tb-color); 
     color: #faf8f8;
     border: none;
 }
@@ -827,4 +826,22 @@ blockquote, blockquote p {
     line-height: 0.2;
     margin-bottom: 0;
     list-style: none;
+}
+
+.additionalreading li { 
+    padding: 0px;
+}
+
+.additionalreading ul {
+    list-style-type: circle;
+}
+
+.additionalreading {
+    background-color: var(--inverse-light-color);
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 0px;
+    padding: 8px;
+    font-size: 14px;
+    color: var(--light-color);
 }

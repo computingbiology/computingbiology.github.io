@@ -9,7 +9,7 @@ paginate = 10
 paginatePath = "page"
 
 pageNotFoundTitle = "Not Found"
-pageNotFoundDetail = "Your request cannot be resolved in the current axiomatic system. This could be because you have discovered a contradiction to Cantor's Continuum Hypothesis, but it is most likely a bad link or mistyped URL. If its a broken link, please let us know."
+pageNotFoundDetail = "Your request does not correspond to any known life form. This could be because you have discovered a novel path-ogen, but it is most likely a bad link or mistyped URL. If its a broken link, please let us know."
 
 [markup.goldmark.renderer]
 unsafe= true
