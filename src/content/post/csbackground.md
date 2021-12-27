@@ -8,11 +8,11 @@ author = "David Evans"
 Here is a guide to the computing background expected for students
 entering this course.
 
-If you've taken a good Theory of Computation or Algorithms course (the
-official pre-requisite for this course) and remember the big ideas
-from that class, this should all be familiar to you already, but it may
-still be useful to refresh your understanding using these
-materials.
+If you've completed cs2150 and a good Theory of Computation or
+Algorithms course (the official pre-requisites for this course) and
+remember the big ideas from that class, this should all be familiar to
+you already, but it may still be useful to refresh your understanding
+using these materials.
 
 If you haven't taken the prerequisite courses and are getting up to
 speed on your own, we hope these materials will be helpful. In class,
