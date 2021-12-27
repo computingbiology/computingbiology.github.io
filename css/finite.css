@@ -8,6 +8,7 @@
   --inverse-color: #fafafa;
   --light-color: #424253;
   --inverse-light-color: #f9f0ff;
+  --highlight-color: #0000aa;
 }
 
 /* literata-regular - latin */
@@ -155,6 +156,12 @@ a:focus {
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Literata', sans;
+}
+
+h2 {
+    padding-top: 1.2rem;
+    color: var(--highlight-color);
+    font-weight: 700;
 }
 
 @media screen and (min-width: 40em) {
@@ -612,6 +619,12 @@ p {
    line-height: 1.8;
 }
 
+span.subnote {
+    font-weight: 300;
+    font-size: small;
+    color: var(--light-color);
+}
+
 .note {
    margin-left: 50px;
    margin-right: 60px;
@@ -654,6 +667,17 @@ p {
 }
 
 P.breakhere {page-break-before: always}
+
+div.shortsection {
+    font-weight: bold;
+    margin-top: 1rem;
+    color: var(--highlight-color);
+}
+
+span.op {
+    font-family: "verdana";
+    color: var(--highlight-color);
+}
 
 span#name {
     font-size: 20px;
