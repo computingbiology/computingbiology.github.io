@@ -209,22 +209,9 @@ simulate the new model.
 - To understand why there are some uncomputable functions (not necessary for this course, but you should want to know!), see [_Uncomputable Numbers_](https://www.youtube.com/watch?v=Cuf4zkYwGlQ&feature=emb_imp_woyt).
   </div>
 
-## Computational Complexity
+# &nbsp;
 
-So far we have been concerned with understanding what functions can be
-computed (in theory, which means without any arbitrary limits on their
-execution) by different computing models, but have not considered what
-it _costs_ to execute a computation.
-
-For concerete computations where we already know the input and have an
-implementation of the algorithm, we can measure the cost of executing
-the algorithm
-
-
-
-
-
-## Programming
+**Next: [Computational Complexity](/complexity)**
 
 
 
