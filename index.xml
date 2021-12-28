@@ -16,12 +16,32 @@
     <item>
       <title>Computer Science Background</title>
       <link>https://computingbiology.github.io/computer-science-background/</link>
-      <pubDate>Sun, 26 Dec 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
       <author>evans@virginia.edu (David Evans)</author>
       <guid>https://computingbiology.github.io/computer-science-background/</guid>
       <description>Here is a guide to the computing background expected for students entering this course.
 If you&amp;rsquo;ve completed cs2150 and a good Theory of Computation or Algorithms course (the official pre-requisites for this course) and remember the big ideas from that class, this should all be familiar to you already, but it may still be useful to refresh your understanding using these materials.
 If you haven&amp;rsquo;t taken the prerequisite courses and are getting up to speed on your own, we hope these materials will be helpful.</description>
+    </item>
+    
+    <item>
+      <title>Cost of Computation</title>
+      <link>https://computingbiology.github.io/complexity/</link>
+      <pubDate>Sun, 26 Dec 2021 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/complexity/</guid>
+      <description>When we consider the power of our computing models, we have been concerned with understanding what functions can be computed (in theory, which means without any arbitrary limits on their execution) by different computing models. When we want to actual compute using physical computers, cost matters.
+For concerete computations where we already know the input and have an implementation of the algorithm, we can measure the cost of executing the algorithm by just running it and recording the cost.</description>
+    </item>
+    
+    <item>
+      <title>Models of Computation</title>
+      <link>https://computingbiology.github.io/models/</link>
+      <pubDate>Sun, 26 Dec 2021 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/models/</guid>
+      <description>To reason precisely about what computers can and cannot do, we need abstract models that capture the things we think are important but avoid the complexities of physical objects.
+Models and Mathematics The physical world is messy and suffers from arbitrary limits — this applies both to the physical computing devices we use (which always have some probability of failing and can&amp;rsquo;t even do arithmetic correcly) and even more so to biological systems we consider in this class.</description>
     </item>
     
     <item>

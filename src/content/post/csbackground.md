@@ -1,5 +1,5 @@
 +++
-date = "26 Dec 2021"
+date = "27 Dec 2021"
 draft = false
 title = "Computer Science Background"
 author = "David Evans"
@@ -27,11 +27,12 @@ understanding of these ideas from previous courses.
 Part 1: [Models of Computation](/models)</div>
 <div class="shortsection">
 
-Part 2: [Cost of Computation](/complexity) <span class="subnote">(coming soon)</span>
+Part 2: [Cost of Computation](/complexity) <span class="subnote"></span>
 </div>
 <div class="shortsection">
 
-Part 3: [Programming](/programming) <span class="subnote">(coming soon)</span>
+Part 3: [Programming and Algorithms](/programming) <span class="subnote">(coming soon)</span>
+
 </div>
 
 

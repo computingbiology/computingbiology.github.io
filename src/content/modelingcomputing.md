@@ -1,6 +1,6 @@
 +++
 date = "26 Dec 2021"
-draft = true
+draft = false
 title = "Models of Computation"
 author = "David Evans"
 slug = "models"
@@ -78,7 +78,7 @@ abstract machine (including its memory) as the _output_.
 - Video lectures (by Nathan Brunelle) from [cs3102 course](https://uvatoc.github.io/f20/week2/): [_What is a Computer?_](https://www.youtube.com/watch?v=L3ueFMGM6pk) (7:30); [_Modeling Computers_](https://www.youtube.com/watch?v=Zg4FUYbwLqY&feature=emb_imp_woyt) (8:16).
 </div>
 
-<div class="shortsection">Terminology</div>
+<div class="shortsection"><a name="terminology"></a>Terminology</div>
 We discuss two examples of computing models soon, but first introduce some important terminology. When discussing computing, several terms that are often used
 informally are used in a very precise way and the precise definitions
 of these terms are important for understanding what statements using

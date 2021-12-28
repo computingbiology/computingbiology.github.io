@@ -8,7 +8,7 @@
     <language>en-us</language>
     <managingEditor>evans@virginia.edu (David Evans)</managingEditor>
     <webMaster>evans@virginia.edu (David Evans)</webMaster>
-    <lastBuildDate>Sun, 26 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://computingbiology.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,7 +16,7 @@
     <item>
       <title>Computer Science Background</title>
       <link>https://computingbiology.github.io/computer-science-background/</link>
-      <pubDate>Sun, 26 Dec 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
       <author>evans@virginia.edu (David Evans)</author>
       <guid>https://computingbiology.github.io/computer-science-background/</guid>
       <description>Here is a guide to the computing background expected for students entering this course.

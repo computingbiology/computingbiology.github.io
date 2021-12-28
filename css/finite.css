@@ -679,6 +679,12 @@ span.op {
     color: var(--highlight-color);
 }
 
+span.cclass {
+    font-family: "verdana";
+    font-weight: 550;
+/*    color: var(--highlight-color); */
+}
+
 span#name {
     font-size: 20px;
     text-align:left;
@@ -869,3 +875,9 @@ blockquote, blockquote p {
     font-size: 14px;
     color: var(--light-color);
 }
+
+code.has-jax {font: inherit;
+              font-size: 100%;
+              background: inherit;
+              border: inherit;
+              color: #515151;}
