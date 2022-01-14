@@ -12,3 +12,5 @@ by visiting:
 
 We won't expect students to be on the course slack until the first
 class (Wednesday, Jan 19 at 12:30pm), but feel free to join early!
+
+(If you want to join but don't have an `@virginia.edu` email address, contact the [course instructor](https://www.cs.virginia.edu/evans).)
