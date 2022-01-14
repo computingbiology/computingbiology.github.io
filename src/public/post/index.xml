@@ -8,10 +8,20 @@
     <language>en-us</language>
     <managingEditor>evans@virginia.edu (David Evans)</managingEditor>
     <webMaster>evans@virginia.edu (David Evans)</webMaster>
-    <lastBuildDate>Mon, 27 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://computingbiology.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Course Slack</title>
+      <link>https://computingbiology.github.io/slack/</link>
+      <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/slack/</guid>
+      <description>You can join the course slack (with any @virginia.edu email address) by visiting: https://computingbiology.slack.com.
+We won&amp;rsquo;t expect students to be on the course slack until the first class (Wednesday, Jan 19 at 12:30pm), but feel free to join early!</description>
+    </item>
     
     <item>
       <title>Computer Science Background</title>
