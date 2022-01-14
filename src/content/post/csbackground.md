@@ -5,8 +5,8 @@ title = "Computer Science Background"
 author = "David Evans"
 +++
 
-Here is a guide to the computing background expected for students
-entering this course.
+Here is a guide to the computing theory background expected for
+students entering this course.
 
 If you've completed cs2150 and a good Theory of Computation or
 Algorithms course (the official pre-requisites for this course) and
@@ -28,11 +28,6 @@ Part 1: [Models of Computation](/models)</div>
 <div class="shortsection">
 
 Part 2: [Cost of Computation](/complexity) <span class="subnote"></span>
-</div>
-<div class="shortsection">
-
-Part 3: [Programming and Algorithms](/programming) <span class="subnote">(coming soon)</span>
-
 </div>
 
 
