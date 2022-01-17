@@ -1,6 +1,6 @@
 +++
 date = "16 Jan 2022"
-draft = true
+draft = false
 title = "Syllabus"
 slug = "syllabus"
 +++
@@ -16,11 +16,36 @@ so you can see past versions and changes there.
 The version as posted on the first day of class is [here](TODO)
 </div>
 
-# Overview
+## Overview
 
-**Course Description:**
+**Course Description:** This course will look at connections between
+computing and biology, with a focus on DNA. It will include
+computational methods used in biology focusing on how computing can be
+used to analyze and design DNA, as well as opportunities to use
+biological substances and ideas to compute.
 
-**Course Objectives:** Students who complete the course will:
+**Course Objectives:** Students who succeed in the course will:
+
+- Understand at a high (but deep) level how life works, and why
+  certain aspects of known life on Earth seem to have evolved with
+  common, robust mechanisms.
+
+- Be able to implement and reason about algorithms for analyzing DNA
+  including algorithms for genome assembly, genome alignment, and
+  phylogeny, as well as algorithms used to try and understand genetic
+  factors in diseases.
+
+- Gain understanding how mRNA vaccines are developed, and what
+  scientists have learned about SARS-CoV-2.
+
+- Connect theoretical understanding of computing to biological
+  mechanisms, including information theoretic understanding of genomes
+  and immune systems and algorithmic perspectives on evolutionary
+  processes.
+
+- Be able to read and understand some research papers in computational
+  biology, and present key ideas in biomedical work in ways that are
+  understandable to computer scientists.
 
 <a name="meetings"></a>
 
@@ -45,9 +70,8 @@ Following current University policies, classes will be held in person
   the class to attendees (at a minimum, it divides the instructor's
   attention, and precludes any activites that expect student
   participation). Students who are not able to make it to class for
-  medical, family, or valid (in the view of the instructor) personal
-  reasons will not be impacted negatively by not participating in any
-  in-class graded activities.
+  medical, family, or personal reasons will not be impacted negatively
+  by not participating in any in-class graded activities. 
 
 I will do everything I can to accommodate students varying situations,
 and to ensure that every student has the best opportunity possible to
@@ -71,13 +95,32 @@ everyone in the community, including many who may have different risk
 profiles than your own such as living with elderly relatives or
 children too young to be vaccinated.
 
-# Preparation
+## Preparation
 
-**Official Prerequisites:** 
+**Official Prerequisites:** Students entering this course are expected
+  to have successfully completed cs2150, and at least one of cs3102 or
+  cs4102, or comparable experience. 
 
-**Expected Background:** 
+**Expected Background:** We expect all students in the class to be
+  living human beings and to have been curious observers of the life
+  that surrounds us, but do not expect an previous formal background
+  in biology. 
 
-# Course Staff
+We expect students to have solid understanding of core ideas in
+theoretical computer science and be comfortable using asymptotic
+notation and talking about computational complexity. To check your
+understanding and refresh your memory, read the post on [Computer Science
+Background](/computer-science-background).
+
+We expect students to be able to program in Python, and to be able to
+read and write programs with a few thousand lines of code, and to be
+able to figure out how to use libraries and APIs from their provided
+documentation and other resources. We expect students to have
+experience with software engineering practices, and to be able to
+write readable programs and test them systematically.
+
+
+## Course Staff
 
 **Instructor:** The course is taught by [David
   Evans](https://www.cs.virginia.edu/evans)
@@ -93,415 +136,213 @@ children too young to be vaccinated.
   [_Biologically-Inspired
   Computing_](http://www.cs.virginia.edu/~evans/bio-seminar/), have given talks on [_What Biology Can (and Can't) Teach Us About Security_](http://www.cs.virginia.edu/~evans/talks/usenix04/), and published a [few](http://www.cs.virginia.edu/~evans/pubs/ssrs-abstract.html) [minor](https://www.cs.virginia.edu/~evans/pubs/whenantsattack.pdf) [papers](https://www.cs.virginia.edu/~evans/pubs/woss-abstract.html) that connect computing and biology. Most of my research is in [security and privacy](https://uvasrg.github.io/).
 
-**Office Hours:** A full schedule of office hours will be posted on the course website later. For the first week of the semester, the instructor will hold office hours after class Wednesday. 
+**Teaching Assistants:**  
+[Hyun Jae Cho](https://hyunjaecho94.github.io/), PhD student working in biology and machine learning.  
+[Anshuman Suri](https://www.anshumansuri.me/), PhD student working on privacy risks of machine learning.
 
-# Learning Materials
+**Office Hours:** A full schedule of office hours will be posted on the course website later. For the first week of the semester, Dave will hold office hours after class Wednesday. 
+
+## Learning Materials
     
 There is no required textbook to purchase for the course.
 
 We will be using chapters from three open books:
 
-- 
+- Bert Hubert’s [_The Technology of Life: A DNA-centric tour of
+  biology_](https://berthub.eu/dna-book/). This is a new book
+  currently under development. The author has graciously agreed to
+  share an early version of the book with us. You will need a password
+  to access this, which will be distributed through the collab mailing
+  list.
 
-In addition to these materials, we will be reading papers (distributed
-as PDFs through this website) and occasionally viewing videos and
-other available materials.
+- Phillip Compeau and Pavel Pevzner's [_Bioinformatics
+  Algorithms_](https://www.bioinformaticsalgorithms.org/). Several
+  chapters of the book are [freely
+  available](https://www.bioinformaticsalgorithms.org/read-the-book),
+  and we will only assign these chapters for reading. The [full
+  book](https://www.bioinformaticsalgorithms.org/shop) is available as
+  a printed book ($90), but is not necessary to purchase for the
+  course. (There is also an [on-line
+  course](https://stepik.org/course/55789/promo) ($90) connected to
+  this book, which you may find useful and interesting.)
+
+- Manolis Kellis' [_Computational Biology - Genomes, Networks, and
+  Evolution_](https://bio.libretexts.org/Bookshelves/Computational_Biology/Book%3A_Computational_Biology_-_Genomes_Networks_and_Evolution_(Kellis_et_al.)). (Transcriptions
+  of lectures from [MIT 6.047
+  course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-047-computational-biology-fall-2015/). Various
+  versions of this course, and recorded videos of the lectures, are
+  available on-line, and we will use some of these materials.)
+
+The three books are all excellent and cover much of the same material,
+but are quite different in style, expected background, and technical
+depth. We will often assign readings from one or two of the books, and
+suggest additional optional readings from the others for students who
+want more depth or prefer a different kind of presentation.
+
+In addition to these main texts, we will be reading papers
+(distributed as PDFs through this website) and occasionally viewing
+videos and other available materials.
 
 
-# Communication
+## Communication
 
 We will primarily use the course website for one-to-many
-communications (posting course materials), use the course slack for "real-time" messages and immediate course announcements, and use github discussions for 
+communications (posting course materials), use the course slack for
+"real-time" messages and immediate course announcements, and use
+github discussions for discussions.
 
-**Course Website:** We will post all course materials at
-  [_https://uvatoc.github.io_](https://uvatoc.github.io). We will also
-  use a [custom-built Kytos
-  site](https://kytos.cs.virginia.edu/cstheory/) for assignment
-  submissions, and may occasionally use the collab site to post
-  materials we cannot post publicly.
+**Course Website:** We will post all course materials on the course
+website,
+[_https://computingbiology.github.io/_](https://computingbiology.github.io/),
+except for ones that we cannot post publicly, which will be shared
+using collab or other mechanisms.  
 
-**Discord:** We will use the course discord server for most other
-  course communications (you will receive information on joining the
-  server by email). We expect students to receive messages we send to
-  the `#general` channel as well as any direct messages we send to you
-  on discord. Each cohort will have a channel on the Discord server.
+**Slack:** We will use a slack workspace for immediate and real-time
+  communications. All students in the course should join the slack
+  workspace:
+  [_https://computingbiology.github.io/slack/_](https://computingbiology.github.io/slack/).You
+  should be able to join directly yourself using a `@virginia.edu`
+  email address (let the course staff know if you have any problems
+  joining). You will also be able to use slack to form channels for
+  teams.
 
-If you have questions about course materials or assignments that will
-be relevant to other students, please ask them in the `#general`
-channel. This will get the fastest response, since all of the course
-staff and students will see your question there and be able to respond
-to it. If you have questions of a personal nature that you only want
-to make to the instructors, please use the course discord to contact
-both of us (`@nateb @DaveE`) in a Direct Message channel instead of
-emailing us independently.
+**Github Discussions:** We will use [github
+  discussions](https://github.com/computingbiology/spring2022/discussions)
+  for more persistent and structured discussions. You should use the
+  github discussions if you have questions about concepts in the
+  class, assignments, and readings.
 
 **Email:** Managing email for a large class like this is difficult,
-  and we prefer to use the course discord for most communications
-  relevant to the class. You should feel free to use email for
-  messages peripherally related to the course (e.g., emailing an
-  instructor about interest in their research). You should also use
-  email if you post a question on slack but don't receive an adequate
-  response within 24 hours.
+  and we prefer to use the course slack and github discussions for
+  most communications relevant to the class. Please use direct
+  messages in slack if you have personal, course-related questions for
+  the instructor (e.g., requesting an extension or exemption). You
+  should feel free to use email for messages peripherally related to
+  the course (e.g., emailing an instructor about interest in their
+  research). You should also use email if you post a question on slack
+  or github discussions but don't receive an adequate response within
+  24 hours.
 
-# Cohorts
+## Assignments
 
-Students in the class will be partitioned into cohorts, small groups
-of 5 &ndash; 7 students, who we hope will form effective learning
-sub-communities. Each cohort will be expected to work as a group to
-help all members succeed, and each individual will be expected to
-contribute to their own success as well as the success of the other
-members of their cohort.
+The main assignments for the course, and where we expect students will
+do the most learning, is a series of projects where students
+implement, analyze, and extend computational biology algorithms.
 
-Cohorts will have two scheduled weekly meetings, one of which will
-include a member of the course staff. 
+Because this is a new course, we do not want to commit to the specific
+topics and deadlines in the pre-semester syllabus, but expect there to
+be four structured projects, approximately two weeks each, and one
+longer open-end project for the final 5 weeks of the semester.
 
-For the first meeting, students in the cohort will work together to
-learn the concepts in the course and prepare solutions to the assigned
-problems for the week. Before the cohort preparation meeting, each
-student in the cohort will be expected to study the course materials
-and to work on these problems on their own. At the end of a successful
-cohort preparation meeting, every student in the cohort should
-understand all the main ideas from the course materials for that week,
-and be able to solve and discuss the assigned problems.
+The rough schedule and planned topics (which are likely to change) are:
 
-For the second weekly cohort meeting, a teaching assistant will join
-the cohort. The TA will (pseudorandomly) select students in the cohort
-to present problems from the assigned problem set. A major part of the
-assessment for the course will be how well students do in
-demonstrating their understanding and preparation in presenting these
-problems.
+**Project 1: Assembling Genomes** (out Monday, 24 January, due Sunday 6 February)
 
-The typical weekly schedule for students in the course is below (this
-is a representative schedule for a cohort with assessed cohort
-meetings on Tuesdays; the schedule will adjust based on which day of
-the week the cohort meeting is scheduled):
+**Project 2: Genome Alignment and Analysis** (out Monday 7 February, due Sunday 20 February)
 
-<table class="schedule">
-  <thead>
-    <tr>
-      <th width="20%" text-align="center">Day</th>
-      <th width="50%" align="center">Activity</th>
-      <th width="30%" align="center">Time</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-<td>Thursday</td><td>Preparation Materials: Video Lectures</td><td>90 minutes</td></tr>
-<tr><td></td><td>Preparation Materials: Readings</td><td>90 minutes</td></tr>
-<tr><td>Friday</td><td>Work on Problem Set (individually)</td><td>90 minutes</td></tr>
-<tr><td>Sunday</td><td>Cohort Meeting (without staff)</td><td>75 minutes</td></tr>
-<tr><td>Monday</td><td>Class Meeting</td><td>75 minutes</td></tr>
-<tr><td></td><td>Complete Problem Set, Review for Cohort Meeting</td><td>45 minutes</td></tr>
-<tr><td>Tuesday</td><td>Assessed Cohort Meeting</td><td>75 minutes</td></tr>
-<tr><td>Wednesday</td><td>Write-up Selected Problem</td><td>60 minutes</td></tr>
-<tr><td>Wednesday</td><td>Class Meeting</td><td>75 minutes</td></tr>
-<!-- <tr><td colspan=2 align=center>Total Time</td><td>10 hours/week</td></tr> -->
-</table>
+**Project 3: Engineering a Covid Vaccine** (out Monday 21 February, due Friday 4 March) (Spring break is March 7-11, we will not have any assignments over spring break.)
 
-The schedule is designed to expect about 10 hours of total work per
-week, commensurate with a 3-unit course, and we expect this will work
-best for most students by spreading the work throughout the week
-following a schedule similar to the one above.
+**Project 4: Computing with Biology** (out Monday 14 March, due Sunday 27 March)
 
-Although we have sequentialized the preparation and problem working
-efforts, we expect for most students these will be done more fluidly
-and the time needs for preparation will vary. It will be valuable to
-read through the assigned problems at the beginning of the week, and
-to attempt to solve problems as you complete the relevant preparation
-materials, rather than doing all the preparation materials first and
-then approaching the problems.
+**Final Project** (final projects due Monday 2 May, last day of class,
+with several intermediate deliverables and short presentations). The
+final project will be open-ended, and could involve either explaning
+a topic or recent result in biology, doing an original research
+project, or something else of value and relevant to the course.
 
-The actual schedule will vary based on the date of a student's
-assessed cohort meeing, and all students are expected to participate
-fully in their cohort's scheduled meetings (both the preparation
-meeting without staff, and the assessed meeting with the TA).
+## Quizzes
 
-Students will be assigned to cohorts based on the information you
-provide in the beginning-of-course survey. Cohort assignments will be
-done around student's provided scheduling constraints.
-
-## Problem Sets
-
-For each week, we will provide a reading assignment (these will nearly
-always be from the [_Introduction to Theoretical Computer
-Science_](https://introtcs.org/public/index.html) textbook and a set
-of recorded videos that cover the concepts for the week.
-
-There will be a problem set with problems designed to develop your
-understanding of these concepts. We hope students will find value in
-applying theoretical insights to computer science practice, and we
-will also provide more concrete exercises to help students grasp
-theoretical ideas. For this reason, problem sets will contain a
-mixture of theoretically-focused written problems (with an emphasis on
-developing proofs) and integration-focused programming problems.
-
-The assessed cohort meetings will focus on presenting and discussing
-problems in the assigned problem set. At the end of the cohort
-meeting, one or two problems will be selected to write-up and students
-in the cohort will be expected to write up a clear, correct, and well
-explaned solution to the selected problem. The cohort as a group will
-be responsible for writing the solution and submitting it as a group.
+To see how well students are understanding concepts in the course, and
+incentivize students to do preparation readings when assigned, we
+might have occasional, short quizzes. The details on these quizzes,
+and how they will be scheduled, will depend on how the class is going.
 
 
 ## Grading
 
-We encourage students to spend your energy focusing on what you are
-learning, instead of worrying about your grade. That said, we
-understand students are often stressed about grading and
-understandably want to know where they stand in a class without having
-to rely just on the judgment of the course staff.  We aim to grade in
-a way that is useful (provides students with accurate measure of how
-well they understood what they should), motivating (encourages the
-behaviors we prefer, including hard but not obsessive work), fair
-(assigned higher grades to more deserving students), robust (arbitrary
-small perturbations do not have a material impact on someone's grade),
-and low stress (for both students and the course staff).
+Since this is an upper-level elective, we hope students are not overly
+stressed about grading and mostly focused on learning and doing
+worthwhile things. That said, we understand students are often
+stressed about grading and understandably want to know where they
+stand in a class without having to rely just on the judgment of the
+course instructor.  We aim to grade in a way that is useful (provides
+students with accurate measure of how well they understood what they
+should), motivating (encourages the behaviors we prefer, including
+hard but not obsessive work), fair (assigned higher grades to more
+deserving students), robust (arbitrary small perturbations do not have
+a material impact on someone's grade), and low stress (for both
+students and the course staff). You will get grades for the projects
+that make it clear how well you have met our expectations, and will
+get informative grades for any quizzes.
 
-**Exams.** There will be a final exam, scheduled by the registrar at
-  2-5pm on **Friday, 10 December 2021**. The logistics of the final
-  will depend on pandemic conditions in December, and we will
-  announce more details on how the final will be conducted before
-  Thanksgiving break. The content of the final will be comprehensive,
-  designed to assess students' understanding of the most important
-  concepts in the course and ability to use them to solve problems and
-  communicate arguments in writing.
-
-**Cohort Grading.** Students performance in the weekly cohort
-meetings will be evaluated based on how well they are able to present
-problems at these meetings. It is not necessary or expected that
-students can solve every problem or have a complete solution, and the
-cohort meetings are meant more for learning than assessment, but it is
-expected that every student in the cohort is prepared to discuss every
-problem in the assigned problem set.
-
-**Writing Grading.** Each week during the assessed cohort meeting the
-TA will assign one problem for a formal write-up. Students will be
-assessed by how well they can apply their knowledge and TA feedback 
-to clearly present a complete and correct solution to this problem.
-
-
-Students will be assigned a grade based on their performance at the
-cohort meeting on this scale:
-
-<table class="grades">
-  <thead>
-    <tr>
-      <th width="20%" style="text-align:center;">Grade</th>
-      <th width="50%">Meaning</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-    <tr><td style="text-align:center;">3</td><td>Able to present on the selected problem well and to demonstrate good understanding of key concepts.</td></tr>
-<tr><td style="text-align:center;">2</td><td>Able to demonstrate some understanding of key concepts and preparation effort, but not able to make progress on the selected problem.</td></tr>
-<tr><td style="text-align:center;">1</td><td>Showed some understanding of the concepts needed to solve the selected problem, but not well prepared or able to make steps towards a reasonable solution.</td></tr>
-<tr><td style="text-align:center;">0</td><td>Not able to contribute to the cohort meeting.</td></tr>
-</tbody>
-</table>
-
-
-Students will be assigned a grade based on their writeup
-quality on this scale:
-
-<table class="grades">
-  <thead>
-    <tr>
-      <th width="20%" style="text-align:center;">Grade</th>
-      <th width="50%">Meaning</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-<tr><td style="text-align:center;">2</td><td>Writeup correctly solves the problem with a clearly-presented description</td></tr>
-<tr><td style="text-align:center;">1</td><td>Writeup is correct except for some missing components or minor errors</td></tr>
-<tr><td style="text-align:center;">0</td><td>Writeup contains major misconceptions, does not consider feedback from assessed meeting, or else presentation is unclear.</td></tr>
-</tbody>
-</table>
-
-
-
-
-We will make allowances for cases where a student is not able to make
-a scheduled cohort meeting due to extenuating circumstances and
-provide a way for students to request an exemption due to a valid
-reason for being unable to make a cohort meeting. Otherwise, a student
-who misses a cohort meeting received 0 cohort assessment points for
-that week. We consider medical issues, personal trauma, legal
-obligations, family responsibilities, and other justifiable conflicts
-to be valid reasons for missing cohort meetings, and students who are
-not able to make a scheduled cohort meeting for such reasons will not
-be disadvantaged as a result. In cases where a student has to miss
-more than two cohort meetings during the semester, we will provide an
-alternate assessment through an individual video meeting.
-
-Following each cohort meeting, students will receive a grade and brief
-feedback from their TA. We hope this grading will be simple and clear
-enough that students will nearly always understand and agree with the
-grade they are assigned, but in cases where students feel they were
-graded unfairly there will be a mechanisms to request a
-reconsideration by the course instructors. To support this, the
-assessed cohort meetings will be recorded, but the recordings will not
-be released beyond the course staff.
-
-We will have 12 assessed cohort meetings during the semester (thus 60
-total points available for full credit, and some opportunities for
-bonus points). The individual cohort performance grade for students
-will be based on this scale:
-
-<center>
-<table class="grades" style="width:50%;">
-  <thead>
-    <tr>
-      <th width="50%" style="text-align:center;">Cohort + Writeup Points</th>
-      <th width="50%">Individual Grade</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-    <tr><td style="text-align:center;">51</td><td style="text-align:center;"><b>A</b></td></tr>
-    <tr><td style="text-align:center;">42</td><td style="text-align:center;"><b>B</b></td></tr>
-    <tr><td style="text-align:center;">36</td><td style="text-align:center;"><b>C</b></td></tr>
-</tbody>
-</table>
-</center>
- 
-With the exception of cases of academic dishonesty or inappropriate
-behavior, we guarantee that you will at least receive the minimum
-letter grade given in the table (possibly modified by a <b>-</b> based
-on the community grading described below), but you may be assigned a
-higher grade based on your overall performance and showing improvement
-over the course of the semester.
-
-<a name="bonus"></a>
-**Bonus Points.** We hope students will go beyond the provided
-assignments and do other things to contribute to the class as well as
-beyond. We provide some concrete opportunities for this in the form of
-_Challenge Problems_, but also will award bonus points for relevant
-and creative activities that students invent on their own. We also
-offer bounty bonuses for contributions to the course textbook: having
-a Pull Request accepted by the author is worth something (even if it
-is just a simple typo fix) is worth one or more bonus cohort
-assessment points, and becoming the [#2 contributor (by "Additions")
-to the book
-repository](https://github.com/boazbk/tcs/graphs/contributors?from=2017-07-23&to=2020-08-08&type=a)
-is worth an automatic A in the class.
-
-An additional bonus opportunity is to create an interesting artifact
-(could be a
-[vi](https://youtu.be/YC-ewXitC5w)[deo](https://youtu.be/PeRRF3jrHbQ),
-[song](https://soundcloud.com/max-rifkin/discrete-song-copy), [comic
-book](http://dori-mic.org/), or some other artifact that can be
-distributed on the Internet) that conveys something (at least loosely)
-related to theoretical computer science. We will post more information
-on this later, but to get an idea of what it will be and to start
-thinking of ideas for this, see what students did [last
-year](https://uvatoc.github.io/f20/week12highlights/).
-
-**Community Grading.** In addition to the individual cohort assessment
-  grades, each cohort will receive a community grade based on how well
-  the cohort does as a group. This will be mainly determined by the
-  overall performance of the cohort during assessed cohort
-  meetings. Doing well on this depends on all members of the cohort
-  being prepared to present problems well. This will be determined
-  based on the sum of the individual cohort assessments, the weekly
-  individual minimum individual cohort assessment, and the trend of
-  these values over the semester. It will also benefit a cohort's
-  community grade if all members of the cohort do well on the final
-  exam.
-
-The community grade typically will impact individual final grades by
-up to half a letter grade. In most cases, the community grade will
-apply equally to all members of the cohort. In unusual cases where it
-is clear that one member of a cohort is not contributing, or there are
-reasons why a cohort is not succeeding that are beyond the
-responsiblity of individual students in that cohort, appropriate
-adjustments will be made.
-
-**Final Grade Determination.** The final grade in the course will be
-determined by combining the cohort grade and the final exam grade with
-both counting substantially. In most cases, we expect the cohort and
-exam grades will be consistent and provide clear evidence supporting
-the grade a student has earned in the course. In cases where they are
-inconsistent, we will consider a student's performance through the
-course in more detail including the detailed feedback provided from
-the cohort meetings, and view signs of improvement throughout the
-semester positively.  In cases where a student's grade is not clear
-based on their cohort assessments, we will provide option for students
-to request an oral final exam to be scheduled with one of the
-instructors during the exam period.
-
-
-# Honor Expectations
-
-We believe strongly in the value of a community of trust, and expect
-all of the students in this class to contribute to strengthening and
-enhancing that community.
-
-The course will be better for everyone if everyone can assume everyone
-else is trustworthy. The course staff starts with the assumption that
-all students at the university deserve to be trusted. 
-
-To ensure that expectations are clear to everyone, all students are
-required to read, understand, and sign the course pledge:
-[https://uvatoc.github.io/pledge](https://uvatoc.github.io/pledge).
-
-**Collaboration Policy:** We believe it is important for students to
-learn by thinking about problems on their own, so it is expected that
-each student studies the provided materials and attempts to solve the
-problems on their own, before discussing the problems with cohortmates
-at the cohort meeting. You are welcome to also discuss problems with
-students and others who are not in your cohort, and to share what you
-learn from them with your cohortmates.
-
-Many problems in this course will be selected from problems used in
-previous courses, as well as well known problems. The goal of these
-problems is to lead students to develop understanding of the
-underlying concepts by working through the problems themselves and in
-discussions with others, and this goal would be defeated if you
-instead use posted solutions to the problems (it will also probably be
-clear in the assessed cohort meetings if you do not understand a
-problem as deeply as you would if you solved in yourself). Other than
-using solutions to the specific problems you are given, students are
-encouraged to use any other resources they find helpful.
-  
-The collaboration policy will be described on each assignment
-  document. We aim to make the language describing the policy as clear
-  and unambiguous as possible, but if anything is ever unclear about
-  the stated policy for an assignment, please clarify with the course
-  staff. The penalty for policy violations will be considered on a
-  case-by-case basis, with a penalty commensurate the severity of the
-  offense.
-
-# Additional Information
-
-**Special Circumstances:** The University of Virginia strives to provide accessibility to all students. If you require an accommodation to fully access this course, please contact the Student Disability Access Center (SDAC) at (434) 243-5180 or `sdac@virginia.edu`. If you are unsure if you require an accommodation, or to learn more about their services, you may contact the SDAC at the number above or by visiting their website [https://studenthealth.virginia.edu/sdac](https://studenthealth.virginia.edu/sdac)
-
-For this course, we ask that students with special circumstances let
-us know as soon as possible, preferably during the first week of
-class. This will be especially important if there is a reason you
-would not be able to participate fully in a scheduled cohort.
-
+The final grade in the course will be determined based mostly on the
+grades on your projects throughout the semester. If you do well on all
+the projects, you'll get an A in the course. If you do exceptionally
+well on the final project, this will more than make up for any
+mediocre grades on the early projects. Performance on quizzes and
+other contributions to the class may also be used to adjust student's
+grades. In general, I don't have a single, simple, formula that is a
+function that takes in point values for all assignments and outputs a
+grade, but instead will analyze all of your performance in the course
+in several different ways to determine a grade that best reflects your
+overall learning and contributions to the course.  
 
 **Accommodations:** It is the University's long-standing policy and
   practice to reasonably accommodate students so that they do not
   experience an adverse academic consequence when sincerely held
   religious beliefs or observances conflict with academic
   requirements. Although University policy only recognizes religious
-  accomodations, the course instructors believe they are many other
+  accomodations, the course instructor believes they are many other
   valid reasons for accomdations that are at least as justifiable as
   ones for religious observance and consider family obligations,
   personal crises, and extraordinary opportunities to all be
-  potentially valid reasons for accomodations.  Students who wish to
-  request academic accommodation should submit their request in
-  writing to Prof. Brunelle or Prof. Evans as far in advance as
-  possible.
+  potentially valid reasons for accomodations.
 
-If you have questions or concerns about the University policy on
-  academic accommodations for religious observance or religious
-  beliefs, visit
-  [https://eocr.virginia.edu/accommodations-religious-observance](https://eocr.virginia.edu/accommodations-religious-observance)
-  or contact the University's Office for Equal Opportunity and Civil
-  Rights (EOCR) at `UVAEOCR@virginia.edu` or 434-924-3200.
+In general, I don't think I should make value judgements about this -
+  what matters is that it is _something important to you_, that you
+  have _little scheduling control over_, and that you _make the
+  request_ as early as you should be able to know an accomodation is
+  necessary and are flexible in working with me to find an
+  alternative.
+
+## Honor Expectations
+
+We believe strongly in the value of a community of trust, and expect
+all of the students in this class to contribute to strengthening and
+enhancing that community.
+
+The course will be better for everyone if everyone can assume everyone
+is trustworthy. The course staff starts with the assumption that all
+students at the university deserve to be trusted.
+
+To ensure that expectations are clear to everyone, all students are
+required to read, understand, and sign the [course pledge](/pledge).
+
+**Collaboration Policy:** Many of the assignments in this course will
+require or allow you to work with others; some may require you to work
+on your own.  The collaboration policy will be described on each
+assignment document. The main expectation is that you do not
+misrepresent others work as your own, or do things that obviously
+violate the intent of the stated collaboration policy. We aim to make
+the language describing the policy as clear and unambiguous as
+possible, but if anything is ever unclear about the stated policy for
+an assignment, please clarify with the course staff. The penalty for
+policy violations will be considered on a case-by-case basis, with a
+penalty commensurate the severity of the offense.
+
+## Additional Information
+
+This is generic information that is probably included in most of your
+course syllabi.
+
+**Special Circumstances:** The University of Virginia strives to
+  provide accessibility to all students. If you require an
+  accommodation to fully access this course, please contact the
+  Student Disability Access Center (SDAC) at (434) 243-5180 or
+  `sdac@virginia.edu`. If you are unsure if you require an
+  accommodation, or to learn more about their services, you may
+  contact the SDAC at the number above or by visiting their website
+  [https://studenthealth.virginia.edu/sdac](https://studenthealth.virginia.edu/sdac)
 
 **Safe Environment:** The University of Virginia is dedicated to
   providing a safe and equitable learning environment for all
@@ -516,29 +357,50 @@ violence, more information can be found on the UVA Sexual Violence
 website that describes reporting options and resources available:
 [https://www.virginia.edu/sexualviolence](https://www.virginia.edu/sexualviolence).
    
-As your professors and as humans, know that we each care about you and
-your well-being and stand ready to provide support and resources as we
-can. As faculty members, we are responsible employees, which means
-that we are required by University policy and federal law to report
-what you tell us to the University's Title IX Coordinator. The Title
-IX Coordinator's job is to ensure that the reporting student receives
-the resources and support that they need, while also reviewing the
+As your professor and as a human, know that I care about you and your
+well-being and stand ready to provide support and resources as I
+can. As a faculty member, I am a _responsible employee_, which means
+that I am required by University policy and federal law to report what
+you tell me to the University's Title IX Coordinator. The Title IX
+Coordinator's job is to ensure that the reporting student receives the
+resources and support that they need, while also reviewing the
 information presented to determine whether further action is necessary
 to ensure survivor safety and the safety of the University
 community. If you would rather keep this information confidential,
 there are Confidential Employees you can talk to on Grounds (see
-[https://eocr.virginia.edu/chart-confidential-resources](https://eocr.virginia.edu/chart-confidential-resources)  ). The
-worst possible situation would be for you or your friend to remain
-silent when there are so many here willing and able to help.
+[https://eocr.virginia.edu/chart-confidential-resources](https://eocr.virginia.edu/chart-confidential-resources)
+). The worst possible situation would be for you or your friend to
+remain silent when there are so many here willing and able to help.
 
-**Well-being:** If you are feeling overwhelmed, stressed, or isolated,
-there are many individuals here who are ready and wanting to help. The
-Student Health Center offers Counseling and Psychological Services
-(CAPS) for all UVA students. Call 434-243-5150 (or 434-972-7004 for
-after hours and weekend crisis assistance) to get started and schedule
-an appointment. If you prefer to speak anonymously and confidentially
-over the phone, Madison House provides a HELP Line at any hour of any
-day: 434-295-8255.
+**Student Support Team:** You have many resources available to you
+  when you experience academic or personal stresses. In addition to
+  your professor, the School of Engineering and Applied Science has
+  three staff members located in Thornton Hall who you can contact to
+  help manage academic or personal challenges (students in the College
+  or other schools may have additional resources available to you
+  through your enrolled school, but since this course is offered
+  through SEAS, these resources are available to any student in this
+  class). Please do not wait until the end of the semester to ask for
+  help!
 
+_Lisa Lampe_, Director of Undergraduate Education (academic), ll4uu@virginia.edu  
+_Blake Calhoun_, Director of Undergraduate Success (academic), bic4sc@virginia.edu  
+_Alex Hall_, Assistant Dean of Students (non-academic issues), aec5d@virginia.edu  
+
+In addition to having an Assistant Dean of Students embedded in
+Engineering, we are also fortunate to have two CAPS counsellors
+embedded in SEAS. You may schedule time with Elizabeth Ramirez-Weaver
+or Katie Fowler through Student Health
+(https://www.studenthealth.virginia.edu/getting-started-caps). You are
+also urged to use TimelyCare for either scheduled or on-demand 24/7
+mental health care.
+
+Finally, the Center for Diversity in Engineering facilitates free
+tutoring during the academic year, helps students locate internships
+and research opportunities, and connects students with the many
+organizations on Grounds that provide information and support. The
+center also engages with student organizations, particularly those
+serving students who are traditionally underrepresented in
+engineering.
 
 

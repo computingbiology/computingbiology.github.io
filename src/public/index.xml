@@ -8,7 +8,35 @@
     <language>en-us</language>
     <managingEditor>evans@virginia.edu (David Evans)</managingEditor>
     <webMaster>evans@virginia.edu (David Evans)</webMaster>
-    <lastBuildDate>Fri, 14 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Schedule</title>
+      <link>https://computingbiology.github.io/schedule/</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/schedule/</guid>
+      <description>Class Meetings Mondays and Wednesday, 12:30pm – 1:45pm in Olsson Hall 018.
+Office Hours David Evans: Wednesdays, after class until 2:55pm in Rice 507 (or other locations on the way from class). To meet at another time, use https://davidevans.youcanbook.me/ to schedule a time.
+Hyun Jae Cho: to be scheduled.
+Anshuman Suri: to be scheduled.
+Projects These deadlines and the topics are likely to change (but will be updated when projects are assigned).</description>
+    </item>
+    
+    <item>
+      <title>Syllabus</title>
+      <link>https://computingbiology.github.io/syllabus/</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/syllabus/</guid>
+      <description>This syllabus is a &amp;ldquo;semi-living document&amp;rdquo; (i.e., more like a virus than a bacterium) subject to change as we adapt during the semester. The course website is managed through a public github repository, so you can see past versions and changes there.
+The version as posted on the first day of class is here
+Overview Course Description: This course will look at connections between computing and biology, with a focus on DNA.</description>
+    </item>
+    
     <item>
       <title>Course Slack</title>
       <link>https://computingbiology.github.io/slack/</link>
