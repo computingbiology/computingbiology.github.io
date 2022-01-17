@@ -315,8 +315,9 @@ The course will be better for everyone if everyone can assume everyone
 is trustworthy. The course staff starts with the assumption that all
 students at the university deserve to be trusted.
 
-To ensure that expectations are clear to everyone, all students are
-required to read, understand, and sign the [course pledge](/pledge).
+To ensure that expectations are clear to everyone, **all students are
+required to read, understand, and sign (virtually on your [registration
+survey](/survey)) the [course pledge](/pledge)**.
 
 **Collaboration Policy:** Many of the assignments in this course will
 require or allow you to work with others; some may require you to work
