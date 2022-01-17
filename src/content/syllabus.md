@@ -43,6 +43,8 @@ biological substances and ideas to compute.
   and immune systems and algorithmic perspectives on evolutionary
   processes.
 
+- Learn to think like a computational biologist.
+
 - Be able to read and understand some research papers in computational
   biology, and present key ideas in biomedical work in ways that are
   understandable to computer scientists.
