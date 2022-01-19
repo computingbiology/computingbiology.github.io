@@ -16,7 +16,7 @@ other locations on the way from class). To meet at another time, use [https://da
 
 [**Hyun Jae Cho**](https://hyunjaecho94.github.io/): Mondays, after class until 3:00pm in Rice 542.
 
-[**Anshuman Suri**](https://www.anshumansuri.me/): to be scheduled.
+[**Anshuman Suri**](https://www.anshumansuri.me/): Fridays, 12-1PM in Rice 442.
 
 ## Projects
 
