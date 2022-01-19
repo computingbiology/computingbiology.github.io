@@ -8,7 +8,11 @@
     <language>en-us</language>
     <managingEditor>evans@virginia.edu (David Evans)</managingEditor>
     <webMaster>evans@virginia.edu (David Evans)</webMaster>
-    <lastBuildDate>Wed, 19 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Jan 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Week 1</title>
       <link>https://computingbiology.github.io/week1/</link>
@@ -48,8 +52,8 @@ I will not lie, cheat or steal. If I am unsure whether something would be consid
       <guid>https://computingbiology.github.io/schedule/</guid>
       <description>Class Meetings Mondays and Wednesday, 12:30pm – 1:45pm in Olsson Hall 018.
 Office Hours David Evans: Wednesdays, after class until 2:55pm in Rice 507 (or other locations on the way from class). To meet at another time, use https://davidevans.youcanbook.me/ to schedule a time.
-Hyun Jae Cho: to be scheduled.
-Anshuman Suri: to be scheduled.
+Hyun Jae Cho: Mondays, after class until 3:00pm in Rice 542.
+Anshuman Suri: Fridays, 12-1PM in Rice 442.
 Projects These deadlines and the topics are likely to change (but will be updated when projects are assigned).</description>
     </item>
     
