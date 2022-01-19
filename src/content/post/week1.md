@@ -27,5 +27,14 @@ Algorithms_: [_How do we assemble genomes?_](//www.bioinformaticsalgorithms.org/
 
 ## Slides
 
-The slides from class and links to additional materials will be posted
-shortly after class.
+The slides from class are here: [class1.pdf](https://www.dropbox.com/s/9q5xbdcey0azw4t/csbio-class1-inked.pdf?dl=0)
+
+Some links to materials for the first class:
+
+- Koshland's [Seven Pillars of Life](https://www.science.org/doi/10.1126/science.1068489), Science, 22 March 2002.
+
+- [Lavoisier's letter to Thomas Jefferson](https://founders.archives.gov/documents/Jefferson/01-11-02-0208), 3 May 1787.
+
+- My talk on [_What Biology Can (and Can't) Teach Us About Security_](http://www.cs.virginia.edu/~evans/talks/usenix04/). USENIX Security Symposium 2004.
+
+- [Astrobiology at NASA](https://astrobiology.nasa.gov/research/life-detection/about/)
