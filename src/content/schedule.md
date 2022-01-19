@@ -14,7 +14,7 @@ Mondays and Wednesday, 12:30pm &ndash; 1:45pm in Olsson Hall 018.
 [**David Evans**](//www.cs.virginia.edu/evans): Wednesdays, after class until 2:55pm in Rice 507 (or
 other locations on the way from class). To meet at another time, use [https://davidevans.youcanbook.me/](https://davidevans.youcanbook.me/) to schedule a time.
 
-[**Hyun Jae Cho**](https://hyunjaecho94.github.io/): to be scheduled.
+[**Hyun Jae Cho**](https://hyunjaecho94.github.io/): Mondays, after class until 3:00pm in Rice 542.
 
 [**Anshuman Suri**](https://www.anshumansuri.me/): to be scheduled.
 
