@@ -10,7 +10,7 @@ slug = "week1"
 
 Before **4:59pm Friday, 21 January**: 
 
-- Join the [Course Slack](https://computingbiology.slack.com/)
+- Join the [Course Slack](https://join.slack.com/t/computingbiology/signup)
 - Read the [Syllabus](/syllabus/),
 [Pledge](/pledge/), and complete the [Registration Survey](/survey).
 
