@@ -8,7 +8,21 @@
     <language>en-us</language>
     <managingEditor>evans@virginia.edu (David Evans)</managingEditor>
     <webMaster>evans@virginia.edu (David Evans)</webMaster>
-    <lastBuildDate>Mon, 24 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 1: Assembling Genomes</title>
+      <link>https://computingbiology.github.io/project1/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/project1/</guid>
+      <description>To get started on Project 1, one of the team members should fork this github repo: https://github.com/computingbiology/Project-1-Genome-Assembly.
+The file, project1.ipynb in the repository is a jupyter notebook that has the assignment and is where you will enter your answers. Once you&amp;rsquo;ve installed jupyter (pip install jupyterlab or see https://jupyter.org/install for more details and other options), you&amp;rsquo;ll be able to get started on the assignment by running: jupyter notebook project1.ipynb.</description>
+    </item>
+    
     <item>
       <title>Week 2</title>
       <link>https://computingbiology.github.io/week2/</link>
