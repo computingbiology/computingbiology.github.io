@@ -19,7 +19,7 @@
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
       <author>evans@virginia.edu (David Evans)</author>
       <guid>https://computingbiology.github.io/project1/</guid>
-      <description>&amp;lt;center&amp;gt;Due: &amp;lt;b&amp;gt;Tuesday, 8 February, 4:59pm&amp;lt;/b&amp;gt;&amp;lt;/center&amp;gt;  To get started on Project 1, one of the team members should fork this github repo: https://github.com/computingbiology/Project-1-Genome-Assembly.
+      <description>Due: Tuesday, 8 February, 4:59pm To get started on Project 1, one of the team members should fork this github repo: https://github.com/computingbiology/Project-1-Genome-Assembly.
 The file, project1.ipynb in the repository is a jupyter notebook that has the assignment and is where you will enter your answers.
 You&amp;rsquo;ll be able to get started on the assignment by running: jupyter notebook project1.ipynb.
 If you don&amp;rsquo;t have Jupyter installed, you&amp;rsquo;ll need to install this first: pip install jupyterlab or see https://jupyter.</description>
