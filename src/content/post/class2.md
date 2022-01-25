@@ -1,9 +1,9 @@
 +++
 date = "24 Jan 2022"
 draft = false
-title = "Week 2"
+title = "Class 2"
 author = "David Evans"
-slug = "week2"
+slug = "class2"
 +++
 
 ## Slides
