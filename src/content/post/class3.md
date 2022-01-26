@@ -20,6 +20,10 @@ Due **Tuesday, 8 February (4:59pm)**: [Project 1](/project1)
 
 The slides from 26 January class are here: [class3.pdf](https://www.dropbox.com/s/pfvey0p75yool5v/csbio-class3.pdf?dl=0)
 
+<center>
+<a href="https://www.dropbox.com/s/v025n58qiisi4g5/humangenomemosiac.jpg?dl=0"><img src="https://www.dropbox.com/s/v025n58qiisi4g5/humangenomemosiac.jpg?dl=0" width="80%"></a>
+</center>
+
 Some links to materials for the class:
 
 - BRCA1 Patent: [_17Q-linked breast and ovarian cancer susceptibility gene_](https://patents.google.com/patent/US5747282A/en) [[PDF](https://patentimages.storage.googleapis.com/ea/54/59/c2b7ed13fd4994/US5747282.pdf)]
