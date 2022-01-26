@@ -21,7 +21,7 @@ Due **Tuesday, 8 February (4:59pm)**: [Project 1](/project1)
 The slides from 26 January class are here: [class3.pdf](https://www.dropbox.com/s/pfvey0p75yool5v/csbio-class3.pdf?dl=0)
 
 <center>
-<a href="https://www.dropbox.com/s/v025n58qiisi4g5/humangenomemosiac.jpg?dl=0"><img src="/images/humangenomemosaic-small.jpg"></a>
+<a href="https://www.dropbox.com/s/v025n58qiisi4g5/humangenomemosiac.jpg?dl=0"><img src="/images/humangenomemosaic-small.jpg" width="50%"></a>
 </center>
 
 Some links to materials for the class:
@@ -34,6 +34,10 @@ Association for Molecular Pathology et al.
 v. Myriad Genetics, Inc._](https://www.supremecourt.gov/opinions/12pdf/12-398_1b7d.pdf), June 2013.
 - International Human Genome Sequencing Consortium. [_Initial sequencing and analysis of the human genome_](https://www.nature.com/articles/35057062). 15 February 2001.
 - Francis Collins' [Commencement Address at UVA](https://majorevents.virginia.edu/finals/archive/collins2001), 20 May 2001.
+
+<center>
+<a href="/images/collins.png"><img src="/images/collins.png" width="75%"></a>
+</center>
 
 
 
