@@ -14,6 +14,19 @@
     
     
     <item>
+      <title>Class 3</title>
+      <link>https://computingbiology.github.io/class3/</link>
+      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/class3/</guid>
+      <description>Schedule and Readings Before Monday, 31 January:
+ Read Chapter 11 &amp;ndash; 18 of Hubert&amp;rsquo;s The DNA Book. Finish reading Chapter 3 (including 3.9) of the Bioinformatics Algorithms: How do we assemble genomes?.  Due Tuesday, 8 February (4:59pm): Project 1
+Slides The slides from 26 January class are here: class3.pdf
+Some links to materials for the class:
+  BRCA1 Patent: 17Q-linked breast and ovarian cancer susceptibility gene [PDF]</description>
+    </item>
+    
+    <item>
       <title>Project 1: Assembling Genomes</title>
       <link>https://computingbiology.github.io/project1/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
