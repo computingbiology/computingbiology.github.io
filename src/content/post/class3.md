@@ -21,7 +21,7 @@ Due **Tuesday, 8 February (4:59pm)**: [Project 1](/project1)
 The slides from 26 January class are here: [class3.pdf](https://www.dropbox.com/s/pfvey0p75yool5v/csbio-class3.pdf?dl=0)
 
 <center>
-<a href="https://www.dropbox.com/s/v025n58qiisi4g5/humangenomemosiac.jpg?dl=0"><img src="https://www.dropbox.com/s/v025n58qiisi4g5/humangenomemosiac.jpg?dl=0" width="80%"></a>
+<a href="https://www.dropbox.com/s/v025n58qiisi4g5/humangenomemosiac.jpg?dl=0"><img src="/images/humangenomemosaic-small.jpg"></a>
 </center>
 
 Some links to materials for the class:
