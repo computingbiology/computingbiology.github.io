@@ -29,7 +29,7 @@ Some links to materials for the class:
 - BRCA1 Patent: [_17Q-linked breast and ovarian cancer susceptibility gene_](https://patents.google.com/patent/US5747282A/en) [[PDF](https://patentimages.storage.googleapis.com/ea/54/59/c2b7ed13fd4994/US5747282.pdf)]
 
 - Kyle Jensen and Fiona Murray. [_Intellectual Property Landscape of the Human Genome_](/docs/jensen2005), Science, 2005.
-- [Supreme Court Decision in Association for Molecular Pathology et al. v. Myriad Genetics, Inc._](https://www.supremecourt.gov/opinions/12pdf/12-398_1b7d.pdf), June 2013.
+- [_Supreme Court Decision in Association for Molecular Pathology et al. v. Myriad Genetics, Inc._](https://www.supremecourt.gov/opinions/12pdf/12-398_1b7d.pdf), June 2013.
 - International Human Genome Sequencing Consortium. [_Initial sequencing and analysis of the human genome_](https://www.nature.com/articles/35057062). 15 February 2001.
 - Francis Collins' [Commencement Address at UVA](https://majorevents.virginia.edu/finals/archive/collins2001), 20 May 2001.
 
