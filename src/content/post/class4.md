@@ -19,13 +19,9 @@ Algorithms_: [_How do we compare biological sequences?_](//www.bioinformaticsalg
 
 ## Slides
 
-The slides from 31 January class are here: [class4.pdf](TODO)
+The slides from 31 January class are here: [class4.pdf](https://www.dropbox.com/s/y95x5zg5k5962wt/csbio-class4-inked.pdf?dl=0)
 
 Some links to materials for the class:
-
-- Saul B. Needleman and Christian D. Wunsch. [_A General Method Applicable to the Search for Similarities in the Amino Acid Sequence of Two Proteins_](/docs/needleman1970.pdf). Journal of Molecular Biology, 1970.
-
-- Robert A. Wagner and Michael J. Fischer. [_The String-to-String Correction Problem_](/docs/wagner1974.pdf). Journal of the Association of Computing Machinery, January 1974.
 
 - Richard W. Hamming, [_Mathematics on a Distant Planet_](/docs/hamming1998.pdf), The American Mathematical Monthly, 1998.
 
@@ -36,6 +32,11 @@ Some links to materials for the class:
 - [NCBI Basic Local Alignment Search Tool (BLAST)](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
 
 - Hovav Shacham. [_The Geometry of Innocent Flesh on the Bone: Return-into-libc without Function Calls (on the x86)_](https://hovav.net/ucsd/dist/geometry.pdf). ACM CCS 2007.
+
+- Saul B. Needleman and Christian D. Wunsch. [_A General Method Applicable to the Search for Similarities in the Amino Acid Sequence of Two Proteins_](/docs/needleman1970.pdf). Journal of Molecular Biology, 1970.
+
+- Robert A. Wagner and Michael J. Fischer. [_The String-to-String Correction Problem_](/docs/wagner1974.pdf). Journal of the Association of Computing Machinery, January 1974.
+
 
 
 
