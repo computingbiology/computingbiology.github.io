@@ -13,7 +13,7 @@ semester. The course website is managed through a [public github
 repository](https://github.com/computingbiology/computingbiology.github.io),
 so you can see past versions and changes there.
 
-The version as posted on the first day of class is [here](TODO)
+The version as posted on the first day of class is [here](https://github.com/computingbiology/computingbiology.github.io/blob/c097079e5236bd45e59e1afdeb2f5aa0cd7f71ac/src/content/syllabus.md).
 </div>
 
 ## Overview
@@ -238,11 +238,11 @@ longer open-end project for the final 5 weeks of the semester.
 
 The rough schedule and planned topics (which are likely to change) are:
 
-**Project 1: Assembling Genomes** (out Monday, 24 January, due Sunday 6 February)
+**Project 1: Assembling Genomes** (out Tuesday 25 January, due Tuesday 8 February)
 
-**Project 2: Genome Alignment and Analysis** (out Monday 7 February, due Sunday 20 February)
+**Project 2: Genome Alignment and Analysis** (out Wednesday 9 February, due Tuesday 22 February)
 
-**Project 3: Engineering a Covid Vaccine** (out Monday 21 February, due Friday 4 March) (Spring break is March 7-11, we will not have any assignments over spring break.)
+**Project 3: Engineering a Covid Vaccine** (out Wednesday 23 February, due Friday 4 March) (Spring break is March 7-11, we will not have any assignments over spring break.)
 
 **Project 4: Computing with Biology** (out Monday 14 March, due Sunday 27 March)
 

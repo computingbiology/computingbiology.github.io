@@ -22,9 +22,9 @@ other locations on the way from class). To meet at another time, use [https://da
 
 These deadlines and the topics are likely to change (but will be updated when projects are assigned).
 
-**Project 1: Assembling Genomes** (out Monday, 24 January, due Sunday 6 February)  
-**Project 2: Genome Alignment and Analysis** (out Monday 7 February, due Sunday 20 February)  
-**Project 3: Engineering a Covid Vaccine** (out Monday 21 February, due Friday 4 March)  
+**Project 1: Assembling Genomes** (out Tuesday, 25 January, due Tuesday 8 February)  
+**Project 2: Genome Alignment and Analysis** (out Wednesday, 9 February, due Tuesday 22 February)  
+**Project 3: Engineering a Covid Vaccine** (out Wednesday 23 February, due Friday 4 March)  
 **Project 4: Computing with Biology** (out Monday 14 March, due Sunday 27 March)
 
 **Final Project**: final projects due Monday 2 May (last day of class), 
