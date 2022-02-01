@@ -1,9 +1,9 @@
 +++
 date = "31 Jan 2022"
 draft = false
-title = "Class 3"
+title = "Class 4"
 author = "David Evans"
-slug = "class3"
+slug = "class4"
 +++
 
 ## Schedule and Readings

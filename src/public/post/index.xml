@@ -8,13 +8,17 @@
     <language>en-us</language>
     <managingEditor>evans@virginia.edu (David Evans)</managingEditor>
     <webMaster>evans@virginia.edu (David Evans)</webMaster>
-    <lastBuildDate>Mon, 31 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Jan 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://computingbiology.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
-      <title>Class 3</title>
-      <link>https://computingbiology.github.io/class3/</link>
+      <title>Class 4</title>
+      <link>https://computingbiology.github.io/class4/</link>
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
       <author>evans@virginia.edu (David Evans)</author>
-      <guid>https://computingbiology.github.io/class3/</guid>
+      <guid>https://computingbiology.github.io/class4/</guid>
       <description>Schedule and Readings Due Tuesday, 8 February (4:59pm): Project 1
 Before Wednesday, 9 February:
  Read Chapter 19 &amp;ndash; 26 of Hubert&amp;rsquo;s The DNA Book. (Chapter 19 is a bit different, but may be useful to give you ideas for the kinds of things you could do for the Final Project.) Read Chapter 5 of the Bioinformatics Algorithms: How do we compare biological sequences?.  Slides The slides from 31 January class are here: class4.</description>
