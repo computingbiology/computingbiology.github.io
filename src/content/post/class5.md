@@ -12,14 +12,13 @@ Due **Tuesday, 8 February (4:59pm)**: [Project 1](/project1)
 
 Before **Wednesday, 9 February**:
 - Read Chapter 19 -- 26 of Hubert's [The DNA
-  Book](https://berthub.eu/dna-book/toc-real/). (Chapter 19 is a bit different, but may be useful to give you ideas for the kinds of things you could do for the Final Project.)
+  Book](https://berthub.eu/dna-book/toc-real/). (Chapter 26 on _Mutations and Changes_ is the one most relevant to today's class.)
 - Read Chapter 5 of the _Bioinformatics
 Algorithms_: [_How do we compare biological sequences?_](//www.bioinformaticsalgorithms.org/bioinformatics-chapter-5).
 
-
 ## Slides
 
-The slides from 31 January class are here: [class4.pdf](https://www.dropbox.com/s/y95x5zg5k5962wt/csbio-class4-inked.pdf?dl=0)
+The slides from 2 February class are here: [class5.pdf](TODO)
 
 Some links to materials for the class:
 
@@ -27,3 +26,7 @@ Some links to materials for the class:
   base substitutions through comparative studies of nucleotide
   sequences_](/docs/kimura1980.pdf). Journal of Molecular Evolution,
   1980.
+
+- William Pearson. [_Rapid and Sensitive Sequence Comparison with FASTP and FASTA_](/docs/pearson1990.pdf), Methods in Enzymology, 1990. (Includes the PAM 250 scoring matrix.)
+
+- [NCBI Blast](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
