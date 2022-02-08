@@ -43,15 +43,15 @@ Wednesday, 19 January: [Class 1: Why is life digital?](/class1)
 ### Genomes and Assembly
 
 Monday, 24 January: [Class 2: Genomes](/class2)  
-Wednesday, 26 January: [Class 3: Assembly](/class3)  
-Monday, 31 January: [Class 4: Cells](/class4)  
-Wednesday, 2 February: [Class 5: Faster Assembly](/class5)  
+Wednesday, 26 January: [Class 3: Assembly (Human Genome Project)](/class3)  
+Monday, 31 January: [Class 4: Analyzing Genomes](/class4)  
+Wednesday, 2 February: [Class 5: Sequence Alignment](/class5)  
 
 ### Analyzing Genomes
 
-Monday, 7 February: [Class 6: Genome Alignment](/class6)  
-Wednesday, 9 February: [Class 7: Genomes and Disease](/class7)  
-Monday, 14 February: [Class 8: Phylogeny](/class8)  
+Monday, 7 February: [Class 6: More Sequence Alignments](/class6)  
+Wednesday, 9 February: [Class 7: Phylogeny](/class7)  
+Monday, 14 February: [Class 8: More Phylogeny](/class8)  
 Wednesday, 16 February: [Class 9: Understanding Virus Variants](/class9)  
 
 ### Genetic Engineering
