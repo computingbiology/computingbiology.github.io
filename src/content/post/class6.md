@@ -30,6 +30,7 @@ Some links to materials for the class:
 - Orsolya Vincze, et al. [_Cancer risk across mammals_](https://www.nature.com/articles/s41586-021-04224-5), Nature, 22 December 2021. This is the paper with the diagram showing the cancer mortality risk variation across different orders of mammals (an "order" is taxonomic rank above a family).
 
 <center><a href="/images/cancerorders.ong"><img src="/images/cancerorders.png" width="80%"></a>
+</center>
 
 - See also this video (thanks Grant!): [_Why Blue Whales Don't Get Cancer - Peto's Paradox_](https://www.youtube.com/watch?v=1AElONvi9WQ) (which is based on this paper: John D. Nagy, Erin M. Victor, Jenese H. Cropper, [_Why don't all whales have cancer? A novel hypothesis resolving Peto's paradox_](https://pubmed.ncbi.nlm.nih.gov/21672841/), 2007.
 
