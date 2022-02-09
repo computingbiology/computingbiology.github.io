@@ -1,7 +1,7 @@
 +++
 date = "26 Jan 2022"
 draft = false
-title = "Class 3"
+title = "Class 3: Assembly, Human Genome Project"
 author = "David Evans"
 slug = "class3"
 +++

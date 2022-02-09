@@ -1,9 +1,9 @@
 +++
 date = "07 Feb 2022"
 draft = false
-title = "Class 6"
+title = "Class 6: More Alignment"
 author = "David Evans"
-slug = "class5"
+slug = "class6"
 +++
 
 ## Schedule and Readings

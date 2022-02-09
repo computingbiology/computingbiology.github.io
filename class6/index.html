@@ -2,7 +2,7 @@
 <html class="no-js" lang="en-us">
   <head>
     <meta charset="utf-8">
-    <title>Class 4: Analyzing Genomes | Computational Biology / Biological Computing</title>
+    <title>Class 6: More Alignment | Computational Biology / Biological Computing</title>
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
@@ -67,10 +67,10 @@
   <div class="column small-12 medium-10 medium-offset-1 end large-8 large-offset-0">
     <article class="article" itemscope itemtype="http://schema.org/Article">
       
-      <h1 itemprop="name">Class 4: Analyzing Genomes</h1>
+      <h1 itemprop="name">Class 6: More Alignment</h1>
       <div class="post-metadata">
   <span class="post-date">
-    <time datetime="2022-01-31 00:00:00 &#43;0000 UTC" itemprop="datePublished">31 January 2022</time>
+    <time datetime="2022-02-07 00:00:00 &#43;0000 UTC" itemprop="datePublished">7 February 2022</time>
   </span>
   
 </div>
@@ -81,50 +81,53 @@
 <p>Before <strong>Wednesday, 9 February</strong>:</p>
 <ul>
 <li>Read Chapter 19 &ndash; 26 of Hubert&rsquo;s <a href="https://berthub.eu/dna-book/toc-real/">The DNA
-Book</a>. (Chapter 19 is a bit different, but may be useful to give you ideas for the kinds of things you could do for the Final Project.)</li>
+Book</a>. (Chapter 26 on <em>Mutations and Changes</em> is the one most relevant to today&rsquo;s class.)</li>
 <li>Read Chapter 5 of the <em>Bioinformatics
 Algorithms</em>: <a href="//www.bioinformaticsalgorithms.org/bioinformatics-chapter-5"><em>How do we compare biological sequences?</em></a>.</li>
 </ul>
+<p>Before <strong>Monday, 14 Feb</strong>:</p>
+<ul>
+<li>Chapter 26 of  Manolis Kellis et al., <em>Computational Biology - Genomes, Networks, and Evolution</em>: <a href="https://bio.libretexts.org/Bookshelves/Computational_Biology/Book%3A_Computational_Biology_-_Genomes_Networks_and_Evolution_(Kellis_et_al.)/26%3A_Molecular_Evolution_and_Phylogenetics"><em>Molecular Evolution and Phylogenetics</em></a> (also available as [<a href="/docs/kellis-ch26.pdf">PDF</a>]) (if you prefer to watch a video lecture that this chapter is based on, you can watch <a href="https://www.youtube.com/watch?v=_KduKR6IXcA"><em>MIT CompBio Lecture 19 - Phylogenetics</em></a>).</li>
+</ul>
 <h2 id="slides">Slides</h2>
-<p>The slides from 31 January class are here: <a href="https://www.dropbox.com/s/y95x5zg5k5962wt/csbio-class4-inked.pdf?dl=0">class4.pdf</a></p>
+<p>The slides from the 7 February class are here: <a href="https://www.dropbox.com/s/w1r1m3prf3wb110/csbio-class6-inked.pdf?dl=0">class6.pdf</a></p>
 <p>Some links to materials for the class:</p>
 <ul>
 <li>
-<p>Richard W. Hamming, <a href="/docs/hamming1998.pdf"><em>Mathematics on a Distant Planet</em></a>, The American Mathematical Monthly, 1998.</p>
+<p>R. Peto, F. J. Roe, P. N. Lee, L. Levy, and J. Clack. <a href="https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC2024769/"><em>Cancer and ageing in mice and men</em></a>, British Journal of Cancer, October 1975. (&ldquo;Peto&rsquo;s Paradox&rdquo;).</p>
 </li>
 <li>
-<p>Nextstrain: <a href="https://nextstrain.org/ncov/gisaid/global">Genomic epidemiology of novel coronavirus</a></p>
+<p>Orsolya Vincze, et al. <a href="https://www.nature.com/articles/s41586-021-04224-5"><em>Cancer risk across mammals</em></a>, Nature, 22 December 2021. This is the paper with the diagram showing the cancer mortality risk variation across different orders of mammals (an &ldquo;order&rdquo; is taxonomic rank above a family).</p>
+</li>
+</ul>
+<center><a href="/images/cancerorders.ong"><img src="/images/cancerorders.png" width="80%"></a>
+</center>
+<ul>
+<li>See also this video (thanks Grant!): <a href="https://www.youtube.com/watch?v=1AElONvi9WQ"><em>Why Blue Whales Don&rsquo;t Get Cancer - Peto&rsquo;s Paradox</em></a> (which is based on this paper: John D. Nagy, Erin M. Victor, Jenese H. Cropper, <a href="https://pubmed.ncbi.nlm.nih.gov/21672841/"><em>Why don&rsquo;t all whales have cancer? A novel hypothesis resolving Peto&rsquo;s paradox</em></a>, 2007.</li>
+</ul>
+<center>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1AElONvi9WQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+<ul>
+<li>
+<p>Temple Smith and <a href="https://biocomplexity.virginia.edu/person/michael-s-waterman">Michael S. Waterman</a>, <a href="/docs/smithwaterman1981.pdf"><em>Identification of Common Molecular Subsequences</em></a>, 1981.</p>
 </li>
 <li>
-<p><a href="https://www.ncbi.nlm.nih.gov/variation/view?cfg=NCID_1_29649922_130.14.22.10_9146_1643596244_2477897797">NCBI: Variation in ATP8 Gene</a></p>
-</li>
-<li>
-<p><a href="https://blast.ncbi.nlm.nih.gov/Blast.cgi">NCBI Basic Local Alignment Search Tool (BLAST)</a></p>
-</li>
-<li>
-<p>Hovav Shacham. <a href="https://hovav.net/ucsd/dist/geometry.pdf"><em>The Geometry of Innocent Flesh on the Bone: Return-into-libc without Function Calls (on the x86)</em></a>. ACM CCS 2007.</p>
-</li>
-<li>
-<p>Saul B. Needleman and Christian D. Wunsch. <a href="/docs/needleman1970.pdf"><em>A General Method Applicable to the Search for Similarities in the Amino Acid Sequence of Two Proteins</em></a>. Journal of Molecular Biology, 1970.</p>
-</li>
-<li>
-<p>Robert A. Wagner and Michael J. Fischer. <a href="/docs/wagner1974.pdf"><em>The String-to-String Correction Problem</em></a>. Journal of the Association of Computing Machinery, January 1974.</p>
+<p>The notebook I used is: <a href="/docs/class6.ipynb">class6.ipynb</a>.</p>
 </li>
 </ul>
 
       </div>
 
-      <meta itemprop="wordCount" content="180">
-      <meta itemprop="datePublished" content="2022-01-31">
-      <meta itemprop="url" content="https://computingbiology.github.io/class4/">
+      <meta itemprop="wordCount" content="245">
+      <meta itemprop="datePublished" content="2022-02-07">
+      <meta itemprop="url" content="https://computingbiology.github.io/class6/">
     </article>
 
     <ul class="pagination" role="navigation" aria-label="Pagination">
       
-      <li class="arrow" aria-disabled="true"><a href="https://computingbiology.github.io/class3/">&laquo; <em>Previous<span class="show-for-sr"> page</span></em>: Class 3: Assembly, Human Genome Project</a></li>
+      <li class="arrow" aria-disabled="true"><a href="https://computingbiology.github.io/class5/">&laquo; <em>Previous<span class="show-for-sr"> page</span></em>: Class 5: Sequence Alignment</a></li>
       
-      
-      <li class="arrow" aria-disabled="true"><a href="https://computingbiology.github.io/class5/"><em>Next<span class="show-for-sr"> page</span></em>: Class 5: Sequence Alignment&nbsp;&raquo;</a></li>
       
     </ul>
 

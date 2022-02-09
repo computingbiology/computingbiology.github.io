@@ -1,7 +1,7 @@
 +++
 date = "02 Feb 2022"
 draft = false
-title = "Class 5"
+title = "Class 5: Sequence Alignment"
 author = "David Evans"
 slug = "class5"
 +++
