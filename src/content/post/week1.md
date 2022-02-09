@@ -1,7 +1,7 @@
 +++
 date = "19 Jan 2022"
 draft = false
-title = "Week 1"
+title = "Class 1: Life"
 author = "David Evans"
 slug = "week1"
 +++
