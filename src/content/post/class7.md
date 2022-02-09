@@ -22,7 +22,7 @@ Before **Monday, 14 Feb**:
 
 ## Slides
 
-The slides from the 9 February class are here: [class7.pdf](https://virginia.zoom.us/s/2024003839)
+The slides from the 9 February class are here: [class7.pdf](https://www.dropbox.com/s/ixdjyjgpx3ped2l/csbio-class7-inked.pdf?dl=0)
 
 Some links to materials for the class:
 
