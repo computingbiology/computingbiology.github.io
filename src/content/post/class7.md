@@ -37,3 +37,5 @@ A Biography to Celebrate the Tercentenary of His Birth_](https://biostat.jhsph.e
 
 - Russell D. Gray, Simon Greenhil and Robert M. Moss. [_The Pleasures and Perils of Darwinizing Culture (with phylogenies)_](https://simon.net.nz/publication/Gray_et_al_2007.pdf). 2007.
 
+- Fabrícia F. Nascimento, Mario dos Reis, and Ziheng Yang. [_A
+  biologist’s guide to Bayesian phylogenetic analysis_](/docs/nascimento2017.pdf). Nature Ecology and Evolution, October 2017.
