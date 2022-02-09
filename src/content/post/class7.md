@@ -1,6 +1,6 @@
 +++
 date = "09 Feb 2022"
-draft = true
+draft = false
 title = "Class 7: Phylogeny"
 author = "David Evans"
 slug = "class7"
@@ -22,7 +22,7 @@ Before **Monday, 14 Feb**:
 
 ## Slides
 
-The slides from the 9 February class are here: [class7.pdf]()
+The slides from the 9 February class are here: [class7.pdf](https://virginia.zoom.us/s/2024003839)
 
 Some links to materials for the class:
 
