@@ -83,7 +83,7 @@ warning: You appear to have cloned an empty repository.
 
 6. **Fetch the assignment** skeleton from our repository into your private repository. Enter the working directory of your empty repository and add a remote repository named course, merge the code, and push it to your private repository by executing:
 
-```plainted
+```plaintext
     git remote add course git@github.com:computingbiology/Project-2-Genome-Alignment.git
     git pull course main
     git push --tags origin master
