@@ -49,6 +49,8 @@ To get started on Project 2:
    - Enter your teammate's github id, and select the user from the dropdown.
    - Click "Add" with "Write" privileges.
 
+###
+
 3. Add the course staff to your repository by following the same steps
 to add `evansuva`, `hyunjaecho94`, and `iamgroot42` to your collaborators with "Read"
 privileges. <font color="red">Be aware that this will allow the course
@@ -63,23 +65,25 @@ you create it so you don't forget to share it later.
 
 ###
 
-3. **Clone the empty private repository to your working environment.** Instead of _mygithubname below_, use your github username.
+4. **Clone the empty private repository to your working environment.** Instead of _mygithubname below_, use your github username.
 
-```
+```sh
     git clone https://github.com/mygithubname/csbio-project2.git
 ```
 
 You should see:
-```
+```sh
 Cloning into 'csbio-project2'...
 warning: You appear to have cloned an empty repository.
 ```
 
-4. Enter your `csbio-project2` directory (`cd csbio-project2`).
+5. Enter your `csbio-project2` directory (`cd csbio-project2`).
 
-5. **Fetch the assignment** skeleton from our repository into your private repository. Enter the working directory of your empty repository and add a remote repository named course, merge the code, and push it to your private repository by executing:
+###
 
-```
+6. **Fetch the assignment** skeleton from our repository into your private repository. Enter the working directory of your empty repository and add a remote repository named course, merge the code, and push it to your private repository by executing:
+
+```sh
     git remote add course git@github.com:computingbiology/Project-2-Genome-Alignment.git
     git pull course master
     git push --tags origin master
