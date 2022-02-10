@@ -67,12 +67,12 @@ you create it so you don't forget to share it later.
 
 4. **Clone the empty private repository to your working environment.** Instead of _mygithubname below_, use your github username.
 
-```plaintext
+```
     git clone https://github.com/mygithubname/csbio-project2.git
 ```
 
 You should see:
-```plaintext
+```
 Cloning into 'csbio-project2'...
 warning: You appear to have cloned an empty repository.
 ```
@@ -83,7 +83,7 @@ warning: You appear to have cloned an empty repository.
 
 6. **Fetch the assignment** skeleton from our repository into your private repository. Enter the working directory of your empty repository and add a remote repository named course, merge the code, and push it to your private repository by executing:
 
-```plaintext
+```
     git remote add course https://github.com/computingbiology/Project-2-Genome-Alignment.git 
     git pull course main
     git push --tags origin main 
