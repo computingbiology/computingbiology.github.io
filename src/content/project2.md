@@ -89,6 +89,9 @@ warning: You appear to have cloned an empty repository.
    git push --tags origin main
 ```
 
+(If your directory is not empty, you will need to add
+`--allow-unrelated-histories` to the `git pull course main` command.)
+
 After finishing these steps, you should have a `project2` directory
 that includes the `project2.ipynb` jupyter notebook you will use for
 this assignment.
