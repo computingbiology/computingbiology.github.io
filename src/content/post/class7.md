@@ -17,8 +17,8 @@ Algorithms_: [_How do we compare biological sequences?_](//www.bioinformaticsalg
 Before **Monday, 14 Feb**:
 - Chapter 26 of  Manolis Kellis et al., _Computational Biology - Genomes, Networks, and Evolution_: [_Molecular Evolution and Phylogenetics_](https://bio.libretexts.org/Bookshelves/Computational_Biology/Book%3A_Computational_Biology_-_Genomes_Networks_and_Evolution_(Kellis_et_al.)/26%3A_Molecular_Evolution_and_Phylogenetics) (also available as [[PDF](/docs/kellis-ch26.pdf)]) (if you prefer to watch a video lecture that this chapter is based on, you can watch [_MIT CompBio Lecture 19 - Phylogenetics_](https://www.youtube.com/watch?v=_KduKR6IXcA)).
 
-
-**Project 2** will be posted soon and due on 22 February.
+**Thursday, 24 Feb**:
+- [**Project 2**](/project2)
 
 ## Slides
 

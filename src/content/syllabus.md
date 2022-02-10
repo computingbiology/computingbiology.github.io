@@ -240,11 +240,9 @@ The rough schedule and planned topics (which are likely to change) are:
 
 **Project 1: Assembling Genomes** (out Tuesday 25 January, due Tuesday 8 February)
 
-**Project 2: Genome Alignment and Analysis** (out Wednesday 9 February, due Tuesday 22 February)
+**Project 2: Genome Alignment and Analysis** (out Wednesday 9 February, due Thursday 24 February)
 
-**Project 3: Engineering a Covid Vaccine** (out Wednesday 23 February, due Friday 4 March) (Spring break is March 7-11, we will not have any assignments over spring break.)
-
-**Project 4: Computing with Biology** (out Monday 14 March, due Sunday 27 March)
+**Project 3: Engineering a Covid Vaccine** (out Friday 25 February, due Friday 18 March) (Spring break is March 7-11, we are not expecting students to work over spring break, assuming you do get started on this the week before spring break)
 
 **Final Project** (final projects due Monday 2 May, last day of class,
 with several intermediate deliverables and short presentations). The
