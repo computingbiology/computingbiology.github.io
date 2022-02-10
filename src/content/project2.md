@@ -85,7 +85,7 @@ warning: You appear to have cloned an empty repository.
 
 ```sh
     git remote add course git@github.com:computingbiology/Project-2-Genome-Alignment.git
-    git pull course master
+    git pull course main
     git push --tags origin master
 ```
 
