@@ -50,7 +50,7 @@ To get started on Project 2:
    - Click "Add" with "Write" privileges.
 
 3. Add the course staff to your repository by following the same steps
-to add `computingbiology` to your collaborators with "Read"
+to add `evansuva`, `hyunjaecho94`, and `iamgroot42` to your collaborators with "Read"
 privileges. <font color="red">Be aware that this will allow the course
 staff to see everything you put in the repository!</font> If you are
 worried about having rants against the course staff in your repo, you
