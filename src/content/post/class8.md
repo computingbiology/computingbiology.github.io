@@ -8,6 +8,8 @@ slug = "class8"
 
 ## Schedule and Readings
 
+(These are duplicated from [Class 7](/class7).)
+
 Before **Wednesday, 9 February**:
 - Read Chapter 19 -- 26 of Hubert's [The DNA
   Book](https://berthub.eu/dna-book/toc-real/). (Chapter 26 on _Mutations and Changes_ is the one most relevant to today's class.)
