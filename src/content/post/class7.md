@@ -26,7 +26,7 @@ The slides from the 9 February class are here: [class7.pdf](https://www.dropbox.
 
 Some links to materials for the class:
 
-- Georgia Ray ("Eukaryote Write Blog"), [_There’s no such thing as a tree (phylogenetically)](https://eukaryotewritesblog.com/2021/05/02/). May 2021.
+- Georgia Ray ("Eukaryote Write Blog"), [_There’s no such thing as a tree (phylogenetically)_](https://eukaryotewritesblog.com/2021/05/02/). May 2021.
 
 
 - Thomas Bayes, conveyed by Mr. Price, [_As Essay towards solving a Problem in the Doctrine of Chances_](/docs/bayes1763.pdf), 1763. Biography of Bayes: D.R. Bellhouse, [_The Reverend Thomas Bayes, FRS:
