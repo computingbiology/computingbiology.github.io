@@ -24,13 +24,13 @@ Before **Monday, 14 Feb**:
 
 ## Slides
 
-The slides from the 14 February class are here: [class8.pdf](https://www.dropbox.com/s/ixdjyjgpx3ped2l/csbio-class7-inked.pdf?dl=0))
+The slides from the 14 February class are here: [class8.pdf](https://www.dropbox.com/s/ixdjyjgpx3ped2l/csbio-class7-inked.pdf?dl=0)
 
 ## Links
 
 - The graph on Covid virus samples is from: [Massachusetts Water Resrouces Authority Wastewater COVID-19 Tracking](https://www.mwra.com/biobot/biobotdata.htm).
 
-- Mariana Guadalupe Matus Garcia. [_Analysis of fecal biomarkers to impact clinical care and public health_](http://dspace.mit.edu/handle/1721.1/119603). MIT PhD Dissertation (Computational and Systems Biology), September 2018. (If you think PhD dissertations need to be intiminating, long, documents, please look at this one! Its only about 50 double-spaced sparse pages long, if you don't count the appendices, which are mostly pictures and directions of how you sample sewage.) The company that she co-founded is [Biobot Analytics](https://www.biobot.io/). 
+- Mariana Guadalupe Matus Garcia. [_Analysis of fecal biomarkers to impact clinical care and public health_](http://dspace.mit.edu/handle/1721.1/119603). MIT PhD Dissertation (Computational and Systems Biology), September 2018. (If you think PhD dissertations need to be intiminating, long, documents, please look at this one! Its only about 50 double-spaced sparse pages long, if you don't count the appendices, which are mostly pictures and directions of how you sample sewage.) The company that she co-founded that produced the data for the MWRA COVID-19 Tracking graph is [Biobot Analytics](https://www.biobot.io/). 
 
 - John C Avise, Robert A Lansman, Rosemary O Shade. [_The use of Restriction Endonucleases to Measure Mitochondrial DNA Sequence Relatedness in Natural Populations_](/docs/avise1979.pdf). Genetics, May 1979.
 
