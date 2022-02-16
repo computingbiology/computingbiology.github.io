@@ -1,0 +1,187 @@
+<!doctype html>
+<html class="no-js" lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <title>Class 9: Neighbor-Joining Phylogeny (and What can genomics tell us about the origins of COVID-19?) | Computational Biology / Biological Computing</title>
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" href="https://computingbiology.github.io/css/foundation.min.css">
+    <link rel="stylesheet" href="https://computingbiology.github.io/css/highlight.min.css">
+    <link rel="stylesheet" href="https://computingbiology.github.io/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://computingbiology.github.io/css/academicons.min.css">
+    <link rel="stylesheet" href="https://computingbiology.github.io/css/fonts.css">
+    <link rel="stylesheet" href="https://computingbiology.github.io/css/finite.css">
+    <link rel="shortcut icon" href="/images/dna.png">
+
+    <script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+    
+  </head>
+  <body>
+      
+    <header>
+      <nav class="nav-bar">
+	
+	  <div class="title-bar" data-responsive-toggle="site-menu" data-hide-for="medium">	      
+	    <button class="site-hamburger" type="button" data-toggle>
+	      <i class="fa fa-bars fa-lg" aria-hidden="true"></i>
+	    </button>
+	    <div class="title-bar-title site-title">
+	      <a href="https://computingbiology.github.io/">Computational Biology / Biological Computing</a>
+	    </div>
+	    <div class="title-bar-right pull-right">
+	      
+
+
+	    </div>
+	  </div>
+	    
+	  
+	    <div class="top-bar" id="site-menu" >	      
+	      <div class="top-bar-title show-for-medium site-title">
+		<a href="https://computingbiology.github.io/">Computational Biology / Biological Computing</a>
+	      </div>
+	      <div class="top-bar-left">
+		<ul class="menu vertical medium-horizontal">
+		  
+		  
+		</ul>
+	      </div>
+	      <div class="top-bar-right show-for-medium">
+		
+
+
+	      </div>
+	    </div>
+	  
+	</nav>
+      
+    </header>
+    
+    <main>
+      
+<div class="row" style="padding-top: 16pt;">
+  <div class="column small-12 medium-10 medium-offset-1 end large-8 large-offset-0">
+    <article class="article" itemscope itemtype="http://schema.org/Article">
+      
+      <h1 itemprop="name">Class 9: Neighbor-Joining Phylogeny (and What can genomics tell us about the origins of COVID-19?)</h1>
+      <div class="post-metadata">
+  <span class="post-date">
+    <time datetime="2022-02-16 00:00:00 &#43;0000 UTC" itemprop="datePublished">16 February 2022</time>
+  </span>
+  
+</div>
+
+      <div class="post-body" itemprop="articleBody">
+        <h2 id="schedule-and-readings">Schedule and Readings</h2>
+<p>See <a href="/class8">Class 8</a>.</p>
+<h2 id="slides">Slides</h2>
+<p>The slides from the 16 February class are here: <a href="https://www.dropbox.com/s/r6h0flm8jo7vkt5/csbio-class9.pdf?dl=0">class9.pdf</a></p>
+<h2 id="links">Links</h2>
+<ul>
+<li>J. Marmurt and P. Doty. <a href="/docs/marmur1962.pdf"><em>Determination of the Base Composition of
+Deoxyribonucleic Acid from its Thermal Denaturation
+Temperature</em></a>. Journal of Molecular Biology,</li>
+</ul>
+<ol start="1962">
+<li></li>
+</ol>
+<ul>
+<li>
+<p><a href="https://www.cs.virginia.edu/~evans/paradise/teaching/#grading"><em>How to Grade</em></a> (this is a write-up of my grading system, although the symbols are slightly different from what we are using in this class). Since we are using &ldquo;virtual&rdquo; goal stars, you don&rsquo;t need to be worried about <a href="https://www.theonion.com/bush-earmarks-1-5-billion-gold-stars-for-education-1819566310">any alarming gold star shortages</a>.</p>
+</li>
+<li>
+<p>Maruya Saitou and Masatoshi Nei. <a href="/docs/saitou1987.pdf"><em>The Neighbor-joining Method: A New Method for Reconstructing Phylogenetic Trees</em></a>. Molecular Biological Evolution, 1987.</p>
+</li>
+<li>
+<p>Letter organized by Peter Daszak, <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30418-9/fulltext"><em>Statement in support of the scientists, public health professionals, and medical professionals of China combatting COVID-19</em></a>, The Lancet, 19 February 2020. <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01377-5/fulltext">Addendum on competing interests</a>, 21 June 2021.</p>
+</li>
+<li>
+<p>Kristian G. Andersen, Andrew Rambaut, W. Ian Lipkin, Edward C. Holmes and Robert F. Garry . <a href="https://www.nature.com/articles/s41591-020-0820-9">_The proximal origin of SARS-CoV-2
+_</a>. Nature Medicine, 17 March 2020.</p>
+</li>
+<li>
+<p>There are hundreds of articles with different viewpoints on the more likely origins of Covid-19. These are two of the more balanced ones:</p>
+<p>o Carolyn Kormann. <a href="https://www.newyorker.com/science/elements/the-mysterious-case-of-the-covid-19-lab-leak-theory"><em>The Mysterious Case of the COVID-19 Lab-Leak Theory</em></a>. The New Yorker, 12 October 2021.
+o Claire Felter. <a href="https://www.cfr.org/backgrounder/will-world-ever-solve-mystery-covid-19s-origin#chapter-title-0-5"><em>Will the World Ever Solve the Mystery of COVID-19’s Origin?</em></a>. Council on Foreign Relations, 3 November 2021.</p>
+</li>
+<li>
+<p>Alina Chan and Matt Ridley&rsquo;s book <a href="https://www.amazon.com/Viral-Search-COVID-19-Matt-Ridley/dp/006313912X"><em>Viral: The Search for the Origin of COVID-19</em></a> pretends to be balanced (and I believe is mostly solid), but has a clear agenda. <a href="https://scottaaronson.blog/?p=6183">Scott Aaronson&rsquo;s (positive) Review</a>, <a href="https://newrepublic.com/article/164688/viral-lab-leak-theory-covid-19">New Republic review (take down)</a>.</p>
+</li>
+</ul>
+
+      </div>
+
+      <meta itemprop="wordCount" content="261">
+      <meta itemprop="datePublished" content="2022-02-16">
+      <meta itemprop="url" content="https://computingbiology.github.io/class9/">
+    </article>
+
+    <ul class="pagination" role="navigation" aria-label="Pagination">
+      
+      <li class="arrow" aria-disabled="true"><a href="https://computingbiology.github.io/class8/">&laquo; <em>Previous<span class="show-for-sr"> page</span></em>: Class 8: Distance-Based Phylogeny</a></li>
+      
+      
+    </ul>
+
+  </div>
+</div>
+
+    </main>
+    
+    
+<footer class="whatisthis">
+  <hr />
+  <div class="row">
+    <div class="column small-12 medium-6">
+      <a href="//computingbiology.github.io"><b>cs 4501: Computational Biology / Biological Computing</b></a><br>
+      <a href="//www.cs.virginia.edu">University of Virginia</a>
+    </div>
+    <div class="column small-14 medium-5">
+      <font size="-1">
+      Subscribe to
+	the <a href="/index.xml"><i class="fa fa-rss-square"></i>&nbsp;RSS feed</a>.
+      <a id="searchsite">
+	<form method="get" action="https://duckduckgo.com/">
+	  <label for="search-field" class="show-for-sr">Search with DuckDuckGo</label>
+	  <input type="search" name="q" maxlength="255" placeholder="Search with DuckDuckGo" id="search-field">
+	  <input type="hidden" name="sites" value="https://computingbiology.github.io/"/>
+	  <input type="hidden" name="k7" value="#faf8f8"/>
+	  <input type="hidden" name="kj" value="#b33"/>
+	  <input type="hidden" name="ky" value="#fafafa"/>
+	  <input type="hidden" name="kx" value="b"/>
+	  <input type="hidden" name="ko" value="-1"/>
+	  <input type="hidden" name="k1" value="-1"/>
+	  <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;" />
+	</form>
+      </a>
+</font>
+    </div>
+  </div>
+  </hr>
+
+</footer>
+
+
+
+    
+    <div class="endofpage">
+    </div>
+
+    <script src="/js/jquery.js"></script>
+    <script src="/js/what-input.js"></script>
+    <script src="/js/foundation.min.js"></script>
+    <script src="/js/finite.js"></script>
+
+    
+    <script src="/js/highlight.pack.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+
+    
+    
+    
+  </body>
+</html>

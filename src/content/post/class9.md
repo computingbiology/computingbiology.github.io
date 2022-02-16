@@ -1,6 +1,6 @@
 +++
 date = "16 Feb 2022"
-draft = true
+draft = false
 title = "Class 9: Neighbor-Joining Phylogeny (and What can genomics tell us about the origins of COVID-19?)"
 author = "David Evans"
 slug = "class9"
@@ -12,7 +12,7 @@ See [Class 8](/class8).
 
 ## Slides
 
-The slides from the 16 February class are here: [class9.pdf]()
+The slides from the 16 February class are here: [class9.pdf](https://www.dropbox.com/s/r6h0flm8jo7vkt5/csbio-class9.pdf?dl=0)
 
 ## Links
 
@@ -22,6 +22,8 @@ Temperature_](/docs/marmur1962.pdf). Journal of Molecular Biology,
 1962.
 
 - [_How to Grade_](https://www.cs.virginia.edu/~evans/paradise/teaching/#grading) (this is a write-up of my grading system, although the symbols are slightly different from what we are using in this class). Since we are using "virtual" goal stars, you don't need to be worried about [any alarming gold star shortages](https://www.theonion.com/bush-earmarks-1-5-billion-gold-stars-for-education-1819566310).
+
+- Maruya Saitou and Masatoshi Nei. [_The Neighbor-joining Method: A New Method for Reconstructing Phylogenetic Trees_](/docs/saitou1987.pdf). Molecular Biological Evolution, 1987.
 
 - Letter organized by Peter Daszak, [_Statement in support of the scientists, public health professionals, and medical professionals of China combatting COVID-19_](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30418-9/fulltext), The Lancet, 19 February 2020. [Addendum on competing interests](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01377-5/fulltext), 21 June 2021.
 

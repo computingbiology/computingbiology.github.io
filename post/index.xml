@@ -8,7 +8,18 @@
     <language>en-us</language>
     <managingEditor>evans@virginia.edu (David Evans)</managingEditor>
     <webMaster>evans@virginia.edu (David Evans)</webMaster>
-    <lastBuildDate>Mon, 14 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class 9: Neighbor-Joining Phylogeny (and What can genomics tell us about the origins of COVID-19?)</title>
+      <link>https://computingbiology.github.io/class9/</link>
+      <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/class9/</guid>
+      <description>Schedule and Readings See Class 8.
+Slides The slides from the 16 February class are here: class9.pdf
+Links  J. Marmurt and P. Doty. Determination of the Base Composition of Deoxyribonucleic Acid from its Thermal Denaturation Temperature. Journal of Molecular Biology,      How to Grade (this is a write-up of my grading system, although the symbols are slightly different from what we are using in this class).</description>
+    </item>
+    
     <item>
       <title>Class 8: Distance-Based Phylogeny</title>
       <link>https://computingbiology.github.io/class8/</link>
