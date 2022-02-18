@@ -24,7 +24,7 @@ Before **Monday, 14 Feb**:
 
 ## Slides
 
-The slides from the 14 February class are here: [class8.pdf](https://www.dropbox.com/s/ixdjyjgpx3ped2l/csbio-class7-inked.pdf?dl=0)
+The slides from the 14 February class are here: [class8.pdf](https://www.dropbox.com/s/yf8iu3edh6avjrn/csbio-class8-inked.pdf?dl=0)
 
 ## Links
 
