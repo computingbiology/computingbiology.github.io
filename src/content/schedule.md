@@ -41,9 +41,28 @@ Wednesday, 19 January: [Class 1: Why is life digital?](/class1)
 
 ### Genomes and Assembly
 
-Monday, 24 January: [Class 2: Genomes](/class2)  
+Monday, 24 January: [Class 2: Genomes](/class2)
+- Common platform for Life on Earth: Encoding, DNA Structure, DNA Replication, Interpreting Earth-Life Programs, tRNA, Evolution
+- Course Survey summary
+- Reading DNA
+- PCR (Making copies of DNA)
+       - DNA Sequencing (Sanger Sequencing, Modern Sequencing)
+
 Wednesday, 26 January: [Class 3: Assembly (Human Genome Project)](/class3)  
-Monday, 31 January: [Class 4: Analyzing Genomes](/class4)  
+- Getting sequence data
+- Shortest common superstring problem
+- Strategies for solving (NP-)Hard problems
+- Human Genome Project
+- Gene patents
+- Outcomes of Human Genome Project
+
+Monday, 31 January: [Class 4: Analyzing Genomes](/class4)
+- Instruction misalignment
+- Completing the Human Genome Project
+- Analyzing Genomes
+- Sequencing Alignment: Hamming Distance, Edit Distance, Memoization
+
+
 Wednesday, 2 February: [Class 5: Sequence Alignment](/class5)  
 
 ### Analyzing Genomes
