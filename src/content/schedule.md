@@ -37,7 +37,9 @@ progresses.
 
 ### Introduction
 
-Wednesday, 19 January: [Class 1: Why is life digital?](/class1)
+Wednesday, 19 January: [Class 1: Life](/class1)
+- What is Life?
+- Carbon-Based Life
 
 ### Genomes and Assembly
 
