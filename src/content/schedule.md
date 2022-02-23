@@ -64,18 +64,48 @@ Monday, 31 January: [Class 4: Analyzing Genomes](/class4)
 
 
 Wednesday, 2 February: [Class 5: Sequence Alignment](/class5)  
+- Global Sequence Alignment (Needleman-Wunsch)
+- Scoring Functions
+- Markov Property
+- PAM Matrix
 
 ### Analyzing Genomes
 
 Monday, 7 February: [Class 6: More Sequence Alignments](/class6)  
+- Dynamic Programming
+- Cancer Risk
+- Measuring Evolutionary Distance
+- Local Sequence Alignment
+
 Wednesday, 9 February: [Class 7: Phylogeny](/class7)  
-Monday, 14 February: [Class 8: More Phylogeny](/class8)  
-Wednesday, 16 February: [Class 9: Understanding Virus Variants](/class9)  
+- BLAST
+- Introducing Phylogeny
+- Parsimony Scoring
+- Bayes Theorem
+
+
+Monday, 14 February: [Class 8: Distance-Based Phylogeny](/class8)
+- Maximum Likelihood (continued from Class 7)
+- Properties of Trees
+- Multiple Alignment
+- Rate of Mutation
+- Distance-Fitting Tree
+
+Wednesday, 16 February: [Class 9: Neighbor-Joining Phylogeny](/class9)  
+- Grading Philosophy
+- Neighbor-Joining Algorithm
+- Origins of SARS-CoV-2
 
 ### Genetic Engineering
 
-Monday, 21 February: [Class 10: Engineering Vaccine](/class10)  
-Wednesday, 23 February: [Class 11: mRNA](/class11)  
+Monday, 21 February: [Class 10: Genotypes and Phenotypes](/class10)  
+- Inheritance (Mendel)
+- Genome Wide Association Studies
+
+Wednesday, 23 February: [Class 11: Editing Genomes](/class11)  
+- Brief History of Genetic Editing
+- Recombinant DNA
+
 Monday, 28 February: [Class 12: CRISPR](/class12)  
 Wednesday, 2 March: [Class 13: Crispy CRISPR](/class13)  
 
