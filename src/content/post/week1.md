@@ -3,7 +3,7 @@ date = "19 Jan 2022"
 draft = false
 title = "Class 1: Life"
 author = "David Evans"
-slug = "week1"
+slug = "class1"
 +++
 
 ## Schedule and Readings
