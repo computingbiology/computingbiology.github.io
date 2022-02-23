@@ -8,7 +8,20 @@
     <language>en-us</language>
     <managingEditor>evans@virginia.edu (David Evans)</managingEditor>
     <webMaster>evans@virginia.edu (David Evans)</webMaster>
-    <lastBuildDate>Mon, 21 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class 11: Editing Genomes</title>
+      <link>https://computingbiology.github.io/class11/</link>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/class11/</guid>
+      <description>Schedule and Readings Thursday, 24 Feb:
+ Project 2  New readings for next week will be posted by Friday.
+Slides The slides from the 21 February class are here: class11.pdf
+Links   Wladyslaw Altermann, Józef Kazmierczak. Archean microfossils: a reappraisal of early life on Earth (Describes fossils of life from over 3.4 Billion years ago.)
+  Anja Spang, Courtney W. Stairs, Nina Dombrowski, Laura Eme, Jonathan Lombard, Eva F.</description>
+    </item>
+    
     <item>
       <title>Class 10: Genomes and Phenotypes</title>
       <link>https://computingbiology.github.io/class10/</link>

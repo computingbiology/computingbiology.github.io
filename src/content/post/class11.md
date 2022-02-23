@@ -1,6 +1,6 @@
 +++
 date = "23 Feb 2022"
-draft = true
+draft = false
 title = "Class 11: Editing Genomes"
 author = "David Evans"
 slug = "class11"
@@ -15,7 +15,7 @@ New readings for next week will be posted by Friday.
 
 ## Slides
 
-The slides from the 21 February class are here: [class11.pdf]()
+The slides from the 21 February class are here: [class11.pdf](https://www.dropbox.com/s/px2yhuv9b70cguq/csbio-class11.pdf?dl=0)
 
 ## Links
 
