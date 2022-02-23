@@ -17,6 +17,8 @@ The slides from the 21 February class are here: [class10.pdf](https://www.dropbo
 
 ## Links
 
+- Charles Darwin. [_The Variation of Animals and Plants Under Domestication_](https://www.google.com/books/edition/The_Variation_of_Animals_and_Plants_Unde/hoo5AAAAcAAJ?hl=en&gbpv=1). 1868. (Darwin's strange (to us today) theory on pangenesis is Chapter XXVII, starting on page 357.)
+
 - Gregor Mendel. [_Versuche uber Pflanzen-Hybriden_](https://www.biodiversitylibrary.org/page/48299076#page/133/mode/1up). Proceedings of Natural History Society, 1866 [English Translation](http://www.esp.org/foundations/genetics/classical/gm-65.pdf)
 
 - R. A. Fisher. [_Has Mendel's Work Been Rediscovered?_](/docs/fisher1936.pdf), 15 April 1936. (This isn't the paper we talked about in class, but is an interesting later one.)

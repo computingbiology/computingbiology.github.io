@@ -8,11 +8,7 @@
     <language>en-us</language>
     <managingEditor>evans@virginia.edu (David Evans)</managingEditor>
     <webMaster>evans@virginia.edu (David Evans)</webMaster>
-    <lastBuildDate>Mon, 21 Feb 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://computingbiology.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 21 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Class 10: Genomes and Phenotypes</title>
       <link>https://computingbiology.github.io/class10/</link>
@@ -21,9 +17,9 @@
       <guid>https://computingbiology.github.io/class10/</guid>
       <description>Schedule and Readings Thursday, 24 Feb:
  Project 2  Slides The slides from the 21 February class are here: class10.pdf
-Links   Gregor Mendel. Versuche uber Pflanzen-Hybriden. Proceedings of Natural History Society, 1866 English Translation
-  R. A. Fisher. Has Mendel&amp;rsquo;s Work Been Rediscovered?, 15 April 1936. (This isn&amp;rsquo;t the paper we talked about in class, but is an interesting later one.)
-  Matti Pirinen&amp;rsquo;s GWAS course: Genome-wide Association Studies, University of Helsinki.</description>
+Links   Charles Darwin. The Variation of Animals and Plants Under Domestication. 1868. (Darwin&amp;rsquo;s strange (to us today) theory on pangenesis is Chapter XXVII, starting on page 357.)
+  Gregor Mendel. Versuche uber Pflanzen-Hybriden. Proceedings of Natural History Society, 1866 English Translation
+  R. A. Fisher. Has Mendel&amp;rsquo;s Work Been Rediscovered?</description>
     </item>
     
     <item>
