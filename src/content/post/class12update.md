@@ -19,3 +19,9 @@ appeal.)
 
 You can read the full ruling here: [Decision on Priority
 37 C.F.R. § 41.125(a)](/docs/usptocrispr.pdf). It is quite fascinating reading, with lots of quotes from emails between the scientists and scans from lab notebooks (see pages 30-31 for a nice sketch for tracrRNA and Cas9 cleaving).
+
+Update: [Jacob Sherkow's twitter
+thread](https://twitter.com/jsherkow/status/1498413788994940928)
+provides a great explanation of the whole episode and latest ruling
+(and contrary my doubts above, thinks further appeals from CVC are
+unlikely).
