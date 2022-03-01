@@ -1,6 +1,6 @@
 +++
 date = "28 Feb 2022"
-draft = true
+draft = false
 title = "Class 12: CRISPR in Bacteria"
 author = "David Evans"
 slug = "class12"

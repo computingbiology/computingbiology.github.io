@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://computingbiology.github.io/class11/</loc>
-    <lastmod>2022-02-23T00:00:00+00:00</lastmod>
+    <loc>https://computingbiology.github.io/class12/</loc>
+    <lastmod>2022-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://computingbiology.github.io/post/</loc>
+    <lastmod>2022-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://computingbiology.github.io/class11/</loc>
     <lastmod>2022-02-23T00:00:00+00:00</lastmod>
   </url>
   

@@ -8,10 +8,21 @@
     <language>en-us</language>
     <managingEditor>evans@virginia.edu (David Evans)</managingEditor>
     <webMaster>evans@virginia.edu (David Evans)</webMaster>
-    <lastBuildDate>Wed, 23 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://computingbiology.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Class 12: CRISPR in Bacteria</title>
+      <link>https://computingbiology.github.io/class12/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/class12/</guid>
+      <description>Readings Read before Wednesday, 2 March:
+ DNA Book: Chapter 28: Bacterial Virus Warfare and Chapter 29: Genetic Manipulation, CRISPR &amp;amp; beyond  Read by the end of spring break:
+ Prarthana Mohanraju, Kira S. Makarova, Bernd Zetsche, Feng Zhang, Eugene V. Koonin, John van der Oost. Diverse evolutionary roots and mechanistic variations of the CRISPR-Cas systems. Science, August 2016.  Slides The slides from the 28 February class are here: class12.</description>
+    </item>
     
     <item>
       <title>Class 11: Editing Genomes</title>
