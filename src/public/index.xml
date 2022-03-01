@@ -8,10 +8,16 @@
     <language>en-us</language>
     <managingEditor>evans@virginia.edu (David Evans)</managingEditor>
     <webMaster>evans@virginia.edu (David Evans)</webMaster>
-    <lastBuildDate>Wed, 09 Feb 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Update: CRISPR Patent Ruling</title>
+      <link>https://computingbiology.github.io/crisprpatent/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/crisprpatent/</guid>
+      <description>USPTO has made a ruling in the CRISPR patent dispute we talked about yesterday!
+The ruling is in favor of MIT/Harvard (Broad Institute), determining that they have priority in CRISPR-Cas9 system for editing eukaryotic cells, over the CVC (this is the case name for the Berkeley/University of Vienna assignees of the Doudna/Charpentier patent) patent. (Although this ruling is now in effect, I doubt this well be the end of things, and suspect the CVC lawyers are looking for ways to appeal.</description>
+    </item>
     
     <item>
       <title>Class 12: CRISPR in Bacteria</title>
