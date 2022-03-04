@@ -108,14 +108,17 @@ Wednesday, 23 February: [Class 11: Editing Genomes](/class11)
 - Brief History of Genetic Editing
 - Recombinant DNA
 
-Monday, 28 February: [Class 12: CRISPR](/class12)  
-Wednesday, 2 March: [Class 13: Crispy CRISPR](/class13)  
+Monday, 28 February: [Class 12: CRISPR in Bacteria](/class12)  
+- 
+
+Wednesday, 2 March: [Class 13: Project Planning](/class13)  
 
 ### Spring Break: 5 &mdash; 13 March
 
+Monday, 14 March: [Class 14: CRISPR for Genome Editing](/class14)
+
 ### Computing with Biology
 
-Monday, 14 March: [Class 14: Computing with Biology](/class14)  
 Wednesday, 16 March: [Class 15: Biological Logic Gates](/class15)  
 Monday, 21 March: [Class 16: DNA Storage](/class16)  
 Wednesday, 23 March: [Class 17: Neurological Computing](/class17)

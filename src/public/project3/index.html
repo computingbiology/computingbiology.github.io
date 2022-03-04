@@ -2,7 +2,7 @@
 <html class="no-js" lang="en-us">
   <head>
     <meta charset="utf-8">
-    <title>Project 2: Sequence Alignment and Analysis | Computational Biology / Biological Computing</title>
+    <title>Project 3: Multiple Hypothesis Testing and CRISPR | Computational Biology / Biological Computing</title>
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
@@ -66,30 +66,31 @@
 
 <div class="content">
     <article class="article" itemscope itemtype="http://schema.org/Article">
-      <h1 itemprop="name" class="pagetitle">Project 2: Sequence Alignment and Analysis</h1>
+      <h1 itemprop="name" class="pagetitle">Project 3: Multiple Hypothesis Testing and CRISPR</h1>
       <div class="post-body" itemprop="articleBody">
         <div class="due">
-<center>Due: <b>Thursday, 24 February, 7:59pm</b></center> 
+<center>Due: <b>Monday, 21 March, 8:59pm</b></center> 
 </div>
 <h1 id="heading"></h1>
 <div class="yellownote">
  <center>
        <b>Collaboration and Resource Policy</b>
     </center>
-    For this assignment, you are encouraged to work with one other person. Your team must satisfy these constraints:
-<ol>
-<li>You <strong>did not work together on Project 1</strong>.</li>
-<li>You and your partner have a <strong>total number of siblings that is divisible by two</strong> (e.g., if you have one sibling, you need to find a partner with 1, 3, 5, or 7 siblings. If anyone has more than 7 siblings, they can partner with anyone!)</li>
-</ol>
-<p>We expect most students will have the best learning experience on this assignment by working with a partner, but if you prefer to work alone it is okay to do this assignment on your own.</p>
-<p>You are permitted (actually <em>encouraged</em>) to discuss these problems with anyone you want, including other students in the class. If you do discuss the specific questions in the assignment with anyone other than your assignment partner and the course staff, though, you should list them in the <em>External resources used</em> section below.</p>
-<p>You are welcome to use any resources you want for this assignment, other than ones that would defeat the purpose of the assignment. This means you should not look at answers or code from any other students in the class (other than your collaboration with your partner), and if you find code that implements the problem you are being asked to do for the assignment, you should not use that code. You should document all external resource you use that are not part of the course materials in the <em>External resources used</em> section in your submission.</p>
+For this assignment, you are encouraged to work with one other person. 
+<p>We expect most students will have the best learning experience on this assignment by working with a partner, but if you prefer to work alone it is okay to do this assignment on your own. Your partner can be anyone you mutually choose, so long as you are able to work together well.</p>
+<p>You are permitted (actually <i>encouraged</i>) to discuss these problems with anyone you want, including other students in the class. If you do discuss the specific questions in the assignment with anyone other than your assignment partner and the course staff, though, you should list them in the <em>External resources used</em> section of your submission.</p>
+<p>You are welcome to use any resources you want for this assignment, other than ones that would defeat the purpose of the assignment. This means you should not look at answers or code from any other students in the class (other than your collaboration with your partner), and if you find code that implements the exact problem you are being asked to do for the assignment, you should not use that code. Since parts of this assignment are adapted from an NCSU assignment, you should also not search for or use any answers you might find for that specific assignment. You should document all external resources you use that are not part of the course materials in the <em>External resources used</em> section.</p>
 </div>
 <h2 id="getting-started">Getting Started</h2>
-<p>To get started on Project 2:</p>
+<p>Note that the submission directions for this project are different
+from Project 1 and Project 2. So, however you end up with a printed
+notebook containing your answers is fine. It is not necessary for you
+to work in a github repository for this, but we still recommend that
+you follow these directions (which are similar to those for Project
+2):</p>
 <ol>
 <li>
-<p>One of your team members should <strong>create a new repository</strong> named <code>csbio-project2</code> (you can pick a different name if you really want to).</p>
+<p>One of your team members should <strong>create a new repository</strong> named <code>csbio-project3</code> (you can pick a different name if you really want to).</p>
 <ul>
 <li>Visit <a href="https://github.com/repositories/new">https://github.com/repositories/new</a></li>
 <li>Select &ldquo;Private&rdquo; for the type of repository.</li>
@@ -112,47 +113,50 @@
 </ol>
 <h3 id="heading-2"></h3>
 <ol start="3">
-<li>Add the course staff to your repository by following the same steps
-to add <code>evansuva</code>, <code>hyunjaecho94</code>, and <code>iamgroot42</code> to your collaborators with &ldquo;Read&rdquo;
-privileges. <font color="red">Be aware that this will allow the course
-staff to see everything you put in the repository!</font> If you are
-worried about having rants against the course staff in your repo, you
-could work in a different repository and copy your finished project
-into a new repo to submit it, but this seems like a lot of
-hassle. Hopefully you don&rsquo;t have any rants about the course staff, but
-it is best to put those rants somewhere else and share your repo when
-you create it so you don&rsquo;t forget to share it later.</li>
-</ol>
-<h3 id="heading-3"></h3>
-<ol start="4">
 <li><strong>Clone the empty private repository to your working environment.</strong> Instead of <em>mygithubname below</em>, use your github username.</li>
 </ol>
-<pre><code>    git clone https://github.com/mygithubname/csbio-project2.git
+<pre><code>    git clone https://github.com/mygithubname/csbio-project3.git
 </code></pre><p>You should see:</p>
-<pre><code>Cloning into 'csbio-project2'...
+<pre><code>Cloning into 'csbio-project3'...
 warning: You appear to have cloned an empty repository.
-</code></pre><ol start="5">
-<li>Enter your <code>csbio-project2</code> directory (<code>cd csbio-project2</code>).</li>
+</code></pre><ol start="4">
+<li>Enter your <code>csbio-project3</code> directory (<code>cd csbio-project3</code>).</li>
 </ol>
-<h3 id="heading-4"></h3>
-<ol start="6">
+<h3 id="heading-3"></h3>
+<ol start="5">
 <li><strong>Fetch the assignment</strong> skeleton from our repository into your private repository. Enter the working directory of your empty repository and add a remote repository named course, merge the code, and push it to your private repository by executing:</li>
 </ol>
-<pre><code>   git remote add course https://github.com/computingbiology/Project-2-Genome-Alignment.git
+<pre><code>   git remote add course https://github.com/computingbiology/Project-3-CRISPR.git
    git pull course main
    git push --tags origin main
 </code></pre><p>(If your directory is not empty, you will need to add
 <code>--allow-unrelated-histories</code> to the <code>git pull course main</code> command.)</p>
-<p>After finishing these steps, you should have a <code>project2</code> directory
-that includes the <code>project2.ipynb</code> jupyter notebook you will use for
+<p>After finishing these steps, you should have a <code>project3</code> directory
+that includes the <code>project3.ipynb</code> jupyter notebook you will use for
 this assignment.</p>
-<p>You&rsquo;ll be able to get started on the assignment by running: <code>jupyter notebook project2.ipynb</code> in the <code>project2</code> directory.</p>
+<p>You&rsquo;ll be able to get started on the assignment by running: <code>jupyter notebook project3.ipynb</code> in the <code>project3</code> directory.</p>
+<h2 id="submission">Submission</h2>
+<p>You should answer the questions and write your code in this Jupyter
+Notebook. (It is find if you prefer to organize your work some other
+way, but if you do, make sure your answers are clear and complete in
+the document you submit.) Parts where you are expected to provide an
+answer (which could be text that can be written in markdown format in
+the notebook or Python code that runs in the notebook) are marked in
+green.</p>
+<p>When you are ready to submit the assignment, you should <strong>print your
+notebook as a PDF file</strong> (unlike previous projects, you do not need to
+submit your repository or source notebook). You should check that the
+printed PDF does contain all your answers and that they are readable
+in it. Then, send a message in slack to a channel that includes both
+team members (so the one sending this message should include the other
+team member) and all of the course staff (<code>dave</code>, <code>Hyun Jae Cho</code>, and
+<code>Anshuman Suri</code>) and attach the printed PDF to that message.</p>
 
       </div>
 
-      <meta itemprop="wordCount" content="632">
-      <meta itemprop="datePublished" content="2022-02-09">
-      <meta itemprop="url" content="https://computingbiology.github.io/project2/">
+      <meta itemprop="wordCount" content="731">
+      <meta itemprop="datePublished" content="2022-03-03">
+      <meta itemprop="url" content="https://computingbiology.github.io/project3/">
     </article>
 </div>
 
