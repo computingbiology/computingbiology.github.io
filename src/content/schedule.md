@@ -22,11 +22,11 @@ other locations on the way from class). To meet at another time, use [https://da
 
 These deadlines and the topics are likely to change (but will be updated when projects are assigned).
 
-**Project 1: Assembling Genomes** (out Tuesday, 25 January, due Tuesday 8 February)  
-**Project 2: Genome Alignment and Analysis** (out Wednesday, 9 February, due Thursday 24 February)  
-**Project 3: Genetic Editing** (out Friday 25 February, due Friday 18 March)  
+**[Project 1: Assembling Genomes](/project1)** (out Tuesday, 25 January, due Tuesday 8 February)  
+**[Project 2: Genome Alignment and Analysis](/project2)** (out Wednesday, 9 February, due Thursday 24 February)  
+**[Project 3: CRISPR]** (due Monday, 21 March)  
 
-**Final Project**: final projects due Monday 2 May (last day of class), 
+**[Final Project](/finalproject)**: final projects due Monday 2 May (last day of class), 
 with several intermediate deliverables and short presentations before then.
 
 ## Classes 
