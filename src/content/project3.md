@@ -12,6 +12,7 @@ slug = "project3"
 
 #
 
+The notebook for Project 3 is here: [project3.ipynb](https://github.com/computingbiology/Project-3-CRISPR/blob/main/project3.ipynb).
 
 <div class="yellownote">
  <center>
