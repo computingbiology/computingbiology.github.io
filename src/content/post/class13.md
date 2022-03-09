@@ -1,7 +1,7 @@
 +++
 date = "02 Mar 2022"
 draft = false
-title = "Final Project"
+title = "Class 13: Final Project Discussions"
 author = "David Evans"
 slug = "class13"
 +++
