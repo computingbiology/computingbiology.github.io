@@ -121,7 +121,7 @@ Monday, 14 March: [Class 14: CRISPR for Genome Editing](/class14)
 ### Computing with Biology
 
 Wednesday, 16 March: [Class 15: Computing with Biology](/class15)  
-Monday, 21 March: [Class 16: Guest Speaker: [William Pearson](https://fasta.bioch.virginia.edu/wrpearson/)](/class16)  
+Monday, 21 March: Class 16: Guest Speaker: [William Pearson](https://fasta.bioch.virginia.edu/wrpearson/)  
 Wednesday, 23 March: [Class 17: DNA Storage](/class17)
 
 ### Genomes and Privacy
@@ -144,8 +144,8 @@ Monday, 11 April: [Class 22: TBD](/class22)
 Wednesday, 13 April: [Class 23: TBD](/class23)  
 Monday, 18 April: [Class 24: TBD](/class24)  
 Tuesday, 19 April (4:59pm): **Due: Project Update**  
-Wednesday, 20 April: [Class 25: Guest Speaker: [Kristen Naegle](https://engineering.virginia.edu/naegle-lab)](/class25)  
-Monday, 25 April: [Class 26: Guest Speaker: [Nathan Sheffield](https://databio.org/)](/class26)  
+Wednesday, 20 April: Class 25: Guest Speaker: [Kristen Naegle](https://engineering.virginia.edu/naegle-lab)
+Monday, 25 April: Class 26: Guest Speaker: [Nathan Sheffield](https://databio.org/)
 
 ### Project Presentations
 
