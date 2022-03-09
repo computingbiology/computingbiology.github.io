@@ -8,7 +8,11 @@
     <language>en-us</language>
     <managingEditor>evans@virginia.edu (David Evans)</managingEditor>
     <webMaster>evans@virginia.edu (David Evans)</webMaster>
-    <lastBuildDate>Fri, 04 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Mar 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://computingbiology.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Project 3: Multiple Hypothesis Testing and CRISPR</title>
       <link>https://computingbiology.github.io/project-3-multiple-hypothesis-testing-and-crispr/</link>
@@ -17,6 +21,15 @@
       <guid>https://computingbiology.github.io/project-3-multiple-hypothesis-testing-and-crispr/</guid>
       <description>Project 3 is now posted, and is due on Monday, 21 March (as mentioned in class, we are not expecting you to work over spring break, but are posting it now for people who want to get started early).
 Recall also from Wednesday, that you have the option to start the Final Project early if you have an idea what you want to do and submit an acceptable Project Idea by Tuesday, 15 March (4:59pm) and have it approved.</description>
+    </item>
+    
+    <item>
+      <title>Final Project</title>
+      <link>https://computingbiology.github.io/class13/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/class13/</guid>
+      <description>Class 13 was a discussion of ideas for the Final Project. (There are no other slides or links.)</description>
     </item>
     
     <item>

@@ -24,7 +24,7 @@ These deadlines and the topics are likely to change (but will be updated when pr
 
 **[Project 1: Assembling Genomes](/project1)** (out Tuesday, 25 January, due Tuesday 8 February)  
 **[Project 2: Genome Alignment and Analysis](/project2)** (out Wednesday, 9 February, due Thursday 24 February)  
-**[Project 3: CRISPR]** (due Monday, 21 March)  
+**[Project 3: CRISPR](/project3)** (due Monday, 21 March)  
 
 **[Final Project](/finalproject)**: final projects due Monday 2 May (last day of class), 
 with several intermediate deliverables and short presentations before then.
@@ -109,7 +109,8 @@ Wednesday, 23 February: [Class 11: Editing Genomes](/class11)
 - Recombinant DNA
 
 Monday, 28 February: [Class 12: CRISPR in Bacteria](/class12)  
-- 
+- CRISPR mechanisms in bacteria
+- Story of CRISPR (and the CRISPR patent)
 
 Wednesday, 2 March: [Class 13: Project Planning](/class13)  
 
@@ -119,24 +120,32 @@ Monday, 14 March: [Class 14: CRISPR for Genome Editing](/class14)
 
 ### Computing with Biology
 
-Wednesday, 16 March: [Class 15: Biological Logic Gates](/class15)  
-Monday, 21 March: [Class 16: DNA Storage](/class16)  
-Wednesday, 23 March: [Class 17: Neurological Computing](/class17)
+Wednesday, 16 March: [Class 15: Computing with Biology](/class15)  
+Monday, 21 March: [Class 16: Guest Speaker: [William Pearson](https://fasta.bioch.virginia.edu/wrpearson/)](/class16)  
+Wednesday, 23 March: [Class 17: DNA Storage](/class17)
 
 ### Genomes and Privacy
 
-Monday, 28 March: [Class 18: Project Ideas](/class18)  
-Wednesday, 30 March: [Class 19: Genome Privacy Risks](/class19)  
-Monday, 4 April: [Class 20: Privacy-Preserving Genomics](/class20)  
-Wednesday, 6 April: [Class 21: GWAS](/class21)
+onday, 28 March: [Class 18: Genomes and Privacy](/class18) (guest lecture by [Anshuman Suri](https://www.anshumansuri.me/))  
+
+Tuesday, 29 March (4:59pm): **Due: Final Project Idea**
+
+Wednesday, 30 March: [Class 19: Project Idea Presentations](/class19)
+
+Monday, 4 April: [Class 20: TBD](/class20)  
+
+Wednesday, 6 April: [Class 21: TBD](/class21)
+
+Friday, 8 April (4:59pm): **Due: Project Proposal**
 
 ### Research Topics
 
-Monday, 11 April: [Class 22: Project Updates](/class22)  
+Monday, 11 April: [Class 22: TBD](/class22)  
 Wednesday, 13 April: [Class 23: TBD](/class23)  
 Monday, 18 April: [Class 24: TBD](/class24)  
-Wednesday, 20 April: [Class 25: TBD](/class25)  
-Monday, 25 April: [Class 26: TBD](/class26)  
+Tuesday, 19 April (4:59pm): **Due: Project Update**  
+Wednesday, 20 April: [Class 25: Guest Speaker: [Kristen Naegle](https://engineering.virginia.edu/naegle-lab)](/class25)  
+Monday, 25 April: [Class 26: Guest Speaker: [Nathan Sheffield](https://databio.org/)](/class26)  
 
 ### Project Presentations
 
