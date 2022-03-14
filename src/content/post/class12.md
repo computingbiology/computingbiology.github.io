@@ -29,6 +29,9 @@ The slides from the 28 February class are here: [class12.pdf](https://www.dropbo
 - Yoshizumi Ishino, Hideo Shinagawa, Kozo Makino, Mitsuko Amemura, and Atsuo Nakata. [_Nucleotide Sequence of the _iap_ Gene, Responsible for Alkaline Phosphatase Isozyme Conversion in Escherichia coli, and Identification of the Gene Product_](/docs/ishino1987.pdf), Journal of Bacteriology, December 1987. (This is the first paper to observe the palindromic repeats in bacterial DNA.)
 
 - Prarthana Mohanraju, Kira S. Makarova, Bernd Zetsche, Feng Zhang,
-  Eugene V. Koonin, John van der Oost. [_Diverse evolutionary roots and mechanistic variations of the CRISPR-Cas systems_]. Science, August 2016.
+  Eugene V. Koonin, John van der Oost. [_Diverse evolutionary roots and mechanistic variations of the CRISPR-Cas systems_](mohanraju2016.pdf). Science, August 2016.
+
+- Martin Jinek, Krzysztof Chylinski, Ines Fonfara, Michael Hauer, Jennifer A. Doudna, Emmanuelle Charpentier. 
+[_A Programmable Dual-RNA–Guided DNA Endonuclease in Adaptive Bacterial Immunity_](https://www.science.org/doi/10.1126/science.1225829), Science, 28 June 2012. [[PDF](/docs/jinek2012.pdf)]
 
 - CRISPR patent: [_Methods and compositions for RNA-directed target DNA modification and for RNA-directed transcription modulation_](https://patents.google.com/patent/US20220010338A1/en)
