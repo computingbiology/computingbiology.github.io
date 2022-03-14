@@ -1,13 +1,22 @@
 +++
 date = "14 Mar 2022"
-draft = true
+draft = false
 title = "Class 14: CRISPR for Humans"
 author = "David Evans"
 slug = "class14"
 +++
 
+## Schedule
 
-# Links
+**[Project 3](/project3)** is due Monday, 21 March.
+
+The last day to submit an early Final Project idea is tomorrow (Tuesday, 15 March, 4:59pm). See [Final Project](/finalproject) for details.
+
+## Slides
+
+The slides from the 14 February class are here: [class14.pdf](https://www.dropbox.com/s/tx4cgjdianbzmzx/csbio-class14.pdf?dl=0)
+
+## Links
 
 - Nimrat Chatterjee and Graham C. Walker. [_Mechanisms of DNA damage, repair and mutagenesis_](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC5474181/). Enviromental and Molecular Mutagenesis, 9 May 2017.
 

@@ -8,10 +8,19 @@
     <language>en-us</language>
     <managingEditor>evans@virginia.edu (David Evans)</managingEditor>
     <webMaster>evans@virginia.edu (David Evans)</webMaster>
-    <lastBuildDate>Thu, 03 Mar 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Mon, 14 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class 14: CRISPR for Humans</title>
+      <link>https://computingbiology.github.io/class14/</link>
+      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/class14/</guid>
+      <description>Schedule Project 3 is due Monday, 21 March.
+The last day to submit an early Final Project idea is tomorrow (Tuesday, 15 March, 4:59pm). See Final Project for details.
+Slides The slides from the 14 February class are here: class14.pdf
+Links   Nimrat Chatterjee and Graham C. Walker. Mechanisms of DNA damage, repair and mutagenesis. Enviromental and Molecular Mutagenesis, 9 May 2017.
+  DNA Repair - Providing Chemical Stability for Life - Nobel Prize in Chemistry 2015 to Tomas Lindahl, Paul Modrich and Aziz Sancar.</description>
+    </item>
     
     <item>
       <title>Project 3: Multiple Hypothesis Testing and CRISPR</title>
