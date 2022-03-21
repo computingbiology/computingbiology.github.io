@@ -117,12 +117,23 @@ Wednesday, 2 March: [Class 13: Project Planning](/class13)
 ### Spring Break: 5 &mdash; 13 March
 
 Monday, 14 March: [Class 14: CRISPR for Genome Editing](/class14)
+- Designing the gRNA
+- DNA Repair Mechanisms
+- Mismatch Repair
+- Homologous Recombination Repair
+
 
 ### Computing with Biology
 
-Wednesday, 16 March: [Class 15: Computing with Biology](/class15)  
+Wednesday, 16 March: [Class 15: Crispyr CRISPR](/class15)
+- Finishing Homologous Recombination Repair
+- CRISPR Patent Dispute (using HDR to perform edits)
+- CRISPR without double-strand breaks
+- Base Editing (Deaminase)
+- Prime Editing
+
 Monday, 21 March: Class 16: Guest Speaker: [William Pearson](https://fasta.bioch.virginia.edu/wrpearson/)  
-Wednesday, 23 March: [Class 17: DNA Storage](/class17)
+Wednesday, 23 March: [Class 17: Computing with DNA](/class17)
 
 ### Genomes and Privacy
 
