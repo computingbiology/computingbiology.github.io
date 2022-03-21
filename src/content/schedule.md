@@ -133,11 +133,12 @@ Wednesday, 16 March: [Class 15: Crispyr CRISPR](/class15)
 - Prime Editing
 
 Monday, 21 March: Class 16: Guest Speaker: [William Pearson](https://fasta.bioch.virginia.edu/wrpearson/)  
+
 Wednesday, 23 March: [Class 17: Computing with DNA](/class17)
 
 ### Genomes and Privacy
 
-onday, 28 March: [Class 18: Genomes and Privacy](/class18) (guest lecture by [Anshuman Suri](https://www.anshumansuri.me/))  
+Monday, 28 March: [Class 18: Genomes and Privacy](/class18) (guest lecture by [Anshuman Suri](https://www.anshumansuri.me/))  
 
 Tuesday, 29 March (4:59pm): **Due: Final Project Idea**
 
