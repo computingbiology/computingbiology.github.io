@@ -135,6 +135,8 @@ Wednesday, 16 March: [Class 15: Crispyr CRISPR](/class15)
 Monday, 21 March: [Class 16: Protein Evolution and Similarity Searching](/class16) (Guest Speaker: [William Pearson](https://fasta.bioch.virginia.edu/wrpearson/))  
 
 Wednesday, 23 March: [Class 17: Computing with DNA](/class17)
+- Theory of Computation Review
+- Computing Hamiltonian Path with DNA
 
 ### Genomes and Privacy
 
