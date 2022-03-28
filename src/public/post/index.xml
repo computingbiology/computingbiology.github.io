@@ -8,7 +8,17 @@
     <language>en-us</language>
     <managingEditor>evans@virginia.edu (David Evans)</managingEditor>
     <webMaster>evans@virginia.edu (David Evans)</webMaster>
-    <lastBuildDate>Wed, 23 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class 18: Privacy in Genomics</title>
+      <link>https://computingbiology.github.io/class18/</link>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/class18/</guid>
+      <description>Schedule Final Project idea is due Tuesday, 29 March (4:59pm). You should submit your Final Project Idea using this form, which includes a place to upload a file to use for your presentation. This should be at most two slides that get across the purpose of your project (and include the names of your team). You will present your project idea in class on Wednesday, 30 March.
+Slides Guest lecture by Anshuman Suri.</description>
+    </item>
+    
     <item>
       <title>Class 17: Computing with DNA</title>
       <link>https://computingbiology.github.io/class17/</link>

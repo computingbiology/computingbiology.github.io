@@ -1,6 +1,6 @@
 +++
 date = "28 Mar 2022"
-draft = true
+draft = false
 title = "Class 18: Privacy in Genomics"
 slug = "class18"
 +++
@@ -17,7 +17,9 @@ slug = "class18"
 
 ## Slides
 
-Slides: [class18.pdf](https://www.dropbox.com/)
+Guest lecture by [Anshuman Suri](https://www.anshumansuri.me/).
+
+Slides: [class18.pdf](https://www.dropbox.com/s/rjqj3p0warce5wt/class18.pdf?dl=0)
 
 ## Links
 
