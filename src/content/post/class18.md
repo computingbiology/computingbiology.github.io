@@ -36,3 +36,4 @@ Slides: [class18.pdf](https://www.dropbox.com/s/rjqj3p0warce5wt/class18.pdf?dl=0
 - Tang H, Jiang X, Wang X, Wang S, Sofia H, Fox D, Lauter K, Malin B, Telenti A, Xiong L, Ohno-Machado L. [Protecting genomic data analytics in the cloud: state of the art and opportunities](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-016-0224-3). BMC Medical Genomics, Dec 2016.
 
 - Suri A, Evans D. [Formalizing and Estimating Distribution Inference Risks](https://arxiv.org/pdf/2109.06024.pdf). arXiv preprint, 2021.
+ 
