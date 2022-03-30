@@ -23,17 +23,17 @@ Slides: [class18.pdf](https://www.dropbox.com/s/rjqj3p0warce5wt/class18.pdf?dl=0
 
 ## Links
 
-- Huang Y, Evans D, Katz J, Malka L. [Faster Secure {Two-Party} Computation Using Garbled Circuits](https://www.usenix.org/legacy/event/sec11/tech/full_papers/Huang.pdf). USENIX Security, 2011.
+- Yan Huang David Evans, Jonathan Katz, and Lior Malka. [_Faster Secure Two-Party Computation Using Garbled Circuits_](https://www.usenix.org/legacy/event/sec11/tech/full_papers/Huang.pdf). USENIX Security, 2011.
 
-- Ball M, Carmer B, Malkin T, Rosulek M, Schimanski N. [Garbled Neural Networks are Practical](https://eprint.iacr.org/2019/338.pdf). Cryptology ePrint Archive. 2019.
+- Marshall Ball, Brent Carmer, Tal Malkin, Mike Rosulek, and Nichole Schimanski. [_Garbled Neural Networks are Practical_](https://eprint.iacr.org/2019/338.pdf). Cryptology ePrint Archive. 2019.
 
-- Wang XS, Huang Y, Zhao Y, Tang H, Wang X, Bu D. [Efficient Genome-Wide, Privacy-Preserving Similar Patient Query based on Private Edit Distance](https://dl.acm.org/doi/pdf/10.1145/2810103.2813725). ACM SIGSAC Conference on Computer and Communications Security, 2015.
+- Xiao Wang, Yan Huang, Yongan Zhao, Haixu Tang, XiaoFeng Wang, and Diyue Bu. [_Efficient Genome-Wide, Privacy-Preserving Similar Patient Query based on Private Edit Distance_](https://dl.acm.org/doi/pdf/10.1145/2810103.2813725). ACM SIGSAC Conference on Computer and Communications Security, 2015.
 
-- Blindenbach JA, Jagadeesh KA, Bejerano G, Wu DJ. [Avoiding genetic racial profiling in criminal DNA profile databases](https://www.nature.com/articles/s43588-021-00058-3). Nature Computational Science, April 2021.
+- Jacob Blindenbach, Karthik Jagadeesh, Gill Bejerano, and David Wu. [_Avoiding genetic racial profiling in criminal DNA profile databases_](https://www.nature.com/articles/s43588-021-00058-3). Nature Computational Science, April 2021.
 
-- Cho H, Wu DJ, Berger B. [Secure genome-wide association analysis using multiparty computation](https://www.nature.com/articles/nbt.4108.pdf?origin=ppub). Nature Biotechnology, July 2018.
+- Hyunghoon Cho, David Wu, and Bonnie Berger. [Secure genome-wide association analysis using multiparty computation](https://www.nature.com/articles/nbt.4108.pdf?origin=ppub). Nature Biotechnology, July 2018.
 
-- Tang H, Jiang X, Wang X, Wang S, Sofia H, Fox D, Lauter K, Malin B, Telenti A, Xiong L, Ohno-Machado L. [Protecting genomic data analytics in the cloud: state of the art and opportunities](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-016-0224-3). BMC Medical Genomics, Dec 2016.
+- Haixu Tang, Xiaoqian Jiang, XiaoFeng Wang, Shuang Wang, Heidi Sofia, Dov Fox, Kristin Lauter, Bradley Malin, Amalio Telenti, Li Xiong, and Lucila Ohno-Machado. [_Protecting genomic data analytics in the cloud: state of the art and opportunities_](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-016-0224-3). BMC Medical Genomics, Dec 2016.
 
-- Suri A, Evans D. [Formalizing and Estimating Distribution Inference Risks](https://arxiv.org/pdf/2109.06024.pdf). arXiv preprint, 2021.
+- Anshuman Suri and David Evans. [_Formalizing and Estimating Distribution Inference Risks_](https://arxiv.org/pdf/2109.06024.pdf). arXiv preprint, 2021.
  
