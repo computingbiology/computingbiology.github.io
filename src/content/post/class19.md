@@ -9,8 +9,8 @@ slug = "class19"
 
 The next deliverable for the [Final Project](/finalproject) is your
 **Project Proposal** (see [Final Project](/finalproject) for
-details). This is due **Friday, 8 April** (4:59pm). For teams on the
-early schedule, this is due on **Monday, 4 April** (4:59pm) (this is
+details). This is due **Friday, 8 April** (7:59pm). For teams on the
+early schedule, this is due on **Monday, 4 April** (7:59pm) (this is
 extended from the original deadline, since I forgot to announce this
 earlier).
 
