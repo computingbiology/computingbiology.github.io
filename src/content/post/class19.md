@@ -9,8 +9,36 @@ slug = "class19"
 
 The next deliverable for the [Final Project](/finalproject) is your
 **Project Proposal** (see [Final Project](/finalproject) for
-details). This is due **Friday, 8 April** (4:59pm).
+details). This is due **Friday, 8 April** (4:59pm). For teams on the
+early schedule, this is due on **Monday, 4 April** (4:59pm) (this is
+extended from the original deadline, since I forgot to announce this
+earlier).
 
+For the Project Proposal, you should submit a single PDF file using [this form](https://forms.gle/wrdH1kQJY5uy6XoC7) with answers to these questions:
+
+1. The names of all members of your team.
+
+2. Title of your project: short description that clearly captures your project idea.
+
+3. A short paragraph that describes the goal of your project.
+
+4. A project justification that explains how your planned project is likely to satisfy at least three of the goals above (fun, relevant, technically interesting, useful).
+
+Questions 1-4 are from the Project Idea Submission. If nothing has changed about your answers to these, you can just submit the same answers as you submitted before (hopefully you saved these!). If anything has changed, you should explain how your plans have changed from the original project idea.
+
+5. State-of-the-art: your understanding of what is already available
+connected to the goal of your project. This could be other attempts to
+achieve the same goal (and why you think you can do something better),
+or work related to similar goals. A good state-of-the-art will include
+references to specific relevant work. For most types of projects, this
+would include research papers relevant to your topic.
+
+6. A project plan that explains the main tasks needed to successfully
+complete your project and what you will actually do.
+
+7. A management plan list of your team members and their roles and
+responsibilities. If your team has more than two people, this should
+also explain how you plan to coordinate and manage your team.
 
 ## Project Ideas
 
