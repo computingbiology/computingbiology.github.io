@@ -10,6 +10,9 @@ slug = "class20"
 **Project Proposal** (see [Final Project](/finalproject) for details)
 is due **Friday, 8 April** (7:59pm), except for teams on the early schedule when it is due **Today**, **Monday, 4 April** (7:59pm).
 
+Use this form to submit your project proposal (which is just a PDF file):
+[Project Proposal Form](https://docs.google.com/forms/d/e/1FAIpQLScQ5IQW-YHduwFQYxU_l-NEbRJuy7jeUSHVAaMr45wX7-nwlg/viewform).
+
 ## Slides
 
 Slides: [class20.pdf](https://www.dropbox.com/s/9huzukphgiqz4ow/csbio-class20.pdf?dl=0)
