@@ -147,7 +147,9 @@ Tuesday, 29 March (4:59pm): **Due: Final Project Idea**
 
 Wednesday, 30 March: [Class 19: Project Idea Presentations](/class19)
 
-Monday, 4 April: [Class 20: TBD](/class20)  
+Monday, 4 April: [Class 20: Computing with Membranes](/class20)
+- Membrane Computing
+- P-Systems
 
 Wednesday, 6 April: [Class 21: TBD](/class21)
 
@@ -156,13 +158,19 @@ Friday, 8 April (4:59pm): **Due: Project Proposal**
 ### Research Topics
 
 Monday, 11 April: [Class 22: TBD](/class22)  
+
 Wednesday, 13 April: [Class 23: TBD](/class23)  
+
 Monday, 18 April: [Class 24: TBD](/class24)  
+
 Tuesday, 19 April (4:59pm): **Due: Project Update**  
+
 Wednesday, 20 April: Class 25: Guest Speaker: [Kristen Naegle](https://engineering.virginia.edu/naegle-lab)  
+
 Monday, 25 April: Class 26: Guest Speaker: [Nathan Sheffield](https://databio.org/)
 
 ### Project Presentations
 
 Wednesday, 27 April: [Class 27: Projects Mini-Workshop](/class27)  
+
 Monday, 2 May: [Class 28: Projects Mini-Workshop](/class28)
