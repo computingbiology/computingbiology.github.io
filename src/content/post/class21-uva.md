@@ -1,5 +1,0 @@
-- William H. Press, John A. Hawkins, Stephen K. Jones, Jeffrey M. Schaubd, and Ilya J. Finkelsteind. [_HEDGES error-correcting code for DNA storage corrects indels and allows sequence constraints_](https://www.pnas.org/doi/pdf/10.1073/pnas.2004821117). PNAS, August 2020.
-
-- George M. Church, Yuan Gao, and Sriram Kosuri. [_Next-Generation Digital Information Storage in DNA_](/docs/church2012.pdf) (and [Supplemental Materials](/docs/church.sm.pdf) with the code and details!), Science, August 2012.
-
-- Jacques Bonnet, Marthe Colotte, Delphine Coudy, Vincent Couallier, Joseph Portier, Bénédicte Morin, Sophie Tuffet. [_Chain and conformation stability of solid-state DNA: implications for room temperature storage_](https://academic.oup.com/nar/article/38/5/1531/3112491). Nucleic Acids Research, March 2010.
