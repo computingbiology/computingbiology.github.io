@@ -147,15 +147,18 @@ Tuesday, 29 March (4:59pm): **Due: Final Project Idea**
 
 Wednesday, 30 March: [Class 19: Project Idea Presentations](/class19)
 
+### Computing with Biology
+
 Monday, 4 April: [Class 20: Computing with Membranes](/class20)
 - Membrane Computing
 - P-Systems
 
-Wednesday, 6 April: [Class 21: TBD](/class21)
+Wednesday, 6 April: [Class 21: DNA Storage](/class21)
+- Data density of DNA (including definition of a mole)
+- Information Theory
+- Church's DNA Storage Experiment
 
 Friday, 8 April (4:59pm): **Due: Project Proposal**
-
-### Research Topics
 
 Monday, 11 April: [Class 22: TBD](/class22)  
 
