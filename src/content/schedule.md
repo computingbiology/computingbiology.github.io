@@ -160,9 +160,9 @@ Wednesday, 6 April: [Class 21: DNA Storage](/class21)
 
 Friday, 8 April (4:59pm): **Due: Project Proposal**
 
-Monday, 11 April: [Class 22: TBD](/class22)  
+Monday, 11 April: [Class 22: Implementing DNA Storage](/class22)  
 
-Wednesday, 13 April: [Class 23: TBD](/class23)  
+Wednesday, 13 April: [Class 23: Programmable Pharmacueticals](/class23)  
 
 Monday, 18 April: [Class 24: TBD](/class24)  
 
