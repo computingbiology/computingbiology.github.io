@@ -51,6 +51,10 @@ cause of death, if possible. Terms such as senescence, infirmity, old
 age, and advanced age have little value for public health or medical
 research._
 
+The "manner of death" includes Natural as an option (with the others
+being Accident, Suicide, Homicide, Pending investigation, and "Could
+not be determined".
+
 If you're interested in exploring causes of death more, this is a
 (morbidly) great site (based on the CDC data): [_How Will I
 Die?_](https://www.lifecontingencies.com/question/3).
