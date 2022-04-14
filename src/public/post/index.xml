@@ -8,7 +8,18 @@
     <language>en-us</language>
     <managingEditor>evans@virginia.edu (David Evans)</managingEditor>
     <webMaster>evans@virginia.edu (David Evans)</webMaster>
-    <lastBuildDate>Mon, 11 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class 23: Programmable Pharmacueticals</title>
+      <link>https://computingbiology.github.io/class23/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/class23/</guid>
+      <description>Schedule Project Update: due Tuesday, 19 April, 4:59pm. An update on how your project is going, any changes from your original plans, and summary of what progress you have been able to make. (A link to a form for submitting this will be posted on April 18.)
+Slides Slides: class23.pdf
+Causes of Death There was a great question about what fraction of all deaths are accounted for in the statistics I showed from Our World In Data.</description>
+    </item>
+    
     <item>
       <title>Class 22: Implementing DNA Storage</title>
       <link>https://computingbiology.github.io/class22/</link>

@@ -97,6 +97,12 @@ cs4501 Spring 2021<br>
    <b><a href="/post/">Recent Posts</a></b>
    
    <div class="posttitle">
+      <a href="/class23/">Class 23: Programmable Pharmacueticals</a>
+
+
+   </div>
+   
+   <div class="posttitle">
       <a href="/class22/">Class 22: Implementing DNA Storage</a>
 
 
@@ -176,12 +182,6 @@ cs4501 Spring 2021<br>
    
    <div class="posttitle">
       <a href="/class12/">Class 12: CRISPR in Bacteria</a>
-
-
-   </div>
-   
-   <div class="posttitle">
-      <a href="/class11/">Class 11: Editing Genomes</a>
 
 
    </div>
@@ -284,9 +284,79 @@ cs4501 Spring 2021<br>
     
         
     
+        
+    
 
 
     
+    
+    <h1><a href="/class23/">Class 23: Programmable Pharmacueticals</a></h1>
+<div class="post-metadata">
+  <span class="post-date">
+    <time datetime="2022-04-13 00:00:00 &#43;0000 UTC" itemprop="datePublished">13 April 2022</time>
+  </span>
+  
+</div>
+
+      <div class="post-body" itemprop="articleBody">
+        <h2 id="schedule">Schedule</h2>
+<p><strong>Project Update: due Tuesday, 19 April, 4:59pm.</strong> An update on how your project is going, any changes from your original plans, and summary of what progress you have been able to make. (A link to a form for submitting this will be posted on April 18.)</p>
+<h2 id="slides">Slides</h2>
+<p>Slides: <a href="https://www.dropbox.com/s/kgxqy4auzj92h7q/csbio-class23.pdf?dl=0">class23.pdf</a></p>
+<h2 id="causes-of-death">Causes of Death</h2>
+<p>There was a great question about what fraction of all deaths are
+accounted for in the statistics I showed from <a href="https://ourworldindata.org/causes-of-death">Our World In
+Data</a>. The source of most
+of the data is the <a href="https://www.healthdata.org/gbd/2019">Global Burden of Disease
+Study</a> (mostly funded by the
+Gates Foundation). My understanding is that the statistics do attempt
+to assign a cause of death to every death, but are using a lot of
+imputation to do it (according to <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30925-9/fulltext"><em>Global burden of 369 diseases and
+injuries in 204 countries and territories, 1990–2019: a systematic
+analysis for the Global Burden of Disease Study
+2019</em></a>,
+&ldquo;Input data were extracted from censuses, household surveys, civil
+registration and vital statistics, disease registries, health service
+use, air pollution monitors, satellite imaging, disease notifications,
+and other sources. Cause-specific death rates and cause fractions were
+calculated using the Cause of Death Ensemble model and spatiotemporal
+Gaussian process regression. Cause-specific deaths were adjusted to
+match the total all-cause deaths calculated as part of the GBD
+population, fertility, and mortality estimates.&quot;) They make many adjustments and corrections to the reported data to account for all sorts of biases in it (full details in this 1813 page <a href="https://www.thelancet.com/cms/10.1016/S0140-6736(20)30925-9/attachment/deb36c39-0e91-4057-9594-cc60654cf57f/mmc1.pdf">Appendix 1</a>, and <a href="https://ghdx.healthdata.org/gbd-2019/code">available source code</a>.
+This should, of course, raise concerns about how closely the statistics used match the reality, but it is the best data we have.</p>
+<p>For specific countries such as the US, there is more standard and
+perhaps more carefully collected data. You can see the CDC form
+doctors in the US fill our for cause of death: <a href="https://www.cdc.gov/nchs/data/dvs/blue_form.pdf">_Instructions for
+Completing the Cause-of-Death Section of the Death Certificate
+_</a>. It does require
+at least one cause of death to be filled in, and discourages use of
+anything like &ldquo;natural causes&rdquo; as the cause of death: &ldquo;The elderly
+decedent should have a clear and distinct etiological sequence for
+cause of death, if possible. Terms such as senescence, infirmity, old
+age, and advanced age have little value for public health or medical
+research.&rdquo;.</p>
+<p>If you&rsquo;re interested in exploring causes of death more, this is a great site (based on the CDC data):
+<a href="https://www.lifecontingencies.com/question/3"><em>How Will I Die?</em></a>.</p>
+<h2 id="links">Links</h2>
+<ul>
+<li>Zhen Xie, Liliana Wroblewska, Laura Prochazka, Ron Weiss, Yaakov Benenson. <a href="docs/xie-rna-logic-2011.pdf"><em>Multi-Input RNAi-Based Logic Circuit for Identification of Specific Cancer Cells</em></a>. Science, 2 September 2011.</li>
+</ul>
+<p>Logic goes in vitro: <a href="https://www.nature.com/articles/nnano.2007.23.pdf">https://www.nature.com/articles/nnano.2007.23.pdf</a></p>
+<p>Advances in Applications of Molecular Logic Gates:
+<a href="https://pubs.acs.org/doi/10.1021/acsomega.1c02912">https://pubs.acs.org/doi/10.1021/acsomega.1c02912</a></p>
+<ul>
+<li>
+<p>Dual MicroRNA-Triggered Drug Release System for Combined Chemotherapy and Gene Therapy with Logic Operation
+<a href="https://pubs.acs.org/doi/10.1021/acsami.0c09494?ref=PDF">https://pubs.acs.org/doi/10.1021/acsami.0c09494?ref=PDF</a></p>
+</li>
+<li>
+<p>Ana E. Jenike and Marc K. Halushka. <a href="https://biomarkerres.biomedcentral.com/track/pdf/10.1186/s40364-021-00272-1.pdf"><em>miR-21: a non‐specific biomarker of all maladies</em></a>. Biomarker Research, 2021.</p>
+</li>
+</ul>
+
+      </div>
+<hr class="post-separator"></hr>
+
     
     <h1><a href="/class22/">Class 22: Implementing DNA Storage</a></h1>
 <div class="post-metadata">
@@ -478,55 +548,6 @@ also explain how you plan to coordinate and manage your team.</p>
 <li>Ho Yeon Jeong, Pawan Jayakumar, <em>A Survey of CRISPR and its Newest Variations and Applications</em></li>
 <li>Sion Kim, <em>Sequencing my own genome</em></li>
 <li>Emily Buckley, <em>Investigating Heart Disease in Cavalier King Charles Spaniels</em></li>
-</ul>
-
-      </div>
-<hr class="post-separator"></hr>
-
-    
-    <h1><a href="/class18/">Class 18: Privacy in Genomics</a></h1>
-<div class="post-metadata">
-  <span class="post-date">
-    <time datetime="2022-03-28 00:00:00 &#43;0000 UTC" itemprop="datePublished">28 March 2022</time>
-  </span>
-  
-</div>
-
-      <div class="post-body" itemprop="articleBody">
-        <h2 id="schedule">Schedule</h2>
-<p><strong><a href="/finalproject">Final Project</a></strong> idea is due Tuesday, 29 March
-(4:59pm). You should submit your Final Project Idea using <a href="https://forms.gle/hG8yu1X44hVb8Bfs6">this
-form</a>, which includes a place
-to upload a file to use for your presentation. This should be at
-most two slides that get across the purpose of your project (and
-include the names of your team). You will present your project idea
-in class on Wednesday, 30 March.</p>
-<h2 id="slides">Slides</h2>
-<p>Guest lecture by <a href="https://www.anshumansuri.me/">Anshuman Suri</a>.</p>
-<p>Slides: <a href="https://www.dropbox.com/s/rjqj3p0warce5wt/class18.pdf?dl=0">class18.pdf</a></p>
-<h2 id="links">Links</h2>
-<ul>
-<li>
-<p>Yan Huang David Evans, Jonathan Katz, and Lior Malka. <a href="https://www.usenix.org/legacy/event/sec11/tech/full_papers/Huang.pdf"><em>Faster Secure Two-Party Computation Using Garbled Circuits</em></a>. USENIX Security, 2011.</p>
-</li>
-<li>
-<p>Marshall Ball, Brent Carmer, Tal Malkin, Mike Rosulek, and Nichole Schimanski. <a href="https://eprint.iacr.org/2019/338.pdf"><em>Garbled Neural Networks are Practical</em></a>. Cryptology ePrint Archive. 2019.</p>
-</li>
-<li>
-<p>Xiao Wang, Yan Huang, Yongan Zhao, Haixu Tang, XiaoFeng Wang, and Diyue Bu. <a href="https://dl.acm.org/doi/pdf/10.1145/2810103.2813725"><em>Efficient Genome-Wide, Privacy-Preserving Similar Patient Query based on Private Edit Distance</em></a>. ACM SIGSAC Conference on Computer and Communications Security, 2015.</p>
-</li>
-<li>
-<p>Jacob Blindenbach, Karthik Jagadeesh, Gill Bejerano, and David Wu. <a href="https://www.nature.com/articles/s43588-021-00058-3"><em>Avoiding genetic racial profiling in criminal DNA profile databases</em></a>. Nature Computational Science, April 2021.</p>
-</li>
-<li>
-<p>Hyunghoon Cho, David Wu, and Bonnie Berger. <a href="https://www.nature.com/articles/nbt.4108.pdf?origin=ppub">Secure genome-wide association analysis using multiparty computation</a>. Nature Biotechnology, July 2018.</p>
-</li>
-<li>
-<p>Haixu Tang, Xiaoqian Jiang, XiaoFeng Wang, Shuang Wang, Heidi Sofia, Dov Fox, Kristin Lauter, Bradley Malin, Amalio Telenti, Li Xiong, and Lucila Ohno-Machado. <a href="https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-016-0224-3"><em>Protecting genomic data analytics in the cloud: state of the art and opportunities</em></a>. BMC Medical Genomics, Dec 2016.</p>
-</li>
-<li>
-<p>Anshuman Suri and David Evans. <a href="https://arxiv.org/pdf/2109.06024.pdf"><em>Formalizing and Estimating Distribution Inference Risks</em></a>. arXiv preprint, 2021.</p>
-</li>
 </ul>
 
       </div>
