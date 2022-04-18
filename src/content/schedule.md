@@ -161,10 +161,22 @@ Wednesday, 6 April: [Class 21: DNA Storage](/class21)
 Friday, 8 April (4:59pm): **Due: Project Proposal**
 
 Monday, 11 April: [Class 22: Implementing DNA Storage](/class22)  
+- Encoding for DNA Storage
+- Stability of DNA
+- Random Access DNA Storage
 
 Wednesday, 13 April: [Class 23: Programmable Pharmacueticals](/class23)  
+- Biological Circuits
+- Causes of Death
+- Apoptosis
+- Designing and Composing Biological Gates
+- Why haven't we cured cancer yet?
 
-Monday, 18 April: [Class 24: TBD](/class24)  
+Monday, 18 April: [Class 24: Protein Folding and AlphaFold](/class24)  
+- Protein Structures
+- Anfin's Experiment and the Thermodynamic Hypothesis
+- Protein Structure Prediction
+- AlphaFold
 
 Tuesday, 19 April (4:59pm): **Due: Project Update**  
 

@@ -1,23 +1,29 @@
 +++
 date = "18 Apr 2022"
-draft = true
-title = "Class 24: AlphaFold"
+draft = false
+title = "Class 24: Protein Folding and AlphaFold"
 slug = "class24"
 +++
 
 ## Schedule
 
-**Project Update: due tomorrow, Tuesday, 19 April, 4:59pm.** An update on how your project is going, any changes from your original plans, and summary of what progress you have been able to make.
+**<a href="https://forms.gle/cRa1Yz9a6BhP5x779">Project Update</a>: due tomorrow, Tuesday, 19 April, 4:59pm.**
+
+<center>
+[<b>Submission Form</b>](https://forms.gle/cRa1Yz9a6BhP5x779)
+</center>
 
 ## Slides
 
-Slides: [class24.pdf]()
+Slides: [class24.pdf](https://www.dropbox.com/s/g926zlo2t3djy6o/csbio-class24.pdf?dl=0)
 
 ## Links
 
 - Ken A. Dill, S. Banu Ozkan, M. Scott Shell, and Thomas R. Weikl. [_The Protein Folding Problem_](docs/dill08.pdf). Annual Review of Biophysics, 2008.
 
 - Bonnie Berger and Tom Leighton. [_Protein Folding in the Hydrophobic-Hydrophilic Model is NP-Complete_](/docs/berger1998.pdf). RECOMB 1998.
+
+- Scott Aaronson, [_NP-complete Problems and Physical Reality_](https://www.scottaaronson.com/papers/npcomplete.pdf).
 
 - Andrew W. Senior, Richard Evans, John Jumper, James Kirkpatrick, Laurent Sifre, Tim Green, Chongli Qin, Augustin Žídek, Alexander W. R. Nelson, Alex Bridgland, Hugo Penedones, Stig Petersen, Karen Simonyan, Steve Crossan, Pushmeet Kohli, David T. Jones, David Silver, Koray Kavukcuoglu, and Demis Hassabis. [_Improved protein structure prediction using potentials from deep learning_](/docs/alphafold1-senior2020.pdf). January 2020.
 

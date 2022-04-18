@@ -8,10 +8,20 @@
     <language>en-us</language>
     <managingEditor>evans@virginia.edu (David Evans)</managingEditor>
     <webMaster>evans@virginia.edu (David Evans)</webMaster>
-    <lastBuildDate>Sat, 19 Mar 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Mon, 18 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class 24: Protein Folding and AlphaFold</title>
+      <link>https://computingbiology.github.io/class24/</link>
+      <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/class24/</guid>
+      <description>Schedule Project Update: due tomorrow, Tuesday, 19 April, 4:59pm.
+ [Submission Form](https://forms.gle/cRa1Yz9a6BhP5x779)  Slides Slides: class24.pdf
+Links   Ken A. Dill, S. Banu Ozkan, M. Scott Shell, and Thomas R. Weikl. The Protein Folding Problem. Annual Review of Biophysics, 2008.
+  Bonnie Berger and Tom Leighton. Protein Folding in the Hydrophobic-Hydrophilic Model is NP-Complete. RECOMB 1998.
+  Scott Aaronson, NP-complete Problems and Physical Reality.
+  Andrew W.</description>
+    </item>
     
     <item>
       <title>Class 23: Programmable Pharmacueticals</title>
