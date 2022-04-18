@@ -10,7 +10,9 @@ slug = "class24"
 **<a href="https://forms.gle/cRa1Yz9a6BhP5x779">Project Update</a>: due tomorrow, Tuesday, 19 April, 4:59pm.**
 
 <center>
-[<b>Submission Form</b>](https://forms.gle/cRa1Yz9a6BhP5x779)
+
+[Submission Form](https://forms.gle/cRa1Yz9a6BhP5x779)
+
 </center>
 
 ## Slides
