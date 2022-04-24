@@ -16,8 +16,9 @@ the schedule class period). It is fine if your presentation is shorter
 time limit in mind in planning your presentation.
 
 Teams presenting should submit your slides as either a PDF file, a
-link to a URL, or a PowerPoint file no later than 10:29am on the date
-of your presentation.
+link to a URL, or a PowerPoint file by sending a slack message in your
+team channel to me no later than 10:29am on the date of your
+presentation.
 
 
 ## Wednesday, 27 April
