@@ -8,7 +8,20 @@
     <language>en-us</language>
     <managingEditor>evans@virginia.edu (David Evans)</managingEditor>
     <webMaster>evans@virginia.edu (David Evans)</webMaster>
-    <lastBuildDate>Mon, 18 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Mar 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project Presentations Schedule</title>
+      <link>https://computingbiology.github.io/presentations/</link>
+      <pubDate>Sat, 23 Apr 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/presentations/</guid>
+      <description>Project Presentations Each team will have an opportunity to present your project to the class on either Wednesday, 27 April or Monday, 2 May. You will have 5 minutes maximum for your presentation (which will need to be enforced strictly to be able to complete all the presentations within the schedule class period). It is fine if your presentation is shorter (which might even allow time for questions), but you should keep the time limit in mind in planning your presentation.</description>
+    </item>
+    
     <item>
       <title>Class 24: Protein Folding and AlphaFold</title>
       <link>https://computingbiology.github.io/class24/</link>
