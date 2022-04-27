@@ -8,10 +8,15 @@
     <language>en-us</language>
     <managingEditor>evans@virginia.edu (David Evans)</managingEditor>
     <webMaster>evans@virginia.edu (David Evans)</webMaster>
-    <lastBuildDate>Sat, 19 Mar 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sat, 23 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Final Project Presentations</title>
+      <link>https://computingbiology.github.io/finalpresentations/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/finalpresentations/</guid>
+      <description>Wednesday, 27 April  Emily Buckley, Investigating Heart Disease in Cavalier King Charles Spaniels Joshita Gullanki, Sindhu Mente, Shruthi Nyshadham, The Role of Computational Biology in Prenatal Testing Anna Williamson, An Introduction to Connectomics Joshua Devine, Ian Switzer, Ronith Ranjan, New DNA/RNA/Amino Acid File Formats with Biopython Support and a Standalone Python Library Davis Garwood, Kevin Wen, Identifying Genes in DNA Sequences Mohit Srivastav, Trying to re-create the fractal evolution of gene promoter networks using aggregation Meghan Anderson, Kathia Crawford, Izzy Shehan, Visualizing and Understanding Olfaction Marvin Cheng, Computer Vision and Human Vision Brenna Courtney, On Christian Bök&amp;rsquo;s The Xenotext (Book 1) Shreyas Gullapalli, Zachary Heidel, Nikhil Aluru, An Analysis of COVID Variants Alyce Hong, Ife Adetunji, Faisal Refai, David Kim, Eugene Lee, Rachel Lee, Synthesizing Covid Test Information Yanjin Chen, Gene network analysis Caroline Linkous, Taylor Brooks, GAPDH Primer Selection: Finding the best primers for targeting the GAPDH gene Medhini Rachamallu, Anna Brower, Creation of Synthetic Patient Data Sion Kim, Sequencing my own genome  </description>
+    </item>
     
     <item>
       <title>Project Presentations Schedule</title>
