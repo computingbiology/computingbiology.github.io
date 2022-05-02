@@ -5,6 +5,25 @@ title = "Final Project Presentations"
 slug = "finalpresentations"
 +++
 
+## Monday, 2 May
+
+- Jason Calem, Will Pemble, Gabriel Silliman, Cooper Scher, _DNA Profiling with Incomplete Databases_
+- Lily Roark, Allison Branch, _Toy CODIS: Loci Variation, Matching and Encryption_
+- Yuchen Sun, Nafisa Amrula, [_SARS-CoV-2 Sequence Analysis_](https://www.dropbox.com/s/53ivhralkkrlr3r/yuchen-nafisa-Bio_computing_final_project_slide.pptx?dl=0)
+- Harshita Pathipati, Noor Rafiq, _Scientific Exploration of Popular American COVID-19 Vaccines and Other Novel Vaccines_
+- Ho Yeon Jeong, Pawan Jayakumar, _A Survey of CRISPR and its Newest Variations and Applications_
+- Sid Chauhan, _Aging and Reversing Aging_
+- Justin Ngo, Emily Franklin, _The Ethics of Gene Editing on Intellectual Disability_
+- Riley Heck, _Trophic web modeling using weighted directed graphs_
+- Raymond Wen, _DIY DNA Extraction and Education_
+- Neil Phan, Alip Arslan, Emil Diaz, _Evolve_
+- Zachery Boner, Jason Yu, Grant Matteo, _SmartSleep_
+- Tatiana Kennedy, _DNA Encoded Library Enumeration_
+- Jacob Hilliard, _MRI Data Pipeline Builder_
+- Ethan Gahm, _Peptide Sequencing: A New Project for Computational Biology Students_
+- Colin Crowe, _The Mystery of Chargaff’s Second Parity Rule_
+
+
 ## Wednesday, 27 April
 
 - Emily Buckley, [_Investigating Heart Disease in Cavalier King Charles Spaniels_](https://www.dropbox.com/s/lr5ajd9c39ut9bh/emily-Final%20Project%20Slides.pptx?dl=0)
