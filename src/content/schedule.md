@@ -186,6 +186,6 @@ Monday, 25 April: Class 26: Guest Speaker: [Nathan Sheffield](https://databio.or
 
 ### Project Presentations
 
-Wednesday, 27 April: [Class 27: Projects Mini-Workshop](/class27)  
+Wednesday, 27 April: [Class 27: Final Project Presentations](/finalpresentations)
 
-Monday, 2 May: [Class 28: Projects Mini-Workshop](/class28)
+Monday, 2 May: [Class 28: Final Project Presentations](/finalpresentations)
