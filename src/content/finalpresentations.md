@@ -7,21 +7,21 @@ slug = "finalpresentations"
 
 ## Monday, 2 May
 
-- Jason Calem, Will Pemble, Gabriel Silliman, Cooper Scher, _DNA Profiling with Incomplete Databases_
-- Lily Roark, Allison Branch, _Toy CODIS: Loci Variation, Matching and Encryption_
+- Zachery Boner, Jason Yu, Grant Matteo, [_SmartSleep_](https://docs.google.com/presentation/d/1NHjNfMTbI8bEbo0J98xF8isiB7Vit32W_vayDz2tDTE/edit?usp=sharing)
+- Jason Calem, Will Pemble, Gabriel Silliman, Cooper Scher, [_DNA Profiling with Incomplete Databases_](https://www.dropbox.com/s/xpkd9ehz4v2tzvo/jason-DNA%20Profiling%20Presentation.pptx?dl=0)
+- Lily Roark, Allison Branch, [_Toy CODIS: Loci Variation, Matching and Encryption_](https://docs.google.com/presentation/d/1e1q9U8M09v92XAAbBMW6yhSCJDTYKKE1lBFssw5aN1Q/edit?usp=sharing)
 - Yuchen Sun, Nafisa Amrula, [_SARS-CoV-2 Sequence Analysis_](https://www.dropbox.com/s/53ivhralkkrlr3r/yuchen-nafisa-Bio_computing_final_project_slide.pptx?dl=0)
-- Harshita Pathipati, Noor Rafiq, _Scientific Exploration of Popular American COVID-19 Vaccines and Other Novel Vaccines_
-- Ho Yeon Jeong, Pawan Jayakumar, _A Survey of CRISPR and its Newest Variations and Applications_
-- Sid Chauhan, _Aging and Reversing Aging_
-- Justin Ngo, Emily Franklin, _The Ethics of Gene Editing on Intellectual Disability_
-- Riley Heck, _Trophic web modeling using weighted directed graphs_
-- Raymond Wen, _DIY DNA Extraction and Education_
-- Neil Phan, Alip Arslan, Emil Diaz, _Evolve_
-- Zachery Boner, Jason Yu, Grant Matteo, _SmartSleep_
-- Tatiana Kennedy, _DNA Encoded Library Enumeration_
-- Jacob Hilliard, _MRI Data Pipeline Builder_
-- Ethan Gahm, _Peptide Sequencing: A New Project for Computational Biology Students_
-- Colin Crowe, _The Mystery of Chargaff’s Second Parity Rule_
+- Harshita Pathipati, Noor Rafiq, [_Scientific Exploration of Popular American COVID-19 Vaccines and Other Novel Vaccines_](https://www.dropbox.com/s/shpnbv360nyo230/harshita-CS4501_Vaccine%20Presentation%20Final.pptx?dl=0)
+- Ho Yeon Jeong, Pawan Jayakumar, [_A Survey of CRISPR and its Newest Variations and Applications_](https://en.wikipedia.org/wiki/CRISPR_gene_editing)
+- Sid Chauhan, [_Aging and Reversing Aging_](https://sidc95.github.io/Aging/)
+- Justin Ngo, Emily Franklin, [_The Ethics of Gene Editing on Intellectual Disability_](https://www.dropbox.com/s/ddr6vsz3vgcia17/Emily_Justin_Presentation.pptx?dl=0)
+- Riley Heck, [_Trophic web modeling using weighted directed graphs_](https://trophicmodelingusingweighteddi.godaddysites.com/)
+- Raymond Wen, [_DIY DNA Extraction and Education_](https://docs.google.com/presentation/d/1iAK43fWd-8FrdFeewfcZnMw-pC1086SnUvtj7mW1jLk/edit?usp=sharing) [[Poster (PDF)](https://www.dropbox.com/s/uykxtrbqyq1h46u/Genetic%20Testing-3.pdf?dl=0)]
+- Neil Phan, Alip Arslan, Emil Diaz, [_Evolve: Simulating Evolution with Neural Networks_](https://www.dropbox.com/s/dyl9qswj9qm7u1i/Simulating%20Evolution%20with%20Neural%20Networks.pptx?dl=0)
+- Tatiana Kennedy, [_DNA Encoded Library Enumeration_](https://www.dropbox.com/s/o3xcyjnz5kmxg8r/tatiana-DNA%20Encoded%20Chemical%20Libraries.pptx?dl=0)
+- Jacob Hilliard, [_MRI Data Pipeline Builder_](https://docs.google.com/presentation/d/14nrn5AUE7fcxxew2zWtZgdUlo9OUXZcWggNAmBsVN18/edit?usp=sharing)
+- Ethan Gahm, [_Peptide Sequencing: A New Project for Computational Biology Students_](https://colab.research.google.com/drive/1QtSX9ujOZoLIj4B5W-m_gpMEki4pUHlp?usp=sharing)
+- Colin Crowe, [_The Mystery of Chargaff’s Second Parity Rule_](https://www.dropbox.com/s/kzxbi1dituhi6yg/colin-csbio_final_pres.pptx?dl=0)
 
 
 ## Wednesday, 27 April
