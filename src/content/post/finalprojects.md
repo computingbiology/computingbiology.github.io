@@ -1,8 +1,8 @@
 1+++
 date = "27 May 2022"
-draft = true
+draft = false
 title = "Final Projects"
-slug = "finalpresentations"
+slug = "finalprojects"
 +++
 
 Here are final projects with public websites available.

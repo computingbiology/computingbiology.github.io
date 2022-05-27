@@ -33,11 +33,11 @@
     
     <item>
       <title>Class 25: Computational Biology: Ensembles of Trees (Guest: Kristen Naegle)</title>
-      <link>https://computingbiology.github.io/class16/</link>
+      <link>https://computingbiology.github.io/class25/</link>
       <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
       <author>evans@virginia.edu (David Evans)</author>
-      <guid>https://computingbiology.github.io/class16/</guid>
-      <description>Slides Our guest speaker today was Kristen Naegle, Professor of Biomedical Engineering. Her slides are here: _Computational Biology: Ensembles of Trees</description>
+      <guid>https://computingbiology.github.io/class25/</guid>
+      <description>Slides Our guest speaker today was Kristen Naegle, Professor of Biomedical Engineering. Her slides are here: _Computational Biology: Ensembles of Trees.</description>
     </item>
     
     <item>
@@ -495,7 +495,7 @@ This course will look at connections between computing and biology, with a focus
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>evans@virginia.edu (David Evans)</author>
       <guid>https://computingbiology.github.io/</guid>
-      <description>1+++ date = &amp;ldquo;27 May 2022&amp;rdquo; draft = true title = &amp;ldquo;Final Projects&amp;rdquo; slug = &amp;ldquo;finalpresentations&amp;rdquo; +++
+      <description>1+++ date = &amp;ldquo;27 May 2022&amp;rdquo; draft = false title = &amp;ldquo;Final Projects&amp;rdquo; slug = &amp;ldquo;finalprojects&amp;rdquo; +++
 Here are final projects with public websites available.
   Meghan Anderson, Kathia Crawford, Izzy Shehan, Visualizing and Understanding Olfaction [Github Repo]
 Presentation
