@@ -13,4 +13,4 @@ slug = "class16"
 
 ## Slides
 
-Our guest speaker today was [William Pearson](https://fasta.bioch.virginia.edu/wrpearson/) (Professor of Biochemistry, and the inventor of FASTA and FASTP). He slides are here: [homology.pdf](https://www.dropbox.com/s/jxiiykwqwp3rweb/uva_cs4502_s22.pdf?dl=0)
+Our guest speaker today was [William Pearson](https://fasta.bioch.virginia.edu/wrpearson/) (Professor of Biochemistry, and the inventor of FASTA and FASTP). His slides are here: [homology.pdf](https://www.dropbox.com/s/jxiiykwqwp3rweb/uva_cs4502_s22.pdf?dl=0)

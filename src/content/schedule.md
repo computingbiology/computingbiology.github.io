@@ -180,7 +180,7 @@ Monday, 18 April: [Class 24: Protein Folding and AlphaFold](/class24)
 
 Tuesday, 19 April (4:59pm): **Due: Project Update**  
 
-Wednesday, 20 April: Class 25: Guest Speaker: [Kristen Naegle](https://engineering.virginia.edu/naegle-lab)  
+Wednesday, 20 April: [Class 25: Ensembles of Trees](/class25) (Guest Speaker: [Kristen Naegle](https://engineering.virginia.edu/naegle-lab))
 
 Monday, 25 April: Class 26: Guest Speaker: [Nathan Sheffield](https://databio.org/)
 
