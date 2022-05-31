@@ -8,10 +8,22 @@
     <language>en-us</language>
     <managingEditor>evans@virginia.edu (David Evans)</managingEditor>
     <webMaster>evans@virginia.edu (David Evans)</webMaster>
-    <lastBuildDate>Mon, 02 May 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://computingbiology.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Final Projects</title>
+      <link>https://computingbiology.github.io/finalprojects/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/finalprojects/</guid>
+      <description>Here are final projects with public websites available.
+  Meghan Anderson, Kathia Crawford, Izzy Shehan, Visualizing and Understanding Olfaction [Github Repo]
+Presentation
+  Jason Calem, Will Pemble, Gabriel Silliman, Cooper Scher, DNA Profiling with Incomplete Databases Presentation
+  Yanjin Chen, Gene network analysis
+  Marvin Cheng, Computer Vision and Human Vision Github
+  Brenna Courtney, On Christian Bök&amp;rsquo;s The Xenotext (Book 1) Wikipedia Page
+  Colin Crowe, The Mystery of Chargaff’s Second Parity Rule Presentation)</description>
+    </item>
     
     <item>
       <title>Final Project Presentations</title>
@@ -392,21 +404,6 @@ If you haven&amp;rsquo;t taken the prerequisite courses and are getting up to sp
       <guid>https://computingbiology.github.io/welcome/</guid>
       <description>This is the course website for &amp;ldquo;Computational Biology / Biological Computing&amp;rdquo;, a new University of Virginia course targeted to undergraduate computer science students that will be offered for the first time in Spring 2022. Scheduled course meetings are Mondays and Wednesday, 12:30pm – 1:45pm, in Olsson Hall 018, starting on 19 January 2022.
 This course will look at connections between computing and biology, with a focus on DNA. It will include computational methods used in biology focusing on how computing can be used to analyze and design DNA, as well as opportunities to use biological substances and ideas to compute.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://computingbiology.github.io/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>evans@virginia.edu (David Evans)</author>
-      <guid>https://computingbiology.github.io/</guid>
-      <description>1+++ date = &amp;ldquo;27 May 2022&amp;rdquo; draft = false title = &amp;ldquo;Final Projects&amp;rdquo; slug = &amp;ldquo;finalprojects&amp;rdquo; +++
-Here are final projects with public websites available.
-  Meghan Anderson, Kathia Crawford, Izzy Shehan, Visualizing and Understanding Olfaction [Github Repo]
-Presentation
-  Jason Calem, Will Pemble, Gabriel Silliman, Cooper Scher, DNA Profiling with Incomplete Databases Presentation
-  Yanjin Chen, Gene network analysis
-  Marvin Cheng, Computer Vision and Human Vision Github</description>
     </item>
     
   </channel>
