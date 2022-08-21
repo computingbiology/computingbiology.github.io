@@ -650,6 +650,16 @@ span.subnote {
     font-size: 1.8rem;
 }
 
+.rednote {
+   margin-left: 50px;
+   margin-right: 60px;
+   background: #FACAC6;
+   border: 3px solid red;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   padding: 12px;
+}
+
 .yellownote {
    margin-left: 50px;
    margin-right: 60px;
