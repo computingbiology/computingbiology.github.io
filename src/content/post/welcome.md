@@ -1,25 +1,18 @@
 +++
-date = "30 Oct 2021"
+date = "21 Aug 2022"
 draft = false
-title = "Welcome"
-author = "David Evans"
-slug = "welcome"
+title = "Fall 2022 Course"
+slug = "fall2022"
 +++
 
-This is the course website for "Computational Biology / Biological
-Computing", a new University of Virginia course targeted to
-undergraduate computer science students that will be offered for the
-first time in Spring 2022. Scheduled course meetings are Mondays and
-Wednesday, 12:30pm &ndash; 1:45pm, in Olsson Hall 018, starting on 19
-January 2022.
+Welcome to the [cs4501: Computational Biology / Biological Computing](https://computingbiology.github.io/) Fall 2022 course site.
 
-This course will look at connections between computing and biology,
-with a focus on DNA. It will include computational methods used in
-biology focusing on how computing can be used to analyze and design
-DNA, as well as opportunities to use biological substances and ideas
-to compute.
+The Fall 2022 course is scheduled for Tuesdays and Thursdays,
+12:30-1:45pm in Olsson Hall 120.
 
-**Expected Background.** No previous background in biology is
-expected. Expected computing background is having successfully
-completed cs2150 and at least one of cs3102 or cs4102, or comparable
-experience.
+The course will be similar to the Spring 2022 course (which you can
+explore [here](/s22), including the [Syllabus](/s22/syllabus/) and
+[Schedule](/s22/schedule). Versions of these for the Fall 2022 course
+will be posted here soon.
+
+

@@ -1,7 +1,7 @@
 baseurl = "https://computingbiology.github.io/"
 languageCode = "en-us"
 title = "Computational Biology / Biological Computing"
-subtitle = "UVA CS 4501 Spring 2022"
+subtitle = "UVA CS 4501 Fall 2022"
 copyright = ""
 theme = "biocs"
 
@@ -29,7 +29,7 @@ unsafe= true
 [params]
     brand = "Computational Biology / Biological Computing"
     topline = "Computational Biology / Biological Computing"
-    footline = "<p align=\"center\">CS 4501 | University of Virginia, Spring 2022 | <a href=\"https://www.cs.virginia.edu/evans\">David Evans</a></p>"
+    footline = "<p align=\"center\">CS 4501 | University of Virginia, Fall 2022 | <a href=\"https://www.cs.virginia.edu/evans\">David Evans</a></p>"
     sidebar = "left"
     nodate = true
     noauthor = true
