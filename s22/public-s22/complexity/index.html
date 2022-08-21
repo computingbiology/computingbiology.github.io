@@ -1,0 +1,281 @@
+<!doctype html>
+<html class="no-js" lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <title>Cost of Computation | Computational Biology / Biological Computing</title>
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" href="https://computingbiology.github.io/s22css/foundation.min.css">
+    <link rel="stylesheet" href="https://computingbiology.github.io/s22css/highlight.min.css">
+    <link rel="stylesheet" href="https://computingbiology.github.io/s22css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://computingbiology.github.io/s22css/academicons.min.css">
+    <link rel="stylesheet" href="https://computingbiology.github.io/s22css/fonts.css">
+    <link rel="stylesheet" href="https://computingbiology.github.io/s22css/finite.css">
+    <link rel="shortcut icon" href="/images/dna.png">
+
+    <script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+    
+  </head>
+  <body>
+      
+    <header>
+      <nav class="nav-bar">
+	
+	  <div class="title-bar" data-responsive-toggle="site-menu" data-hide-for="medium">	      
+	    <button class="site-hamburger" type="button" data-toggle>
+	      <i class="fa fa-bars fa-lg" aria-hidden="true"></i>
+	    </button>
+	    <div class="title-bar-title site-title">
+	      <a href="https://computingbiology.github.io/s22">Computational Biology / Biological Computing</a>
+	    </div>
+	    <div class="title-bar-right pull-right">
+	      
+
+
+	    </div>
+	  </div>
+	    
+	  
+	    <div class="top-bar" id="site-menu" >	      
+	      <div class="top-bar-title show-for-medium site-title">
+		<a href="https://computingbiology.github.io/s22">Computational Biology / Biological Computing</a>
+	      </div>
+	      <div class="top-bar-left">
+		<ul class="menu vertical medium-horizontal">
+		  
+		  
+		</ul>
+	      </div>
+	      <div class="top-bar-right show-for-medium">
+		
+
+
+	      </div>
+	    </div>
+	  
+	</nav>
+      
+    </header>
+    
+    <main>
+      
+
+<div class="content">
+    <article class="article" itemscope itemtype="http://schema.org/Article">
+      <h1 itemprop="name" class="pagetitle">Cost of Computation</h1>
+      <div class="post-body" itemprop="articleBody">
+        <p>When we consider the <em>power</em> of our <a href="/models">computing models</a>, we
+have been concerned with understanding what functions can be computed
+(in theory, which means without any arbitrary limits on their
+execution) by different computing models. When we want to actual
+compute using physical computers, <em>cost</em> matters.</p>
+<p>For concerete computations where we already know the input and have an
+implementation of the algorithm, we can measure the cost of executing
+the algorithm by just running it and recording the cost. That cost
+could be measured in <em>dollars</em> (which is very natural and concrete,
+now that you can use cloud computing to rent computers by the
+<a href="https://aws.amazon.com/ec2/pricing/#:~:text=EC2%20usage%20are%20billed%20on,with%20a%2060%20second%20minimum.">minute</a>
+or <a href="https://azure.microsoft.com/en-us/pricing/details/functions/">tenth of
+second</a>),
+and this makes sense if we need to perform a similar computation many
+times in the same way. We could also measure computation cost in
+<em>time</em> (latency, how long it takes to go from input to output),
+<em>throughput</em> (how many times we can perform a computation in a time
+period), and <em>memory use</em> (how much memory is needed to complete the
+computation). All of these could be converted to money cost, but the
+actual conversion would depend on the available computing
+infrastructure.</p>
+<p>Measuring cost this way is unsatisfactory since (1) it assumes we
+already have a complete and executable program and know that it will
+finish the way we are running it for an acceptable cost (otherwise, we
+won&rsquo;t know how long to wait for it to finish if we are running it on
+our own computer, or how large a computing bill we might run up if we
+just let it run on the cloud), and, more importantly for our purposes,
+(2) it provides little insight into how the cost will change if we run
+the program on a different (possibly larger) input and as computing
+power per dollar changes.</p>
+<h2 id="asympototic-complexity-analysis">Asympototic Complexity Analysis</h2>
+<p>Instead, we usually want to understand how the cost of executing an
+algorithm varies with the size of the input, and want to measure that
+cost in a precise (but abstract) way. The main goal of <em>complexity
+analysis</em> is to understand the cost to perform different computations
+in a way that allows us to reason about algorithms and problems
+without considering the details of a particular computing platform,
+but in a way that captures important aspects of how the cost scales
+with the input.</p>
+<p>Our goal is to capture the cost of a computation with a function whose
+input is the size of the input to the computation (a natural number),
+and whose output is a measure of the cost (a non-negative real
+number): \( \ f: \mathbb{N}_+ \rightarrow \mathbb{R}^+ \).</p>
+<p>The cost is usually running time, measured in terms of the number of
+steps it takes for some abstract machine (typically a Turing Machine
+or RAM machine) to complete the execution. So, for example, we might want to measure cost by defining a function, \( f(n) \), that takes as input the size of the input to the function to compute, and outputs the number of steps a Turing Machine would require to complete the computation.</p>
+<p>Since counting exact steps of a Turing Machine (or a RAM machine) is
+tedious and error-prone, and our main interest is how the cost scales
+with the input size, often instead of trying to find an exact cost
+function we instead use <em>asymptotic operators</em> to provide a set of
+functions that characterize the cost (that is, instead of finding an
+exact function that maps the input size to a cost, we find an
+(infinite) set of functions that includes one element that is the
+exact cost function, but we don&rsquo;t know which one it is).</p>
+<p>The operator we use to describe the set of functions that grow as
+quickly as some function \( f \) is \( \Theta(f) \). So, the set
+\( \Theta(n^2) \) would be the set of all functions that grow
+asymptotically as quickly as \( n^2 \). The formal definition of
+what &ldquo;grow asymptotically as quickly as&rsquo;&rsquo; is important, and explained
+in the Additional Materials, but the main intuition you should have is
+that multiplying by a constant (e.g., \( 7 n^2 \)) or adding a
+constant or slower-growing term (e.g., \( 3 n^2 + 12 n + 238 \log n +
+274\)) doesn&rsquo;t change the asymptotic growth, so all of these
+functions would be in \( \Theta(n^2) \).</p>
+<p>When we are talking about algorithms, we should understand the cost
+well enough to (nearly) always get a tight \( \Theta \) expression
+that characterizes the cost.  When we are talking about <em>problems</em>
+(that is, computing a function where we do not necessarily know that
+algorithm to use), then it is rare to be able to find a \( \Theta \)
+expression for the cost. Doing so would require knowing something
+about the <em>best</em> possible algorithm that solves the problem (we don&rsquo;t know how to do this, even for simple problems like multiplication of integers). Then, we end up needing other notations to describe larger sets of functions. The \(
+O \) (omicron, sometimes called &ldquo;big Oh&rdquo;) operator produces the set of all functions that grow <em>no faster than</em> its input function. So, \( O(n^2) \) would include the functions \( g(n) = 17n^2 + 23 \), \( g(n) = 2n + 7 \), and \( g(n) = 6 \) (the constant function which outputs 6 for all inputs). The \( \Omega \) (omega) operator produces the set of all function that grow <em>no slower than</em> its input function. So, the set \( \Omega(n^2)\) would include \( g(n) = n^2 \), \( g(n) = 1.3n^3 \), and \( g(n) = 2^n \), but would not include \( g(n) = 17n \log n \). For any function, \( f \), the intersection of \( \Omega(f) \) and \( O(f) \) is \( \Theta(f) \).</p>
+<div class="additionalreading">
+<center><b>Additional Materials</b></center>
+<ul>
+<li><a href="https://computingbook.org/Cost.pdf">Chapter 7: Cost</a> of <a href="https://computingbook.org/"><em>Introduction to Computing — Explorations in Language, Logic, and Machines</em></a> (my introductory computer science book that was developed for <a href="http://xplorecs.org/">cs1120</a>) is an introduction to complexity analysis. (It includes more formal definitions of \( \Theta \), \( O \), and \( \Omega \), as well as showing how to analyze the cost of example programs.)</li>
+<li>Video lectures from cs3102: <a href="https://www.youtube.com/watch?v=5H6DvmEzwDY"><em>Cost of Computing</em></a> (5:03), <a href="https://www.youtube.com/watch?v=96XtkxDNDCs"><em>Asymptotic Operators</em></a> (7:06), <a href="https://www.youtube.com/watch?v=iG_BGStzPQE"><em>Big-Oh Examples</em></a> (17:03), <a href="https://www.youtube.com/watch?v=WLV99-6ep2c"><em>Common Misuses of Asymptotic Notation</em></a> (5:51).</li>
+</ul>
+</div>
+<h2 id="tractable-and-intractable-problems">Tractable and Intractable Problems</h2>
+<p>Informally, <em>tractable</em> just means &ldquo;easy to do&rdquo;, and <em>intractable</em>
+means &ldquo;not easy to do&rdquo;. In computing, we use these terms more
+strongly, and define the <em>tractable</em> problems as those for which an
+algorithm is known that can solve them and its running time is no
+worse than polynomial in the size of the input. This is the complexity
+class, <span class="cclass">P</span>, which is defined as the set of
+functions that can be computed by algorithms with running times in \(
+O(n^k) \) where \( k \) is any constant and \( n \) is the size
+of the input. This is called <em>polynomial time</em>.</p>
+<p>Problems with known algorithms that complete in polynomial time are
+considered <em>tractable</em>, and problems where the fastest known algorithm
+requires more than polynomial time are considered <em>intractable</em>. For
+example, if the best known algorithm for solving a problem has
+exponential running time (e.g., in \( \Theta(2^n) \)), that problem
+would be considered intractable, and cannot be practically solved for
+non-tiny inputs.</p>
+<p>The complexity class <span class="cclass">NP</span> can be defined as
+the set of functions where it there is a way to check in polynomial
+time if an output is correct, when given some additional information
+(known as a <em>witness</em>). This class includes all the functions in class
+<span class="cclass">P</span>, but might include some additional
+problems. The most famous open problem in computer science (and one of
+the <a href="https://www.claymath.org/millennium-problems/p-vs-np-problem">Clay Mathematics Millennium
+Problems</a>)
+is to determine if there are any problems in class <span
+class="cclass">NP</span> that are not also in class <span
+class="cclass">P</span>. Intuitively (at least to most people), one
+might expect it is obvious that <span class="cclass">P</span> \(
+\subsetneq \) <span class="cclass">NP</span> since checking an answer
+seems like it should be easier than finding that answer, but it is not
+know if this is the case. There is an important class of problems
+known as <span class="cclass">NP-Complete</span> that can be
+considered the set of the &ldquo;hardest&rdquo; problems in <span
+class="cclass">NP</span>. There is a way to convert any problem in
+class <span class="cclass">NP</span> into any one of these problems in
+polynomial time, so if any problem in the class <span
+class="cclass">NP-Complete</span> is shown to have a polynomial time solution, then we know all of them do and <span class="cclass">P</span> \(
+= \) <span class="cclass">NP</span>. This class includes many important problems we will see in this class, and there are ways to define genome assembly, protien folding, phylogenetic tree construction, etc. as <span class="cclass">NP-Complete</span> problems.</p>
+<p>We can prove a problem is <em>hard</em> by showing a reduction. If we already
+know some problem \( Z \) is hard (say, \( Z \in \) <span
+class="cclass">NP-Complete</span>), then we can show a new problem \( A \)
+is at least as hard as \( Z \) by devising an algorithm that uses \( A \) to solve \( X \). Then, if we have a function \( f_A(a) \) that solves \( A \), we show how to solve \( Z \) by implementing \( \ f_Z(z) = t_o(f_A(t_i(z))) \) where \( t_i \) is a function that transforms the input to \( Z \) into a corresponding input to \( A \), and \( t_o \) is a function that trasforms the output of \( f_A \) that solves \( A \) into the corresponding output for \( Z \). If we can find \( t_i \) and \( t_o \) that make this work, and that run in polynomial time, we have a reduction proof that shows \( A \) is at least as hard (within polynomial time differences) to solve as \( Z \).</p>
+<p>The division of problems into <em>tractable</em> and <em>intractable</em> is a gross
+simplification. For large \( k \) and medium-size inputs, or for
+small \( k \) and huge inputs, such problems are not actually easy
+to solve, and their (money) cost might still be prohibitive. Problems
+that are intractable can often be &ldquo;solved&rdquo; usefully in practice, even
+though they cannot be &ldquo;solved&rdquo; in
+theory. <a href="/models#terminology">Recall</a> that solving a problem in theory
+means finding an algorithm that finds an exact output for all possible
+inputs within the required time. For many intractable problems where
+the best known solution that works exactly for all inputs is a brute
+force search requiring exponential time, we can find heuristics that
+either find exact solutions quickly for most inputs, or that find good
+approximate solutions for all inputs. Once we know a problem like
+genome assembly is <span class="cclass">NP-Complete</span> it doesn&rsquo;t
+mean we should give up on solving it — it just means we will
+need to settle for heuristics and provide good approximations (but
+don&rsquo;t guarantee finding the best solution) efficiently.</p>
+<div class="additionalreading">
+<center><b>Additional Materials</b></center>
+<ul>
+<li>Several chapters of the TCS book cover this material: <a href="https://introtcs.org/public/lec_10_efficient_alg.html">Chapter 12: <em>Efficient computation: An informal introduction</em></a>, <a href="https://introtcs.org/public/lec_11_running_time.html">Chapter 13: <em>Modeling running time</em></a>, <a href="https://introtcs.org/public/lec_12_NP.html">Chapter 14: <em>Polynomial-time reductions</em></a>, <a href="https://introtcs.org/public/lec_13_Cook_Levin.html">Chapter 15: <em>NP, NP completeness, and the Cook-Levin Theorem</em></a>, <a href="https://introtcs.org/public/lec_14_PvsNP.html">Chapter 16: <em>What if P equals NP?</em></a> [<a href="https://files.boazbarak.org/introtcs/lec_14_PvsNP.pdf">PDF</a>].</li>
+<li>Videos from <a href="https://uvatoc.github.io/f20/week11/">cs3102</a>: <a href="https://www.youtube.com/watch?v=PosxxVwgggI"><em>&ldquo;Difficulty&rdquo; of Functions</em></a> (9:13), <a href="https://www.youtube.com/watch?v=SspCMbUF6Xs"><em>Tractable and Intractable Problems</em></a> (6:39), <a href="https://www.youtube.com/watch?v=BmXyo9acRWA"><em>Introduction NP</em></a> (14:01), <a href="https://www.youtube.com/watch?v=FQCWOeS9GC4"><em>The P=NP Question</em></a> (9:11), <a href="https://www.youtube.com/watch?v=my-mxCwArk8"><em>P=NP Recap</em></a> (4:44). (These are selected, see the <a href="https://uvatoc.github.io/f20/week11/">full week guide</a> for a more complete video sequence.)</li>
+</ul>
+</div>
+
+      </div>
+
+      <meta itemprop="wordCount" content="1886">
+      <meta itemprop="datePublished" content="2021-12-26">
+      <meta itemprop="url" content="https://computingbiology.github.io/s22/complexity/">
+    </article>
+</div>
+
+
+    </main>
+    
+    
+<footer class="whatisthis">
+  <hr />
+  <div class="row">
+    <div class="column small-12 medium-6">
+      <a href="//computingbiology.github.io"><b>cs 4501: Computational Biology / Biological Computing</b></a><br>
+      <a href="//www.cs.virginia.edu">University of Virginia</a>
+    </div>
+    <div class="column small-14 medium-5">
+      <font size="-1">
+      Subscribe to
+	the <a href="/index.xml"><i class="fa fa-rss-square"></i>&nbsp;RSS feed</a>.
+      <a id="searchsite">
+	<form method="get" action="https://duckduckgo.com/">
+	  <label for="search-field" class="show-for-sr">Search with DuckDuckGo</label>
+	  <input type="search" name="q" maxlength="255" placeholder="Search with DuckDuckGo" id="search-field">
+	  <input type="hidden" name="sites" value="https://computingbiology.github.io/s22"/>
+	  <input type="hidden" name="k7" value="#faf8f8"/>
+	  <input type="hidden" name="kj" value="#b33"/>
+	  <input type="hidden" name="ky" value="#fafafa"/>
+	  <input type="hidden" name="kx" value="b"/>
+	  <input type="hidden" name="ko" value="-1"/>
+	  <input type="hidden" name="k1" value="-1"/>
+	  <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;" />
+	</form>
+      </a>
+</font>
+    </div>
+  </div>
+  </hr>
+
+</footer>
+
+
+
+    
+    <div class="endofpage">
+    </div>
+
+    <script src="/js/jquery.js"></script>
+    <script src="/js/what-input.js"></script>
+    <script src="/js/foundation.min.js"></script>
+    <script src="/js/finite.js"></script>
+
+    
+    <script src="/js/highlight.pack.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+
+    
+    
+    
+  </body>
+</html>
