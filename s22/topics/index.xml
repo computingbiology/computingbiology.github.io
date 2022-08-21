@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Topics on Computational Biology / Biological Computing</title>
-    <link>https://computingbiology.github.io/topics/</link>
+    <link>https://computingbiology.github.io/s22/topics/</link>
     <description>Recent content in Topics on Computational Biology / Biological Computing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>evans@virginia.edu (David Evans)</managingEditor>
     <webMaster>evans@virginia.edu (David Evans)</webMaster>
     
-	<atom:link href="https://computingbiology.github.io/topics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://computingbiology.github.io/s22/topics/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
