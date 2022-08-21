@@ -651,6 +651,7 @@ span.subnote {
 }
 
 .rednote {
+   text-align: center;
    margin-left: 50px;
    margin-right: 60px;
    background: #FACAC6;
