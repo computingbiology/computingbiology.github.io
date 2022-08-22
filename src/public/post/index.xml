@@ -8,10 +8,26 @@
     <language>en-us</language>
     <managingEditor>evans@virginia.edu (David Evans)</managingEditor>
     <webMaster>evans@virginia.edu (David Evans)</webMaster>
-    <lastBuildDate>Sun, 21 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computer Science Background</title>
+      <link>https://computingbiology.github.io/computer-science-background/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/computer-science-background/</guid>
+      <description>Here is a guide to the computing theory background expected for students entering this course.
+If you&amp;rsquo;ve completed cs 2130 (Computer Systems and Organization 1) and a good Theory of Computation or Algorithms course (the official pre-requisites for this course) and remember the big ideas from that class, this should all be familiar to you already, but it may still be useful to refresh your understanding using these materials.
+If you haven&amp;rsquo;t taken the prerequisite courses and are getting up to speed on your own, we hope these materials will be helpful.</description>
+    </item>
     
-	<atom:link href="https://computingbiology.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Syllabus Posted</title>
+      <link>https://computingbiology.github.io/syllabus-posted/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/syllabus-posted/</guid>
+      <description>The course syllabus is now posted (but may be slightly revised before the course starts).</description>
+    </item>
     
     <item>
       <title>Fall 2022 Course</title>

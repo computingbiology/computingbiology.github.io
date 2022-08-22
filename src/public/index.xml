@@ -8,10 +8,67 @@
     <language>en-us</language>
     <managingEditor>evans@virginia.edu (David Evans)</managingEditor>
     <webMaster>evans@virginia.edu (David Evans)</webMaster>
-    <lastBuildDate>Sun, 21 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computer Science Background</title>
+      <link>https://computingbiology.github.io/computer-science-background/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/computer-science-background/</guid>
+      <description>Here is a guide to the computing theory background expected for students entering this course.
+If you&amp;rsquo;ve completed cs 2130 (Computer Systems and Organization 1) and a good Theory of Computation or Algorithms course (the official pre-requisites for this course) and remember the big ideas from that class, this should all be familiar to you already, but it may still be useful to refresh your understanding using these materials.
+If you haven&amp;rsquo;t taken the prerequisite courses and are getting up to speed on your own, we hope these materials will be helpful.</description>
+    </item>
     
-	<atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cost of Computation</title>
+      <link>https://computingbiology.github.io/complexity/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/complexity/</guid>
+      <description>When we consider the power of our computing models, we have been concerned with understanding what functions can be computed (in theory, which means without any arbitrary limits on their execution) by different computing models. When we want to actual compute using physical computers, cost matters.
+For concerete computations where we already know the input and have an implementation of the algorithm, we can measure the cost of executing the algorithm by just running it and recording the cost.</description>
+    </item>
     
+    <item>
+      <title>Course Pledge</title>
+      <link>https://computingbiology.github.io/pledge/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/pledge/</guid>
+      <description>Honor Expectations As a student at the University of Virginia, you are trusted to be honorable and expected to behave in ways that merit that trust. We take advantage of this trust to provide a better learning environment for everyone. In particular, students in this course are expected to follow these rules throughout the course:
+I will not lie, cheat or steal. If I am unsure whether something would be considered lying, cheating or stealing, I will ask before doing it.</description>
+    </item>
+    
+    <item>
+      <title>Models of Computation</title>
+      <link>https://computingbiology.github.io/models/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/models/</guid>
+      <description>To reason precisely about what computers can and cannot do, we need abstract models that capture the things we think are important but avoid the complexities of physical objects.
+Models and Mathematics The physical world is messy and suffers from arbitrary limits — this applies both to the physical computing devices we use (which always have some probability of failing and can&amp;rsquo;t even do arithmetic correcly) and even more so to biological systems we consider in this class.</description>
+    </item>
+    
+    <item>
+      <title>Syllabus</title>
+      <link>https://computingbiology.github.io/syllabus/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/syllabus/</guid>
+      <description>This syllabus is a &amp;ldquo;semi-living document&amp;rdquo; (i.e., more like a virus than a bacterium) subject to change as we adapt during the semester. The course website is managed through a public github repository, so you can see past versions and changes there.
+The version as posted on the first day of class is available here.
+Overview Course Description: This course will look at connections between computing and biology, with a focus on DNA.</description>
+    </item>
+    
+    <item>
+      <title>Syllabus Posted</title>
+      <link>https://computingbiology.github.io/syllabus-posted/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/syllabus-posted/</guid>
+      <description>The course syllabus is now posted (but may be slightly revised before the course starts).</description>
+    </item>
     
     <item>
       <title>Fall 2022 Course</title>
