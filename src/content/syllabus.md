@@ -256,8 +256,8 @@ students at the university deserve to be trusted.
 To ensure that expectations are clear to everyone, **all students are
 required to read, understand, and agree to the [course
 pledge](/pledge)**. If you are not willing to agree to any of the
-expectations there, please let Prof. Evans know. On your course
-registration survey (to be posted the first day of class), you will be
+expectations there, please let Prof. Evans know. On your [course
+registration survey](https://forms.gle/96eqfeZnA26rpWiw6), you will be
 expected to virtually sign acceptance of the course pledge.
  
 ## Additional Information
