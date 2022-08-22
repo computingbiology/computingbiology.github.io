@@ -152,7 +152,7 @@ except for ones that we cannot post publicly, which will be shared
 using collab or other mechanisms.  
 
 **Github Discussions:** We will use [github
-  discussions](https://github.com/computingbiology/spring2022/discussions)
+  discussions](https://github.com/computingbiology/fall2022/discussions)
   for course discussions. You should use the github discussions if you
   have questions about concepts in the class, assignments, and
   readings.
