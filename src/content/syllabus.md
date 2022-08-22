@@ -262,7 +262,7 @@ expected to virtually sign acceptance of the course pledge.
  
 ## Additional Information
 
-This is generic information that is probably included in most of your
+This is standard information that is probably included in most of your
 course syllabi.
 
 **Special Circumstances:** The University of Virginia strives to
