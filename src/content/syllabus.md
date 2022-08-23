@@ -189,6 +189,8 @@ These are tentatively scheduled for:
 **Quiz 2:** Thursday, 27 October  
 **Quiz 3:** Tuesday, 15 November
 
+(Depending on how things are going and other scheduling issues, there
+might be a Quiz 4 on 1 December.)
 
 ## Grading
 
