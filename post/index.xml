@@ -8,10 +8,17 @@
     <language>en-us</language>
     <managingEditor>evans@virginia.edu (David Evans)</managingEditor>
     <webMaster>evans@virginia.edu (David Evans)</webMaster>
-    <lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://computingbiology.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Tue, 23 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class 1: Life</title>
+      <link>https://computingbiology.github.io/class1/</link>
+      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/class1/</guid>
+      <description>Schedule and Readings Before 8:59pm Wednesday 24 August:
+ Read the Syllabus, Pledge, and complete the Registration Survey. After you submit the Registration Survey, you will receive an invitation (to the github account you include in your survey) to join the course github site (which will enable you to join the github discussions).  Before Tuesday&amp;rsquo;s class, 30 August:
+  Read Chapters 1 &amp;ndash; 10 of Hubert&amp;rsquo;s The DNA Book (the chapters are very short, so its not as much as it sounds).</description>
+    </item>
     
     <item>
       <title>Computer Science Background</title>

@@ -1,68 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://computingbiology.github.io/class1/</loc>
+    <lastmod>2022-08-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://computingbiology.github.io/</loc>
-    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-08-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://computingbiology.github.io/post/</loc>
+    <lastmod>2022-08-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://computingbiology.github.io/computer-science-background/</loc>
     <lastmod>2022-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://computingbiology.github.io/complexity/</loc>
     <lastmod>2022-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://computingbiology.github.io/pledge/</loc>
     <lastmod>2022-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://computingbiology.github.io/models/</loc>
     <lastmod>2022-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://computingbiology.github.io/post/</loc>
-    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://computingbiology.github.io/registration-survey/</loc>
     <lastmod>2022-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://computingbiology.github.io/schedule/</loc>
     <lastmod>2022-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://computingbiology.github.io/syllabus/</loc>
     <lastmod>2022-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://computingbiology.github.io/syllabus-posted/</loc>
     <lastmod>2022-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://computingbiology.github.io/fall2022/</loc>
     <lastmod>2022-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://computingbiology.github.io/tags/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://computingbiology.github.io/topics/</loc>
   </url>
-  
 </urlset>
