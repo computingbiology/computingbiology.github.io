@@ -18,7 +18,7 @@ Before **Tuesday's class, 30 August**:
 
 - Read Chapters 1 -- 10 of Hubert's [The DNA
   Book](https://berthub.eu/dna-book/toc-real/) (the chapters are very
-  short, so its not as much as it sounds). To access the early version
+  short and interesting, so its not as much as it sounds). To access the early version
   of this book that we have access to, you will need the login
   information from [github discussions](https://github.com/computingbiology/fall2022/discussions/3). (This link will work after you have joined the course github site, see above.)
 
