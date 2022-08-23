@@ -14,8 +14,10 @@ Tuesdays and Thursdays, 12:30pm &ndash; 1:45pm in Olsson Hall 120.
 
 **Office Hours**
 
+(29 August &ndash; 6 December)
+
 Monday, 11am-noon: Jack (Rice 414)  
-Monday, 1:15-2:30pm: Dave (Rice 507)
+Monday, 1:15-2:30pm: Dave (Rice 507)  
 Wednesday, noon-1pm: Ashley (Link Lab Arena)  
 Wednesday, 2-3pm: Jack (Rice 414)  
 Friday, noon-1pm: Ashley (Link Lab Arena)
