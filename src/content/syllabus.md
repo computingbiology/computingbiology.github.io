@@ -90,6 +90,10 @@ Mondays, 1:15-2:30pm
 To schedule other times, use [_https://davidevans.youcanbook.me/_](https://davidevans.youcanbook.me/)
 
 **Teaching Assistants:**  
+[Ashley Gao](https://www.cs.virginia.edu/~yg9ca/), PhD student studying affective computing and transfer learning.
+
+Office Hours (to be scheduled soon)
+
 [Jack Heavey](https://www.linkedin.com/in/jack-heavey), PhD student studying computational epidemiology.
 
 Office Hours (in Rice 414):
