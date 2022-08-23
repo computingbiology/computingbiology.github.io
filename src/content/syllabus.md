@@ -86,7 +86,7 @@ write readable programs and test them systematically.
   discussions instead of by personal email). 
 
 Office hours (in Rice 507):
-Mondays, 1:15-2:30pm
+Mondays, 1:15-2:30pm  
 To schedule other times, use [_https://davidevans.youcanbook.me/_](https://davidevans.youcanbook.me/)
 
 **Teaching Assistants:**  
