@@ -8,7 +8,11 @@
     <language>en-us</language>
     <managingEditor>evans@virginia.edu (David Evans)</managingEditor>
     <webMaster>evans@virginia.edu (David Evans)</webMaster>
-    <lastBuildDate>Tue, 23 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Class 1: Life</title>
       <link>https://computingbiology.github.io/class1/</link>
@@ -81,7 +85,7 @@ Tuesdays and Thursdays, 12:30pm – 1:45pm in Olsson Hall 120.
 Office Hours
 (29 August – 6 December)
 Monday, 11am-noon: Jack (Rice 414)
-Monday, 1:15-2:30pm: Dave (Rice 507)
+Monday, 1:30-2:45pm: Dave (Rice 507)
 Wednesday, noon-1pm: Ashley (Link Lab Arena)
 Wednesday, 2-3pm: Jack (Rice 414)
 Friday, noon-1pm: Ashley (Link Lab Arena)
