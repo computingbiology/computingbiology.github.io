@@ -27,7 +27,7 @@ Algorithms_: [_How do we assemble genomes?_](//www.bioinformaticsalgorithms.org/
 
 ## Slides
 
-The slides from class will be posted here after class. <!--are here: [class1.pdf](TODO)-->
+The slides from class are here: [class1.pdf](https://www.dropbox.com/s/i70mk5ifzhxwgzt/csbio-class1.pdf?dl=0)
 
 Some links to materials for the first class:
 

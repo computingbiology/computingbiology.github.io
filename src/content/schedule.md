@@ -14,9 +14,13 @@ Tuesdays and Thursdays, 12:30pm &ndash; 1:45pm in Olsson Hall 120.
 
 **Office Hours**
 
-David Evans: (Rice 507) Mondays, 1:15-2:30pm. Other times: [_https://davidevans.youcanbook.me/_](https://davidevans.youcanbook.me/)
+Monday, 11am-noon: Jack (Rice 414)  
+Monday, 1:15-2:30pm: Dave (Rice 507)
+Wednesday, noon-1pm: Ashley (Link Lab Arena)  
+Wednesday, 2-3pm: Jack (Rice 414)  
+Friday, noon-1pm: Ashley (Link Lab Arena)
 
-Jack Heavey: (Rice 414) Mondays 11am-noon; Wednesdays 2-3 pm.
+To schedule other times to meet with Dave use: [_https://davidevans.youcanbook.me/_](https://davidevans.youcanbook.me/)
 
 ## Semester Schedule
 

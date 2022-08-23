@@ -91,7 +91,7 @@ To schedule other times, use [_https://davidevans.youcanbook.me/_](https://david
 
 **Teaching Assistants:**  
 [Ashley Gao](https://www.cs.virginia.edu/~yg9ca/), PhD student studying affective computing and transfer learning.  
-&nbsp;&nbsp;&nbsp;Office Hours (to be scheduled soon)
+&nbsp;&nbsp;&nbsp;Office Hours (in Link Lab Arena area, second floor of Olsson): Wednesdays, noon-1pm; Fridays, noon-1pm
 
 [Jack Heavey](https://www.linkedin.com/in/jack-heavey), PhD student studying computational epidemiology.  
 &nbsp;&nbsp;&nbsp;Office Hours (in Rice 414): Mondays, 11am-noon; Wednesdays, 2-3pm
