@@ -13,7 +13,7 @@ semester. The course website is managed through a [public github
 repository](https://github.com/computingbiology/computingbiology.github.io),
 so you can see past versions and changes there.
 
-The version as posted on the first day of class is available [here](https://github.com/computingbiology/computingbiology.github.io/blob/2605d186b00a12fedb87cf110837ee3d5b7a24a1/syllabus/index.html).
+The version as posted on the first day of class is available [here](https://github.com/computingbiology/computingbiology.github.io/blob/2605d186b00a12fedb87cf110837ee3d5b7a24a1/syllabus/index.html), and [history of changes](https://github.com/computingbiology/computingbiology.github.io/commits/main/syllabus/index.html).
 </div>
 
 ## Overview
