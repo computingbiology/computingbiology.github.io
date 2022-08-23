@@ -5,7 +5,7 @@ title = "Schedule"
 slug = "schedule"
 +++
 
-### Weekly Schedule
+## Weekly Schedule
 
 
 **Class Meetings**
@@ -18,9 +18,9 @@ David Evans: (Rice 507) Mondays, 1:15-2:30pm. Other times: [_https://davidevans.
 
 Jack Heavey: (Rice 414) Mondays 11am-noon; Wednesdays 2-3 pm.
 
-### Semester Schedule
+## Semester Schedule
 
-23 August: [Class 1: Life](/class1)
+23 August: Class 1: Life
 - What is Life?
 - Plan for the Course
 - Carbon-Based Life
