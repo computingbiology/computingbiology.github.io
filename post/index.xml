@@ -8,11 +8,7 @@
     <language>en-us</language>
     <managingEditor>evans@virginia.edu (David Evans)</managingEditor>
     <webMaster>evans@virginia.edu (David Evans)</webMaster>
-    <lastBuildDate>Tue, 23 Aug 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://computingbiology.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 23 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Class 1: Life</title>
       <link>https://computingbiology.github.io/class1/</link>

@@ -8,11 +8,7 @@
     <language>en-us</language>
     <managingEditor>evans@virginia.edu (David Evans)</managingEditor>
     <webMaster>evans@virginia.edu (David Evans)</webMaster>
-    <lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 23 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Class 1: Life</title>
       <link>https://computingbiology.github.io/class1/</link>
@@ -123,6 +119,16 @@ The version as posted on the first day of class is available here, and history o
       <description>Welcome to the cs4501: Computational Biology / Biological Computing Fall 2022 course site.
 The Fall 2022 course is scheduled for Tuesdays and Thursdays, 12:30-1:45pm in Olsson Hall 120.
 The course will be similar to the Spring 2022 course (which you can explore here, including the Syllabus and Schedule. Versions of these for the Fall 2022 course will be posted here soon.</description>
+    </item>
+    
+    <item>
+      <title>Course Registration Survey</title>
+      <link>https://computingbiology.github.io/survey/</link>
+      <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/survey/</guid>
+      <description>Please submit this survey if you are enrolled in the class or wanting to join the class:
+ https://forms.gle/8KucndY5iYcPPLcu6   Before completing the survey, you should read the Syllabus and Course Pledge.</description>
     </item>
     
   </channel>
