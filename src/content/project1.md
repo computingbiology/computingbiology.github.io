@@ -5,7 +5,7 @@ title = "Project 1: Assembling Genomes"
 slug = "project1"
 +++
 
-<center>Due: <b>Tuesday, 8 February, 4:59pm</b></center> 
+<center>Due: <b>Monday, 5 September, 8:59pm</b></center> 
 
 To get started on Project 1, one of the team members should fork this github repo: [https://github.com/computingbiology/Project-1-2022F](https://github.com/computingbiology/Project-1-2022F)
 

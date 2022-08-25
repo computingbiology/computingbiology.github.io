@@ -6,9 +6,23 @@ author = "David Evans"
 slug = "class2"
 +++
 
+## Project 1
+
+[Project 1](/project1) is now posted, and is due on **Monday,
+September 5** (8:59pm). Students will work in teams of two for Project
+1, with constraints as discussed in Class 2: you can choose your
+partner or be assigned one “randomly” after class (today). If you
+choose your own partner, your team must satisfy these constraints:
+
+1. Both teammates went to different high schools
+2. Your answers to at least one of these questions must be different:
+   - What country were you born in?
+   - Have you taken any biology courses at UVA?
+   - Have you taken a Theory of Computation course?
+
 ## Slides
 
-The slides are here: [class2.pdf](TODO)
+The slides will be posted here: [class2.pdf](TODO)
 
 Some links to materials for the class:
 
