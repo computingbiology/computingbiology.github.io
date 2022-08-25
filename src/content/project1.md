@@ -7,7 +7,8 @@ slug = "project1"
 
 <center>Due: <b>Monday, 5 September, 8:59pm</b></center> 
 
-If you don't have Jupyter installed, you'll need to install this first: ```
+If you don't have Jupyter installed, you'll need to install this first:
+```
    pip install jupyterlab
 ```
 or see [https://jupyter.org/install](https://jupyter.org/install) for more details and other options.
