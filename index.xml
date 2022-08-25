@@ -8,7 +8,19 @@
     <language>en-us</language>
     <managingEditor>evans@virginia.edu (David Evans)</managingEditor>
     <webMaster>evans@virginia.edu (David Evans)</webMaster>
-    <lastBuildDate>Tue, 23 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class 2: The Platform for Life on Earth</title>
+      <link>https://computingbiology.github.io/class2/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/class2/</guid>
+      <description>Slides The slides are here: class2.pdf
+Some links to materials for the class:
+  J. D. Watson and F. H. C. Crick. Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid [PDF]. Nature, 25 April 1953. (Also read: Sexism in science: did Watson and Crick really steal Rosalind Franklin’s data?, The Guardian, 23 June 2015.)
+  F. Sanger, S. Nicklen, and A. R. Coulson. DNA sequencing with chain-terminating inhibitors [PDF].</description>
+    </item>
+    
     <item>
       <title>Class 1: Life</title>
       <link>https://computingbiology.github.io/class1/</link>
@@ -87,7 +99,7 @@ Wednesday, 2-3pm: Jack (Rice 414)
 Friday, noon-1pm: Ashley (Link Lab Arena)
 To schedule other times to meet with Dave use: https://davidevans.youcanbook.me/
 Semester Schedule 23 August: Class 1: Life
- What is Life? Plan for the Course Carbon-Based Life  25 August: Class 2: Genomes</description>
+ What is Life? Plan for the Course Carbon-Based Life  25 August: Class 2: Platform for Life on Earth</description>
     </item>
     
     <item>

@@ -26,12 +26,15 @@ To schedule other times to meet with Dave use: [_https://davidevans.youcanbook.m
 
 ## Semester Schedule
 
-23 August: Class 1: Life
+23 August: [Class 1: Life](/class1)
 - What is Life?
 - Plan for the Course
 - Carbon-Based Life
 
-25 August: Class 2: Genomes
+25 August: [Class 2: Platform for Life on Earth](/class2)
+- Common Platform for All Known "Life" on Earth
+- DNA Replication
+- DNA Interpretation
 
 30 August: Class 3: Assembly
 
