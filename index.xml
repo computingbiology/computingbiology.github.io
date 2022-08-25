@@ -22,6 +22,18 @@ Some links to materials for the class:
     </item>
     
     <item>
+      <title>Project 1: Assembling Genomes</title>
+      <link>https://computingbiology.github.io/project1/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/project1/</guid>
+      <description>Due: Tuesday, 8 February, 4:59pm To get started on Project 1, one of the team members should fork this github repo: https://github.com/computingbiology/Project-1-2022F
+If you don&amp;rsquo;t have Jupyter installed, you&amp;rsquo;ll need to install this first: pip install jupyterlab or see https://jupyter.org/install for more details and other options.
+You&amp;rsquo;ll be able to get started on the assignment by running (in the repo directory): jupyter notebook project1.ipynb.
+Follow the directions in that file for what to do, including how to submit the assignment using this form: https://forms.</description>
+    </item>
+    
+    <item>
       <title>Class 1: Life</title>
       <link>https://computingbiology.github.io/class1/</link>
       <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
