@@ -20,9 +20,25 @@ choose your own partner, your team must satisfy these constraints:
    - Have you taken any biology courses at UVA?
    - Have you taken a Theory of Computation course?
 
-## Slides
+## Readings
 
-The slides will be posted here: [class2.pdf](TODO)
+(Repeated from [Class 1](/class1))
+
+Before **Tuesday's class, 30 August**:
+
+- Read Chapters 1 -- 10 of Hubert's [The DNA
+  Book](https://berthub.eu/dna-book/toc-real/) (the chapters are very
+  short and interesting, so its not as much as it sounds). To access the early version
+  of this book that we have access to, you will need the login
+  information from [github discussions](https://github.com/computingbiology/fall2022/discussions/3). (This link will work after you have joined the course github site, see above.)
+
+- Read Chapter 3 (at least through the end of 3.8) of _Bioinformatics
+Algorithms_: [_How do we assemble genomes?_](//www.bioinformaticsalgorithms.org/bioinformatics-chapter-3). (This will be the focus of the first project, which is due on Monday, 5 September.
+
+
+## Slides
+ 
+The slides are here: [class2.pdf](https://www.dropbox.com/s/rzbrepfg19eqov3/csbio-class2.pdf?dl=0)
 
 Some links to materials for the class:
 
@@ -30,4 +46,4 @@ Some links to materials for the class:
 
 - F. Sanger, S. Nicklen, and A. R. Coulson. [_DNA sequencing with chain-terminating inhibitors_](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC431765/) [[PDF](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC431765/pdf/pnas00043-0271.pdf)]. Proceedings on the National Academy of Sciences of the United States of America, December 1977.
 
-- Laura Hug et al., [_A new view of the tree of life_](https://www.nature.com/articles/nmicrobiol201648), 2016.
+
