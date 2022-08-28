@@ -1,8 +1,8 @@
 :root {
   --primary-color: #000000;
-  --bside-color: #29BF12; 
-  --tb-color: #F08700;
-  --sp-color: #EFCA08; 
+  --bside-color: #45A9D8; 
+  --tb-color: #45A9D8; 
+  --sp-color: #45A9D8; 
   --highlight-color: #F49F0A;
   --bg-color: #fff;
   --inverse-color: #fafafa;
@@ -455,10 +455,19 @@ hr.post-separator {
     padding: 2em 1em 0;
 }
 
-html,body,.container, .sideBar, .content
+html,body,.container, .sidebar, .content
 {
     height: 100%;
     font-size: 14pt;
+}
+
+.full-container
+{
+    box-sizing: border-box;
+    padding-right: 1em;
+    margin-right: 1em;
+    padding-left: 0em;
+    margin-left: 0em;
 }
 
 .container
@@ -506,13 +515,15 @@ p {
 
 .sidebar
 {
-    float: right;
+    height: 100%;
+    float: left;
     width: 270px;
+    height: 100%;
     background-color: var(--bside-color);
     color: var(--inverse-light-color);
     padding-left: 1em;
     padding-right: 1em;
-    padding-top: 1em;
+    padding-top: 2em;
     padding-bottom: 2em;
 }
 
@@ -526,6 +537,23 @@ p {
     text-decoration: none; border-bottom: 1px dotted var(--inverse-light-color);
 }
 
+
+@media screen and (max-width: 700px) {
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+  .sidebar a {float: right;}
+  div.content {margin-left: 0;}
+}
+
+@media screen and (max-width: 400px) {
+  .sidebar a {
+    text-align: center;
+    float: none;
+  }
+}
 
 .whatisthis a:link {
     color: var(--inverse-color);
