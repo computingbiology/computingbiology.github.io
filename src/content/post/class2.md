@@ -46,4 +46,8 @@ Some links to materials for the class:
 
 - F. Sanger, S. Nicklen, and A. R. Coulson. [_DNA sequencing with chain-terminating inhibitors_](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC431765/) [[PDF](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC431765/pdf/pnas00043-0271.pdf)]. Proceedings on the National Academy of Sciences of the United States of America, December 1977.
 
+- This review paper gives some interesting explanations and analyses on why the codons are the way they are: Milton H. Saier, [_Understanding the Genetic Code_](https://www.dropbox.com/s/45cn374c54fsd3w/geneticcode.pdf?dl=0), Journal of Bacteriology, August 2019. [Publisher's Link](https://journals.asm.org/doi/10.1128/JB.00091-19)
 
+<center><a href="/images/codonwheel.jpg"><img src="/images/codonwheel.jpeg" width=70%></a><br>
+Image from <a href="https://journals.asm.org/doi/10.1128/JB.00091-19">Saier's Paper</a>
+</center>
