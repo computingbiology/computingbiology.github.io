@@ -85,16 +85,11 @@ write readable programs and test them systematically.
   determine if it would be better to post a message the github
   discussions instead of by personal email). 
 
-Office hours (in Rice 507):
-Mondays, 1:30-2:45pm  
-To schedule other times, use [_https://davidevans.youcanbook.me/_](https://davidevans.youcanbook.me/)
-
 **Teaching Assistants:**  
 [Ashley Gao](https://www.cs.virginia.edu/~yg9ca/), PhD student studying affective computing and transfer learning.  
-&nbsp;&nbsp;&nbsp;Office Hours (in Link Lab Arena area, second floor of Olsson): Wednesdays, noon-1pm; Fridays, noon-1pm
-
 [Jack Heavey](https://www.linkedin.com/in/jack-heavey), PhD student studying computational epidemiology.  
-&nbsp;&nbsp;&nbsp;Office Hours (in Rice 414): Mondays, 11am-noon; Wednesdays, 2-3pm
+
+See the [Schedule](/schedule) for updated information on staff office hours.
 
 ## Learning Materials
     
