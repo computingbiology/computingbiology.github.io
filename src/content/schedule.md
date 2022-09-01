@@ -36,9 +36,16 @@ To schedule other times to meet with Dave use: [_https://davidevans.youcanbook.m
 - DNA Replication
 - DNA Interpretation
 
-30 August: Class 3: Assembly
+30 August: [Class 3: Reading Genomes](/class3)
+- Completing the Platform for Life (Darwinian Evolution)
+- Reading Genomes
+- Genome Assembly Problem
 
-1 September: Class 4: Analyzing Genomes
+1 September: [Class 4: The Human Genome](/class4)
+- Instruction Alignment
+- Human Genome Project
+- Patenting a Gene
+- "Finishing" the Human Genome
 
 **Monday, 5 September, 8:59pm**: Project 1 Due
 
