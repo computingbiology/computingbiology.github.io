@@ -6,6 +6,14 @@ author = "David Evans"
 slug = "class4"
 +++
 
+## Getting Email Notifications
+
+To get email notifications when there are posts in the
+[Discussions](https://github.com/computingbiology/fall2022/discussions)
+site, you should select the "Watch" menu (upper right on
+[https://github.com/computingbiology/fall2022](https://github.com/computingbiology/fall2022))
+and select the notification you want. We recommend at least selecting from the "Custom" menu to get notifications for "Discussions" (if you want notifications for any updates, just select "All Activity").
+
 ## Schedule and Readings
 
 [Project 1](/project1) is due on **Monday, September 5**
