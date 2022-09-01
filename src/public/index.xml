@@ -8,7 +8,21 @@
     <language>en-us</language>
     <managingEditor>evans@virginia.edu (David Evans)</managingEditor>
     <webMaster>evans@virginia.edu (David Evans)</webMaster>
-    <lastBuildDate>Tue, 30 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class 4</title>
+      <link>https://computingbiology.github.io/class4/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/class4/</guid>
+      <description>Schedule and Readings Project 1 is due on Monday, September 5 (8:59pm). See the project for submission instructions.
+Slides Here are the slides: class4.pdf
+   Some links to materials for the class:
+  BRCA1 Patent: 17Q-linked breast and ovarian cancer susceptibility gene [PDF]
+  Kyle Jensen and Fiona Murray. Intellectual Property Landscape of the Human Genome, Science, 2005.
+  Supreme Court Decision in Association for Molecular Pathology et al.</description>
+    </item>
+    
     <item>
       <title>Class 3</title>
       <link>https://computingbiology.github.io/class3/</link>
