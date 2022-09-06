@@ -25,9 +25,10 @@ Before next Thursday, 15 September:
 
 ## Slides
  
-The slides will be here: [class5.pdf]()
+The slides are here: [class5.pdf](https://www.dropbox.com/s/ezqympjbfyd1on1/csbio-class5.pdf?dl=0)
 
 ## Links
 
 - Saul B. Needleman and Christian D. Wunsch. [_A General Method Applicable to the Search for Similarities in the Amino Acid Sequence of Two Proteins_](/docs/needleman1970.pdf). Journal of Molecular Biology, 1970.
 
+- Since the source of the misguided "6 foot rule" came up in class today, here's the paper about it: Katherine Randall, E. Thomas Ewing, Linsey Marr, Jose Jimenez, and L. Bourouiba. [_How Did We Get Here: What Are Droplets and Aerosols and How Far Do They Go? A Historical Perspective on the Transmission of Respiratory Infectious Diseases_](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3829873). April 2021. You'll also find lots of news articles about this including [_The 60-Year-Old Scientific Screwup That Helped Covid Kill_](https://www.wired.com/story/the-teeny-tiny-scientific-screwup-that-helped-covid-kill/), Wired Magazine, 13 May 2021. [[archive link](http://archive.today/282x3)]. 
