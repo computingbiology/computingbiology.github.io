@@ -8,7 +8,19 @@
     <language>en-us</language>
     <managingEditor>evans@virginia.edu (David Evans)</managingEditor>
     <webMaster>evans@virginia.edu (David Evans)</webMaster>
-    <lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class 5</title>
+      <link>https://computingbiology.github.io/class5/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/class5/</guid>
+      <description>Readings Before Thursday, 8 September:
+ Read Chapter 5 of the Bioinformatics Algorithms: How do we compare biological sequences?.  Before next Tuesday, 13 September:
+ Read Chapter 19 &amp;ndash; 27 of Hubert&amp;rsquo;s The DNA Book. (Chapter 20 is a bit different, but may be useful to give you ideas for the kinds of things you could do for the Final Project.)  Before next Thursday, 15 September:
+ Chapter 26 of Manolis Kellis et al.</description>
+    </item>
+    
     <item>
       <title>Class 4</title>
       <link>https://computingbiology.github.io/class4/</link>
