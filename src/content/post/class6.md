@@ -1,6 +1,6 @@
 +++
 date = "08 Sep 2022"
-draft = true
+draft = false
 title = "Class 6"
 author = "David Evans"
 slug = "class6"
