@@ -48,10 +48,7 @@ Some links to materials for the class:
 
 - Saul B. Needleman and Christian D. Wunsch. [_A General Method Applicable to the Search for Similarities in the Amino Acid Sequence of Two Proteins_](/docs/needleman1970.pdf). Journal of Molecular Biology, 1970.
 
-- Motoo Kimura. [_A simple method for estimating evolutionary rates of
-  base substitutions through comparative studies of nucleotide
-  sequences_](/docs/kimura1980.pdf). Journal of Molecular Evolution,
-  1980.
+- Motoo Kimura. [_A simple method for estimating evolutionary rates of base substitutions through comparative studies of nucleotide sequences_](/docs/kimura1980.pdf). Journal of Molecular Evolution, 1980.
 
 - William Pearson. [_Rapid and Sensitive Sequence Comparison with FASTP and FASTA_](/docs/pearson1990.pdf), Methods in Enzymology, 1990. (Includes the PAM 250 scoring matrix.)
 
