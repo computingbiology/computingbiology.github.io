@@ -10,6 +10,17 @@
     <webMaster>evans@virginia.edu (David Evans)</webMaster>
     <lastBuildDate>Tue, 06 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Project 2: Sequence Alignment and Phylogeny</title>
+      <link>https://computingbiology.github.io/project2/</link>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/project2/</guid>
+      <description>Due: Wednesday, 21 September, 8:59pm To get started on Project 2, one of the team members should fork this github repo: https://github.com/computingbiology/Project-2-2022F (just like you did for Project 1).
+ jupyter notebook project2.ipynbFollow the directions in that file for what to do, including how to submit the assignment using this form: https://forms.gle/gv144kv3KRo67uUX7
+Happy Aligning!</description>
+    </item>
+    
+    <item>
       <title>Class 5</title>
       <link>https://computingbiology.github.io/class5/</link>
       <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
@@ -51,9 +62,9 @@ Slides The slides are here: class3.</description>
       <description>The office hours schedule has been updated:
 Monday, 11am-noon: Jack (Rice 414)
 Monday, 1:30-2:45pm: Dave (Rice 507)
-Wednesday, noon-1pm: Ashley (Link Lab Arena)
+Wednesday, noon-1pm: Ashley (Olsson 204)
 Wednesday, 2-3pm: Jack (Rice 414)
-Friday, 11:30am-12:30pm: Ashley (Link Lab Arena)
+Friday, 11:30am-12:30pm: Ashley (Olsson 204)
 To schedule other times to meet with Dave use: https://davidevans.youcanbook.me/.</description>
     </item>
     
@@ -152,9 +163,8 @@ Office Hours
 (29 August – 6 December)
 Monday, 11am-noon: Jack (Rice 414)
 Monday, 1:30-2:45pm: Dave (Rice 507)
-Wednesday, noon-1pm: Ashley (Link Lab Arena)
-Wednesday, 2-3pm: Jack (Rice 414)
-Friday, 11:30am-12:30pm: Ashley (Link Lab Arena)
+Wednesday, noon-1pm: Ashley (Olsson 204) Wednesday, 2-3pm: Jack (Rice 414)
+Friday, 11:30am-12:30pm: Ashley (Olsson 204)
 To schedule other times to meet with Dave use: https://davidevans.youcanbook.me/.
 Semester Schedule 23 August: Class 1: Life
  What is Life? Plan for the Course Carbon-Based Life  25 August: Class 2: Platform for Life on Earth</description>
