@@ -70,69 +70,55 @@
       <h1 itemprop="name">Class 6</h1>
       <div class="post-metadata">
   <span class="post-date">
-    <time datetime="2022-09-08 00:00:00 &#43;0000 UTC" itemprop="datePublished">8 September 2022</time>
+    <time datetime="2022-09-13 00:00:00 &#43;0000 UTC" itemprop="datePublished">13 September 2022</time>
   </span>
   
 </div>
 
       <div class="post-body" itemprop="articleBody">
         <h2 id="project-2">Project 2</h2>
-<p><a href="/project2">Project 2</a> is now posted, and is due on Wednesday, 21
-September, 8:59pm.</p>
-<h2 id="office-hours-update">Office Hours Update</h2>
-<p>The location for Ashley&rsquo;s office hours has moved to Olsson Hall 204. Other than the location, the <a href="/officehours">office hours schedule</a> is unchanged:</p>
-<p>Monday, 11am-noon: Jack (Rice 414)<br>
-Monday, 1:30-2:45pm: Dave (Rice 507)<br>
-Wednesday, noon-1pm: Ashley (Olsson 204)<br>
-Wednesday, 2-3pm: Jack (Rice 414)<br>
-Friday, 11:30am-12:30pm: Ashley (Olsson 204)</p>
+<p><a href="/project2">Project 2</a> is now posted, and is due on Wednesday, 21 September, 8:59pm.</p>
+<p><strong>Correction to Alignment Code!</strong> As was noticed in class today, the code for the gap-based alignment algorithms is wrong. The loops should include all values up to and including <em>j</em> (so should be</p>
+<pre><code>range(1, j + 1)
+</code></pre><p>instead of</p>
+<pre><code>range(1, j)
+</code></pre><p>(note that <code>range</code> in Python iterates through the values from the first input up to, but not including, the second input value, so to include <code>j</code> in the iteration, we need to use <code>j + 1</code> in the range).</p>
+<p>Thanks to Diego Wang for submitting <a href="https://github.com/computingbiology/Project-2-2022F/pull/1">this pull request</a> with the fix and explanation.</p>
+<p>If you have already modified your Project 2 notebook (which hopefully
+is true for everyone!), you should incorporate <a href="https://github.com/computingbiology/Project-2-2022F/pull/1/files">the
+change</a>
+manually into the code in your notebook to avoid losing the work you
+have done.</p>
 <h2 id="readings">Readings</h2>
-<p>(Repeated from <a href="/class5">Class 5</a>)</p>
-<p>Before Thursday, 8 September:</p>
-<ul>
-<li>Read Chapter 5 of the <em>Bioinformatics
-Algorithms</em>: <a href="//www.bioinformaticsalgorithms.org/bioinformatics-chapter-5"><em>How do we compare biological sequences?</em></a>.</li>
-</ul>
-<p>Before next Tuesday, 13 September:</p>
-<ul>
-<li>Read Chapter 19 &ndash; 27 of Hubert&rsquo;s <a href="https://berthub.eu/dna-book/toc-real/">The DNA
-Book</a>. (Chapter 20 is a bit different, but may be useful to give you ideas for the kinds of things you could do for the Final Project.)</li>
-</ul>
-<p>Before next Thursday, 15 September:</p>
-<ul>
-<li>Chapter 26 of  Manolis Kellis et al., <em>Computational Biology - Genomes, Networks, and Evolution</em>: <a href="https://bio.libretexts.org/Bookshelves/Computational_Biology/Book%3A_Computational_Biology_-_Genomes_Networks_and_Evolution_(Kellis_et_al.)/26%3A_Molecular_Evolution_and_Phylogenetics"><em>Molecular Evolution and Phylogenetics</em></a> (also available as [<a href="/docs/kellis-ch26.pdf">PDF</a>]) (if you prefer to watch a video lecture that this chapter is based on, you can watch <a href="https://www.youtube.com/watch?v=_KduKR6IXcA"><em>MIT CompBio Lecture 19 - Phylogenetics</em></a>).</li>
-</ul>
+<p>See <a href="/class5">Class 5</a> for this week&rsquo;s readings.</p>
 <h2 id="slides">Slides</h2>
-<p>The slides are here: <a href="https://www.dropbox.com/s/97pkk1ye2vvlrt2/csbio-class6.pdf?dl=0">Class 6: Alignment Algorithms</a>.</p>
+<p>The slides are here: <a href="https://www.dropbox.com/s/7rdahv7q85jq851/csbio-class7.pdf?dl=0">Class 7: Estimating Evolutionary Distance</a></p>
 <p>Some links to materials for the class:</p>
 <ul>
 <li>
-<p>Saul B. Needleman and Christian D. Wunsch. <a href="/docs/needleman1970.pdf"><em>A General Method Applicable to the Search for Similarities in the Amino Acid Sequence of Two Proteins</em></a>. Journal of Molecular Biology, 1970.</p>
+<p>Steven Henikoff and Jorja Henikoff. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC50453/pdf/pnas01096-0363.pdf"><em>Amino acid substitution matrices from protein blocks</em></a>. Proceedings of the National Academy of Science, November 1992. This is the paper that introduced BLOSUM.</p>
 </li>
 <li>
-<p>Motoo Kimura. <a href="/docs/kimura1980.pdf"><em>A simple method for estimating evolutionary rates of base substitutions through comparative studies of nucleotide sequences</em></a>. Journal of Molecular Evolution, 1980.</p>
+<p>Mark P Styczynski, Kyle L Jensen, Isidore Rigoutsos, and Gregory Stephanopoulos/ <a href="https://www.nature.com/articles/nbt0308-274"><em>BLOSUM62 miscalculations improve search performance</em></a>. Nature Biotechnology, 2008.</p>
 </li>
 <li>
-<p>William Pearson. <a href="/docs/pearson1990.pdf"><em>Rapid and Sensitive Sequence Comparison with FASTP and FASTA</em></a>, Methods in Enzymology, 1990. (Includes the PAM 250 scoring matrix.)</p>
+<p>T. F. Smith and M. S. Waterman. <a href="/docs/smithwaterman1981.pdf"><em>Identification of common molecular subsequences</em></a>. Journal of Molecular Biology, 1981. <a href="https://biocomplexity.virginia.edu/person/michael-s-waterman">Michael Waterman&rsquo;s UVA Webpage</a></p>
 </li>
 <li>
 <p><a href="https://blast.ncbi.nlm.nih.gov/Blast.cgi">NCBI Blast</a></p>
-</li>
-<li>
-<p>Gely P. Basharin, Amy N. Langville. and Valeriy A. Naumov. <a href="/docs/markov.pdf"><em>The life and work of A.A. Markov</em></a>. Linear Algebra and its Applications, 2004.</p>
 </li>
 </ul>
 
       </div>
 
-      <meta itemprop="wordCount" content="292">
-      <meta itemprop="datePublished" content="2022-09-08">
+      <meta itemprop="wordCount" content="239">
+      <meta itemprop="datePublished" content="2022-09-13">
       <meta itemprop="url" content="https://computingbiology.github.io/class6/">
     </article>
 
     <ul class="pagination" role="navigation" aria-label="Pagination">
       
-      <li class="arrow" aria-disabled="true"><a href="https://computingbiology.github.io/class5/">&laquo; <em>Previous<span class="show-for-sr"> page</span></em>: Class 5</a></li>
+      <li class="arrow" aria-disabled="true"><a href="https://computingbiology.github.io/class6/">&laquo; <em>Previous<span class="show-for-sr"> page</span></em>: Class 6</a></li>
       
       
     </ul>

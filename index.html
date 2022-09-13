@@ -107,6 +107,12 @@ TR 12:30-1:45 Olsson 120
    </div>
    
    <div class="posttitle">
+      <a href="/class6/">Class 6</a>
+
+
+   </div>
+   
+   <div class="posttitle">
       <a href="/class5/">Class 5</a>
 
 
@@ -226,9 +232,57 @@ TR 12:30-1:45 Olsson 120
     
         
     
+        
+    
 
 
     
+    
+    <h1><a href="/class6/">Class 6</a></h1>
+<div class="post-metadata">
+  <span class="post-date">
+    <time datetime="2022-09-13 00:00:00 &#43;0000 UTC" itemprop="datePublished">13 September 2022</time>
+  </span>
+  
+</div>
+
+      <div class="post-body" itemprop="articleBody">
+        <h2 id="project-2">Project 2</h2>
+<p><a href="/project2">Project 2</a> is now posted, and is due on Wednesday, 21 September, 8:59pm.</p>
+<p><strong>Correction to Alignment Code!</strong> As was noticed in class today, the code for the gap-based alignment algorithms is wrong. The loops should include all values up to and including <em>j</em> (so should be</p>
+<pre><code>range(1, j + 1)
+</code></pre><p>instead of</p>
+<pre><code>range(1, j)
+</code></pre><p>(note that <code>range</code> in Python iterates through the values from the first input up to, but not including, the second input value, so to include <code>j</code> in the iteration, we need to use <code>j + 1</code> in the range).</p>
+<p>Thanks to Diego Wang for submitting <a href="https://github.com/computingbiology/Project-2-2022F/pull/1">this pull request</a> with the fix and explanation.</p>
+<p>If you have already modified your Project 2 notebook (which hopefully
+is true for everyone!), you should incorporate <a href="https://github.com/computingbiology/Project-2-2022F/pull/1/files">the
+change</a>
+manually into the code in your notebook to avoid losing the work you
+have done.</p>
+<h2 id="readings">Readings</h2>
+<p>See <a href="/class5">Class 5</a> for this week&rsquo;s readings.</p>
+<h2 id="slides">Slides</h2>
+<p>The slides are here: <a href="https://www.dropbox.com/s/7rdahv7q85jq851/csbio-class7.pdf?dl=0">Class 7: Estimating Evolutionary Distance</a></p>
+<p>Some links to materials for the class:</p>
+<ul>
+<li>
+<p>Steven Henikoff and Jorja Henikoff. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC50453/pdf/pnas01096-0363.pdf"><em>Amino acid substitution matrices from protein blocks</em></a>. Proceedings of the National Academy of Science, November 1992. This is the paper that introduced BLOSUM.</p>
+</li>
+<li>
+<p>Mark P Styczynski, Kyle L Jensen, Isidore Rigoutsos, and Gregory Stephanopoulos/ <a href="https://www.nature.com/articles/nbt0308-274"><em>BLOSUM62 miscalculations improve search performance</em></a>. Nature Biotechnology, 2008.</p>
+</li>
+<li>
+<p>T. F. Smith and M. S. Waterman. <a href="/docs/smithwaterman1981.pdf"><em>Identification of common molecular subsequences</em></a>. Journal of Molecular Biology, 1981. <a href="https://biocomplexity.virginia.edu/person/michael-s-waterman">Michael Waterman&rsquo;s UVA Webpage</a></p>
+</li>
+<li>
+<p><a href="https://blast.ncbi.nlm.nih.gov/Blast.cgi">NCBI Blast</a></p>
+</li>
+</ul>
+
+      </div>
+<hr class="post-separator"></hr>
+
     
     <h1><a href="/class6/">Class 6</a></h1>
 <div class="post-metadata">
@@ -398,41 +452,6 @@ Wednesday, noon-1pm: Ashley (Olsson 204)<br>
 Wednesday, 2-3pm: Jack (Rice 414)<br>
 Friday, 11:30am-12:30pm: Ashley (Olsson 204)</p>
 <p>To schedule other times to meet with Dave use: <a href="https://davidevans.youcanbook.me/"><em>https://davidevans.youcanbook.me/</em></a>.</p>
-
-      </div>
-<hr class="post-separator"></hr>
-
-    
-    <h1><a href="/class3/">Class 3</a></h1>
-<div class="post-metadata">
-  <span class="post-date">
-    <time datetime="2022-08-30 00:00:00 &#43;0000 UTC" itemprop="datePublished">30 August 2022</time>
-  </span>
-  
-</div>
-
-      <div class="post-body" itemprop="articleBody">
-        <h2 id="schedule-and-readings">Schedule and Readings</h2>
-<p>Before <strong>Monday, 31 January</strong>:</p>
-<ul>
-<li>Read Chapter 11 &ndash; 18 of Hubert&rsquo;s <a href="https://berthub.eu/dna-book/toc-real/">The DNA
-Book</a>.</li>
-<li>Finish reading Chapter 3 (including 3.9) of the <em>Bioinformatics
-Algorithms</em>: <a href="//www.bioinformaticsalgorithms.org/bioinformatics-chapter-3"><em>How do we assemble genomes?</em></a>.</li>
-</ul>
-<p><a href="/project1">Project 1</a> is due on <strong>Monday, September 5</strong>
-(8:59pm). Everyone should have a partner for Project 1, and be making
-progess on it.  If you don&rsquo;t have a partner for it, let Prof. Evans
-know.</p>
-<h2 id="slides">Slides</h2>
-<p>The slides are here: <a href="https://www.dropbox.com/s/yzgpbpxo5b6zyry/csbio-class3.pdf?dl=0">class3.pdf</a></p>
-<p>Some links to materials for the class:</p>
-<ul>
-<li><a href="https://darwin-online.org.uk/content/search-results?freetext=%22descent%20with%20modification%22">Darwin Online</a> (&ldquo;descent with modification&rdquo;)</li>
-<li>Laura Hug et al., <a href="https://www.nature.com/articles/nmicrobiol201648"><em>A new view of the tree of life</em></a>, 2016.</li>
-<li>F. Sanger, S. Nicklen, and A. R. Coulson. <a href="https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC431765/pdf/pnas00043-0271.pdf"><em>DNA sequencing with chain-terminating inhibitors</em></a>, 1977.</li>
-<li><a href="https://nanoporetech.com/products/minion">Oxford Nanopore MinION</a> sequencing machine</li>
-</ul>
 
       </div>
 <hr class="post-separator"></hr>

@@ -16,6 +16,18 @@
     <item>
       <title>Class 6</title>
       <link>https://computingbiology.github.io/class6/</link>
+      <pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/class6/</guid>
+      <description>Project 2 Project 2 is now posted, and is due on Wednesday, 21 September, 8:59pm.
+Correction to Alignment Code! As was noticed in class today, the code for the gap-based alignment algorithms is wrong. The loops should include all values up to and including j (so should be
+range(1, j + 1) instead of
+range(1, j) (note that range in Python iterates through the values from the first input up to, but not including, the second input value, so to include j in the iteration, we need to use j + 1 in the range).</description>
+    </item>
+    
+    <item>
+      <title>Class 6</title>
+      <link>https://computingbiology.github.io/class6/</link>
       <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
       <author>evans@virginia.edu (David Evans)</author>
       <guid>https://computingbiology.github.io/class6/</guid>

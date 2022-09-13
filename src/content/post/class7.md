@@ -1,6 +1,6 @@
 +++
 date = "13 Sep 2022"
-draft = true
+draft = false
 title = "Class 6"
 author = "David Evans"
 slug = "class6"
@@ -45,4 +45,5 @@ Some links to materials for the class:
 - T. F. Smith and M. S. Waterman. [_Identification of common molecular subsequences_](/docs/smithwaterman1981.pdf). Journal of Molecular Biology, 1981. [Michael Waterman's UVA Webpage](https://biocomplexity.virginia.edu/person/michael-s-waterman)
 
 - [NCBI Blast](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
+
 
