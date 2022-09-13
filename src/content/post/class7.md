@@ -20,7 +20,7 @@ range(1, j)
 ```
 (note that `range` in Python iterates through the values from the first input up to, but not including, the second input value, so to include `j` in the iteration, we need to use `j + 1` in the range).
 
-Thanks to Di Wang for submitting [this pull request](https://github.com/computingbiology/Project-2-2022F/pull/1) with the fix and explanation.
+Thanks to Diego Wang for submitting [this pull request](https://github.com/computingbiology/Project-2-2022F/pull/1) with the fix and explanation.
 
 If you have already modified your Project 2 notebook (which hopefully
 is true for everyone!), you should incorporate [the
@@ -45,3 +45,4 @@ Some links to materials for the class:
 - T. F. Smith and M. S. Waterman. [_Identification of common molecular subsequences_](/docs/smithwaterman1981.pdf). Journal of Molecular Biology, 1981. [Michael Waterman's UVA Webpage](https://biocomplexity.virginia.edu/person/michael-s-waterman)
 
 - [NCBI Blast](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
+
