@@ -1,9 +1,9 @@
 +++
 date = "13 Sep 2022"
 draft = false
-title = "Class 6"
+title = "Class 7"
 author = "David Evans"
-slug = "class6"
+slug = "class7"
 +++
 
 ## Project 2

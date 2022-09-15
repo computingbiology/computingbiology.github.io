@@ -2,7 +2,7 @@
 <html class="no-js" lang="en-us">
   <head>
     <meta charset="utf-8">
-    <title>Project 1: Assembling Genomes | Computational Biology / Biological Computing</title>
+    <title>Class 7 | Computational Biology / Biological Computing</title>
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
@@ -63,33 +63,68 @@
     
     <main>
       
-
-<div class="content">
+<div class="row" style="padding-top: 16pt;">
+  <div class="column small-12 medium-10 medium-offset-1 end large-8 large-offset-0">
     <article class="article" itemscope itemtype="http://schema.org/Article">
-      <h1 itemprop="name" class="pagetitle">Project 1: Assembling Genomes</h1>
+      
+      <h1 itemprop="name">Class 7</h1>
+      <div class="post-metadata">
+  <span class="post-date">
+    <time datetime="2022-09-13 00:00:00 &#43;0000 UTC" itemprop="datePublished">13 September 2022</time>
+  </span>
+  
+</div>
+
       <div class="post-body" itemprop="articleBody">
-        <center>Due: <b>Monday, 5 September, 8:59pm</b></center> 
-<p>If you don&rsquo;t have Jupyter installed, you&rsquo;ll need to install this first:</p>
-<pre tabindex="0"><code>   pip install jupyterlab
-</code></pre><p>or see <a href="https://jupyter.org/install">https://jupyter.org/install</a> for more details and other options.</p>
-<p>Then, to get started on Project 1, one of the team members should fork this github repo: <a href="https://github.com/computingbiology/Project-1-2022F">https://github.com/computingbiology/Project-1-2022F</a>
-(you can do this by clicking the &ldquo;Fork&rdquo; button at the top right of the page)</p>
-<p>Clone your forked repository to have a local copy to work on:</p>
-<pre tabindex="0"><code>   git clone https://github.com/&lt;your github id&gt;/Project-1-2022F.git
-</code></pre><p>Then, you&rsquo;ll be able to get started on the assignment by running (in the repo directory):</p>
-<pre tabindex="0"><code>   jupyter notebook project1.ipynb
-</code></pre><p>Follow the directions in that file for what to do, including how to submit the assignment using this form: 
-<a href="https://forms.gle/rNTXfYojTLEQ8idg6">https://forms.gle/rNTXfYojTLEQ8idg6</a>.</p>
-<p>Happy Assembling!</p>
+        <h2 id="project-2">Project 2</h2>
+<p><a href="/project2">Project 2</a> is now posted, and is due on Wednesday, 21 September, 8:59pm.</p>
+<p><strong>Correction to Alignment Code!</strong> As was noticed in class today, the code for the gap-based alignment algorithms is wrong. The loops should include all values up to and including <em>j</em> (so should be</p>
+<pre tabindex="0"><code>range(1, j + 1)
+</code></pre><p>instead of</p>
+<pre tabindex="0"><code>range(1, j)
+</code></pre><p>(note that <code>range</code> in Python iterates through the values from the first input up to, but not including, the second input value, so to include <code>j</code> in the iteration, we need to use <code>j + 1</code> in the range).</p>
+<p>Thanks to Diego Wang for submitting <a href="https://github.com/computingbiology/Project-2-2022F/pull/1">this pull request</a> with the fix and explanation.</p>
+<p>If you have already modified your Project 2 notebook (which hopefully
+is true for everyone!), you should incorporate <a href="https://github.com/computingbiology/Project-2-2022F/pull/1/files">the
+change</a>
+manually into the code in your notebook to avoid losing the work you
+have done.</p>
+<h2 id="readings">Readings</h2>
+<p>See <a href="/class5">Class 5</a> for this week&rsquo;s readings.</p>
+<h2 id="slides">Slides</h2>
+<p>The slides are here: <a href="https://www.dropbox.com/s/7rdahv7q85jq851/csbio-class7.pdf?dl=0">Class 7: Estimating Evolutionary Distance</a></p>
+<p>Some links to materials for the class:</p>
+<ul>
+<li>
+<p>Steven Henikoff and Jorja Henikoff. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC50453/pdf/pnas01096-0363.pdf"><em>Amino acid substitution matrices from protein blocks</em></a>. Proceedings of the National Academy of Science, November 1992. This is the paper that introduced BLOSUM.</p>
+</li>
+<li>
+<p>Mark P Styczynski, Kyle L Jensen, Isidore Rigoutsos, and Gregory Stephanopoulos/ <a href="https://www.nature.com/articles/nbt0308-274"><em>BLOSUM62 miscalculations improve search performance</em></a>. Nature Biotechnology, 2008.</p>
+</li>
+<li>
+<p>T. F. Smith and M. S. Waterman. <a href="/docs/smithwaterman1981.pdf"><em>Identification of common molecular subsequences</em></a>. Journal of Molecular Biology, 1981. <a href="https://biocomplexity.virginia.edu/person/michael-s-waterman">Michael Waterman&rsquo;s UVA Webpage</a></p>
+</li>
+<li>
+<p><a href="https://blast.ncbi.nlm.nih.gov/Blast.cgi">NCBI Blast</a></p>
+</li>
+</ul>
 
       </div>
 
-      <meta itemprop="wordCount" content="121">
-      <meta itemprop="datePublished" content="2022-08-25">
-      <meta itemprop="url" content="https://computingbiology.github.io/project1/">
+      <meta itemprop="wordCount" content="239">
+      <meta itemprop="datePublished" content="2022-09-13">
+      <meta itemprop="url" content="https://computingbiology.github.io/class7/">
     </article>
-</div>
 
+    <ul class="pagination" role="navigation" aria-label="Pagination">
+      
+      <li class="arrow" aria-disabled="true"><a href="https://computingbiology.github.io/class6/">&laquo; <em>Previous<span class="show-for-sr"> page</span></em>: Class 6</a></li>
+      
+      
+    </ul>
+
+  </div>
+</div>
 
     </main>
     
