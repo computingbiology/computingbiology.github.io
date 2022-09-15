@@ -17,7 +17,7 @@ See [Class 5](/class5) for this week's readings.
 
 ## Slides
 
-The slides are here: [Class 8: Phylogeny]()
+The slides are here: [Class 8: Phylogeny](https://www.dropbox.com/s/t615j5fd59ev3gf/csbio-class8.pdf?dl=0)
 
 Some links to materials for the class:
 
