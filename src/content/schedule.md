@@ -47,15 +47,35 @@ To schedule other times to meet with Dave use: [_https://davidevans.youcanbook.m
 - Patenting a Gene
 - "Finishing" the Human Genome
 
-**Monday, 5 September, 8:59pm**: Project 1 Due
+**Monday, 5 September, 8:59pm**: [Project 1](/project1) Due
 
-6 September: Class 5: Sequence Alignment
+6 September: [Class 5: Analyzing Genomes](/class5)
+- Why all the "v"s in BRCA1 patent sequence?
+- GC Content
+- What's a "gene"?
+- Hamming Distance
+- Edit Distance
 
-8 September: Class 6: Improving Sequence Alignment
+8 September: [Class 6: Alignment Algorithms](/class6)
+- Analyzing Edit Distance
+- Biological Sequence Alignment
+- Needleman-Wunsch Algorithm
+- What Causes Mutations
+- Markov Property
+- Amino Acid Swapping Costs (PAM 250)
 
-13 September: Class 7: Phylogeny
+13 September: [Class 7: Estimating Evolutionary Distance](/class7)
+- Alignment with Affine Gaps
+- Local Alignment
+- BLOSUM Matrix
 
-15 September: Class 8: Phylogeny Algorithms
+15 September: [Class 8: Phylogeny](/class8)
+- Grading Philosophy (why "Gold Star"s are better than deduction points)
+- Introduction to Phylogeny
+- Trees in Computer Science and Biology
+- Bayes' Theorem
+- Parsimony Scoring
+- Phootball Phylogenies
 
 20 September: Class 9: TBA
 
