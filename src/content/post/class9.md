@@ -19,7 +19,7 @@ help to find a team or idea.
 
 ## Slides
 
-The slides are here: [Class 9: Distance-Based Phylogeny]()
+The slides are here: [Class 9: Distance-Based Phylogeny](https://www.dropbox.com/s/s2zmyqek38dxgo4/csbio-class9.pdf?dl=0)
 
 Some links to materials for the class:
 
