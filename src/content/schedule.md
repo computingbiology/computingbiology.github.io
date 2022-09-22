@@ -81,12 +81,11 @@ To schedule other times to meet with Dave use: [_https://davidevans.youcanbook.m
 
 **Monday, 26 September, 8:59pm**: Project 2 Due
 
-27 September: Class 11: Genotypes and Phenotypes
+27 September: Class 10: TBA
 
-29 September: Class 12: Editing Genomes
+29 September: Class 11: TBA
 
 **Friday, 30 September**: Project Idea Due
-
 
 
 4 October: Fall Reading Days (No Classes)
