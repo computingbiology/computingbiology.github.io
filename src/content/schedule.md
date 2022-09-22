@@ -77,17 +77,17 @@ To schedule other times to meet with Dave use: [_https://davidevans.youcanbook.m
 - Parsimony Scoring
 - Phootball Phylogenies
 
-20 September: Class 9: TBA
+22 September: Class 9: Distance-Based Phylogeny
 
-**Wednesday, 21 September, 8:59pm**: Project 2 Due
-
-22 September: Class 10: Project Ideas Discussion
+**Monday, 26 September, 8:59pm**: Project 2 Due
 
 27 September: Class 11: Genotypes and Phenotypes
 
-**Thursday, 29 September**: Project Idea Due
-
 29 September: Class 12: Editing Genomes
+
+**Friday, 30 September**: Project Idea Due
+
+
 
 4 October: Fall Reading Days (No Classes)
 
