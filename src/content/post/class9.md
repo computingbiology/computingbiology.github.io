@@ -8,7 +8,7 @@ slug = "class9"
 
 ## Project 2
 
-[Project 2](/project2) is due **Monday, 26 September, 8:59pm**.
+[Project 2](/project2) is now due **Wednesday, 28 September, 8:59pm**.
 
 ## Final Project
 
