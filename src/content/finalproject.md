@@ -86,13 +86,19 @@ your team and work well together.
 - **Project Proposal**, due Friday, 14 October (AoE). Your project proposal will include:
 
 1. The names and email ids for all members of your team.
-   2. Title of your project: short description that clearly captures your
+
+2. Title of your project: short description that clearly captures your
 project idea.
-   3. A short paragraph that describes the goal of your project.
-   4. A project jusfication that explains how your planned project is likely to satisfy at least three of the goals above (fun, relevant, technically interesting, useful).
-   5. State-of-the-art: your understanding of what is already available connected to the goal of your project. This could be other attempts to achieve the same goal (and why you think you can do something better), or work related to similar goals. A good state-of-the-art will include references to specific relevant work. For most types of projects, this would include research papers relevant to your topic.
-   6. A project plan that explains the main tasks needed to successfully complete your project and what you will actually do.
-   7. A management plan list of your team members and their roles and
+
+3. A short paragraph that describes the goal of your project.
+
+4. A project jusfication that explains how your planned project is likely to satisfy at least three of the goals above (fun, relevant, technically interesting, useful).
+
+5. State-of-the-art: your understanding of what is already available connected to the goal of your project. This could be other attempts to achieve the same goal (and why you think you can do something better), or work related to similar goals. A good state-of-the-art will include references to specific relevant work. For most types of projects, this would include research papers relevant to your topic.
+
+6. A project plan that explains the main tasks needed to successfully complete your project and what you will actually do.
+
+7. A management plan list of your team members and their roles and
 responsibilities. If your team has more than two people, this should
 also explain how you plan to coordinate and manage your team.
 
