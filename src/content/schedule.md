@@ -114,7 +114,7 @@ To schedule other times to meet with Dave use: [_https://davidevans.youcanbook.m
 
 3 November: Class 21: TBA
 
-**Monday, 7 November**: Project Paper Due
+**Monday, 7 November**: Project Report Due
 
 8 November: Election Day (No Classes)
 
@@ -138,4 +138,4 @@ To schedule other times to meet with Dave use: [_https://davidevans.youcanbook.m
 
 6 December: Class 28: TBA
 
-**Tuesday, 6 December**: Revised Final Project Due
+**Tuesday, 6 December**: Revised Final Project Report Due
