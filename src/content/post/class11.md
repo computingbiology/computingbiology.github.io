@@ -24,6 +24,26 @@ Problems_](/docs/adleman1994.pdf), Science, November 1994.
 
 We will talk about these in next Thursday's class, but please post any questions or thoughts you have on them in the [Discussions](https://github.com/computingbiology/fall2022/discussions).
 
+## Quiz
+
+We'll have our first quiz in class on Tuesday, 11 October (as
+scheduled on the syllabus).  (If you are unable to make it to class on
+October 11, let me know in advance and there will be an alternate way
+to take the quiz.)
+
+This and subsequent quizzes are not meant to be stressful and
+something that will adversely impact grades for students who are doing
+well, but are intented to provide "polite" nudges to encourage
+students to do the readings and be engaged in classes, and to think
+about and lightly review things we have done so far.
+
+It will have questions (most of which will expect short answers) on:
+
+- Big concepts in biology from classes + readings so far
+- Main ideas in this week’s classes
+- The assigned Adleman paper (above) and what we do in class next Thursday
+
+
 ## Slides
 
 The slides are here: [Class 11: Implementing DNA Storage]()
