@@ -77,13 +77,22 @@ To schedule other times to meet with Dave use: [_https://davidevans.youcanbook.m
 - Parsimony Scoring
 - Phootball Phylogenies
 
-22 September: Class 9: Distance-Based Phylogeny
+22 September: [Class 9: Distance-Based Phylogeny](/class9)
+- Multiple Alignment
+- Factors that Impact Mutation Rates (Olfactory Gene Loss)
+- Tree Reconstruction
+- Neighbor-Joining Algorithm
 
 **Monday, 26 September, 8:59pm**: Project 2 Due
 
-27 September: Class 10: TBA
+27 September: [Class 10: DNA Storage](/class10)
+- What makes DNA (potentially) a useful computing medium
+- Stability of DNA
+- What's a mole?
+- Storage Density of DNA
+- Crash course in Information Theory
 
-29 September: Class 11: TBA
+29 September: [Class 11: Implementing DNA Storage](/class11)
 
 **Friday, 30 September**: Project Idea Due
 
