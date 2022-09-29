@@ -46,7 +46,7 @@ It will have questions (most of which will expect short answers) on:
 
 ## Slides
 
-The slides are here: [Class 11: Implementing DNA Storage]()
+The slides are here: [Class 11: Implementing DNA Storage](https://www.dropbox.com/s/0q1hnagyyosctrx/csbio-class11.pdf?dl=0)
 
 Some links to materials for the class:
 
