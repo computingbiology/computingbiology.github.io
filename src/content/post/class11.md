@@ -52,6 +52,8 @@ Some links to materials for the class:
 
 - George M. Church, Yuan Gao, and Sriram Kosuri. [_Next-Generation Digital Information Storage in DNA_](/docs/church2012.pdf) (and [Supplemental Materials](/docs/church.sm.pdf) with the code and details!), Science, August 2012. 
 
+- Here's the 3Blue1Brown video on error-correcting codes: [_How to send a self-correcting message (Hamming codes)_](https://www.youtube.com/watch?v=X8jsijhllIA)
+
 - William H. Press, John A. Hawkins, Stephen K. Jones, Jeffrey M. Schaubd, and Ilya J. Finkelsteind. [_HEDGES error-correcting code for DNA storage corrects indels and allows sequence constraints_](https://www.pnas.org/doi/pdf/10.1073/pnas.2004821117). PNAS, August 2020.
 
 - Jacques Bonnet, Marthe Colotte, Delphine Coudy, Vincent Couallier, Joseph Portier, Bénédicte Morin, Sophie Tuffet. [_Chain and conformation stability of solid-state DNA: implications for room temperature storage_](https://academic.oup.com/nar/article/38/5/1531/3112491). Nucleic Acids Research, March 2010.
@@ -59,3 +61,5 @@ Some links to materials for the class:
 - James Bornholt, Randolph Lopez, Douglas M. Carmean, Luis Ceze, Georg Seelig, Karin Strauss. [_A DNA-Based Archival Storage System_](https://homes.cs.washington.edu/~luisceze/publications/dnastorage-asplos16.pdf), ASPLOS 2016.
 
 - Bichlien H. Nguyen, Christopher N. Takahashi, Gagan Gupta, Jake A. Smith, Richard Rouse, Paul Berndt, Sergey Yekhanin, David P. Ward, Siena D. Ang, Patrick Garvan, Hsing-Yeh Parker, Rob Carlson, Douglas Carmean, Luis Ceze, Karin Strauss. [Scaling DNA data storage with nanoscale electrode wells](https://www.science.org/doi/10.1126/sciadv.abi6714), Science Advances, 24 November 2021.
+
+- Brian J. Cafferty, Alexei S. Ten, Michael J. Fink, Scott Morey, Daniel J. Preston, Milan Mrksich, and George M. Whitesides. [_Storage of Information Using Small Organic Molecules_](https://pubs.acs.org/doi/pdf/10.1021/acscentsci.9b00210), ACS (American Chemical Society) Central Science, May 2019.
