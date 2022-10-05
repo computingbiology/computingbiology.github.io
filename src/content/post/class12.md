@@ -40,7 +40,7 @@ The slides are here: [Class 12: Computing with DNA]()
 
 Some links to materials for the class:
 
-- Richard Green, ..., Svante P&auml;&auml;bo. [_A Draft Sequence of the Neandertal Genome_](/docs/neandertal-dna-2010.pdf). Science, May 2010. Svante P&auml;&auml;bo was awarded the [2022 Nobel Prize in Physiology or Medicine](https://www.nobelprize.org/prizes/medicine/2022/press-release/) for "his discoveries concerning the genomes of extinct hominins and human evolution" (which are partly in this paper, and several other papers)
+- Richard Green, ..., Svante P&auml;&auml;bo. [_A Draft Sequence of the Neandertal Genome_](/docs/neandertal-dna-2010.pdf). Science, May 2010. [Supplemental Materials](/docs/green_som.pdf) Svante P&auml;&auml;bo was awarded the [2022 Nobel Prize in Physiology or Medicine](https://www.nobelprize.org/prizes/medicine/2022/press-release/) for "his discoveries concerning the genomes of extinct hominins and human evolution" (which are partly in this paper, and several other papers) 
 
 
 - Leonard Adleman, [_Molecular Computation of Solutions to Combinatorial Problems_](/docs/adleman1994.pdf), Science, November 1994.
