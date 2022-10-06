@@ -1,6 +1,6 @@
 +++
 date = "06 Oct 2022"
-draft = true
+draft = false
 title = "Class 12"
 author = "David Evans"
 slug = "class12"
@@ -36,7 +36,7 @@ scheduled on the syllabus).  See [Class 11](/class11) for details.
 
 ## Slides
 
-The slides are here: [Class 12: Computing with DNA]()
+The slides are here: [Class 12: Computing with DNA](https://www.dropbox.com/s/a2akef6dxi530ug/csbio-class12.pdf?dl=0)
 
 Some links to materials for the class:
 

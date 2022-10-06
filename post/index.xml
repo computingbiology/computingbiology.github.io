@@ -8,7 +8,19 @@
     <language>en-us</language>
     <managingEditor>evans@virginia.edu (David Evans)</managingEditor>
     <webMaster>evans@virginia.edu (David Evans)</webMaster>
-    <lastBuildDate>Thu, 29 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class 12</title>
+      <link>https://computingbiology.github.io/class12/</link>
+      <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/class12/</guid>
+      <description>Final Project Everyone in the class should have received email from me about your Project Team and Idea submission, and should be on track with your final project.
+The next deliverable for the final project is the Project Proposal, due Friday 14 October. It should include:
+  The names and email ids for all members of your team.
+  Title of your project: short description that clearly captures your project idea.</description>
+    </item>
+    
     <item>
       <title>Class 11</title>
       <link>https://computingbiology.github.io/class11/</link>
