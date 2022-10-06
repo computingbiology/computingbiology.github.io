@@ -93,15 +93,26 @@ To schedule other times to meet with Dave use: [_https://davidevans.youcanbook.m
 - Crash course in Information Theory
 
 29 September: [Class 11: Implementing DNA Storage](/class11)
+- 455 Exabytes per gram
+- Encoding for Error Correction
+- Hamming Codes
+- Random Access DNA Storage
 
 **Friday, 30 September**: Project Idea Due
 
 
 4 October: Fall Reading Days (No Classes)
 
-6 October: Class 13: CRISPR in Bacteria
+6 October: [Class 12: Computing with DNA](/class12)
+- Svente P&auml;&auml;blo's Noble Prize (Neandertal DNA)
+- Computing with DNA
+- Complexity Classes
+- Reductions
+- Adleman's DNA Computer
 
-**Tuesday, 11 October**: Quiz 1
+**Tuesday, 11 October**: Quiz 1 (in classe)
+
+11 October: Class 13: 
 
 11 October: Class 14: Project Planning
 
