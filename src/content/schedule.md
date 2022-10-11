@@ -112,27 +112,27 @@ To schedule other times to meet with Dave use: [_https://davidevans.youcanbook.m
 
 **Tuesday, 11 October**: Quiz 1 (in classe)
 
-11 October: Class 13: 
+11 October: [Class 13: Genotypes and Phenotypes](/class13)
+- Mendel and Inheritance
+- Genome Wide Association Studies
 
-11 October: Class 14: Project Planning
+13 October: Project Coordination
 
-13 October: Class 15: TBA
+**Friday, 14 October**: [Project Proposal Due](https://forms.gle/C1fNMt6KzevTukbY6)
 
-**Friday, 14 October**: Project Proposal Due
+18 October: Class 14: Genome Editing
 
-18 October: Class 16: Computing with DNA
+20 October: Class 15: CRISPR in Bacteria
 
-20 October: Class 17: DNA Storage
-
-25 October: Class 18: Implementing DNA Storage
+25 October: Class 16: CRISPR in Humans
 
 **Thursday, 27 October**: Quiz 2
 
-27 October: Class 19: Protein Structure Prediction
+27 October: Class 17: Protein Structure Prediction
 
-1 November: Class 20: AlphaFold
+1 November: Class 18: AlphaFold
 
-3 November: Class 21: TBA
+3 November: Class 19: BetaFold
 
 **Monday, 7 November**: Project Report Due
 

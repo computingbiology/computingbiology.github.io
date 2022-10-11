@@ -83,7 +83,7 @@ your team and work well together.
 
 - **Project Team and Idea**, due Friday, 30 September ([AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth)). See the [Submission Form](https://forms.gle/bu5P7dMipRnnZEG49) for what is included in this.
 
-- **Project Proposal**, due Friday, 14 October (AoE). Your project proposal will include:
+- **Project Proposal**, due Friday, 14 October (AoE): [Submission Form](https://forms.gle/M77TrH653LzZo3Kn8). Your project proposal should be a single PDF file that includes:
 
 1. The names and email ids for all members of your team.
 
