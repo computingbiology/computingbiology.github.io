@@ -8,7 +8,20 @@
     <language>en-us</language>
     <managingEditor>evans@virginia.edu (David Evans)</managingEditor>
     <webMaster>evans@virginia.edu (David Evans)</webMaster>
-    <lastBuildDate>Thu, 06 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class 13: Genotypes and Phenotypes</title>
+      <link>https://computingbiology.github.io/class13/</link>
+      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/class13/</guid>
+      <description>Final Project The Project Proposal is due Friday 14 October.
+Use the Project Proposal Submission Form to submit your proposal, which should be a single PDF file containing answers to the seven questions below:
+  The names and email ids for all members of your team.
+  Title of your project: short description that clearly captures your project idea.
+  A short paragraph that describes the goal of your project.</description>
+    </item>
+    
     <item>
       <title>Class 12</title>
       <link>https://computingbiology.github.io/class12/</link>
