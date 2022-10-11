@@ -35,7 +35,7 @@ Quiz 1 was in class today!
 
 ## Slides
 
-The slides are here: [Class 13: Genotypes and Phenotypes]()
+The slides are here: [Class 13: Genotypes and Phenotypes](https://www.dropbox.com/s/ieyxuw3u6ddsg5a/csbio-class13.pdf?dl=0)
 
 Some links to materials for the class:
 
