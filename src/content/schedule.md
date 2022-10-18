@@ -120,7 +120,10 @@ To schedule other times to meet with Dave use: [_https://davidevans.youcanbook.m
 
 **Friday, 14 October**: [Project Proposal Due](https://forms.gle/C1fNMt6KzevTukbY6)
 
-18 October: Class 14: Genome Editing
+18 October: [Class 14: Genome Editing](/class14)
+- Brief History of Life on Earth
+- Costs and Information-Theoretic Benefits of Sex
+- Recombinant DNA
 
 20 October: Class 15: CRISPR in Bacteria
 

@@ -8,7 +8,19 @@
     <language>en-us</language>
     <managingEditor>evans@virginia.edu (David Evans)</managingEditor>
     <webMaster>evans@virginia.edu (David Evans)</webMaster>
-    <lastBuildDate>Tue, 11 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class 14: Editing Genomes</title>
+      <link>https://computingbiology.github.io/class14/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/class14/</guid>
+      <description>Slides The slides are here: Class 14: Editing Genomes
+Some links to materials for the class:
+  Wladyslaw Altermann, Józef Kazmierczak. Archean microfossils: a reappraisal of early life on Earth (Describes fossils of life from over 3.4 Billion years ago.)
+  Carl R. Woese and George E. Fox. Phylogenetic structure of the prokaryotic domain: The primary kingdoms. Proceedings of the National Academy of Sciences, November 1977. (As reported in New York Times: Scientists Discover a Form of Life That Predates Higher Organisms, 3 November 1977.</description>
+    </item>
+    
     <item>
       <title>Class 13: Genotypes and Phenotypes</title>
       <link>https://computingbiology.github.io/class13/</link>
