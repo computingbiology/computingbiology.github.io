@@ -1,7 +1,7 @@
 +++
 date = "13 Sep 2022"
 draft = false
-title = "Class 7"
+title = "Class 7: Estimating Evolutionary Distance"
 author = "David Evans"
 slug = "class7"
 +++

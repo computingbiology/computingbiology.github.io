@@ -46,7 +46,7 @@ Use the Project Proposal Submission Form to submit your proposal, which should b
     </item>
     
     <item>
-      <title>Class 12</title>
+      <title>Class 12: Computing with DNA</title>
       <link>https://computingbiology.github.io/class12/</link>
       <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
       <author>evans@virginia.edu (David Evans)</author>
@@ -58,7 +58,7 @@ The next deliverable for the final project is the Project Proposal, due Friday 1
     </item>
     
     <item>
-      <title>Class 11</title>
+      <title>Class 11: Implementing DNA Storage</title>
       <link>https://computingbiology.github.io/class11/</link>
       <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
       <author>evans@virginia.edu (David Evans)</author>
@@ -68,7 +68,7 @@ Reading Assignment October 3 – 4 are Fall &amp;ldquo;Reading Days&amp;rdquo;. 
     </item>
     
     <item>
-      <title>Class 10</title>
+      <title>Class 10: DNA Storage</title>
       <link>https://computingbiology.github.io/class10/</link>
       <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
       <author>evans@virginia.edu (David Evans)</author>
@@ -81,7 +81,7 @@ Some links to materials for the class:
     </item>
     
     <item>
-      <title>Class 9</title>
+      <title>Class 9: Distance-Based Phylogeny</title>
       <link>https://computingbiology.github.io/class9/</link>
       <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
       <author>evans@virginia.edu (David Evans)</author>
@@ -93,7 +93,7 @@ Some links to materials for the class:</description>
     </item>
     
     <item>
-      <title>Class 8</title>
+      <title>Class 8: Phylogeny</title>
       <link>https://computingbiology.github.io/class8/</link>
       <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
       <author>evans@virginia.edu (David Evans)</author>
@@ -107,7 +107,7 @@ Some links to materials for the class:
     </item>
     
     <item>
-      <title>Class 7</title>
+      <title>Class 7: Estimating Evolutionary Distance</title>
       <link>https://computingbiology.github.io/class7/</link>
       <pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
       <author>evans@virginia.edu (David Evans)</author>
@@ -119,7 +119,7 @@ range(1, j) (note that range in Python iterates through the values from the firs
     </item>
     
     <item>
-      <title>Class 6</title>
+      <title>Class 6: Alignment Algorithms</title>
       <link>https://computingbiology.github.io/class6/</link>
       <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
       <author>evans@virginia.edu (David Evans)</author>
@@ -135,7 +135,7 @@ Readings (Repeated from Class 5)</description>
     </item>
     
     <item>
-      <title>Class 5</title>
+      <title>Class 5: Analyzing Genomes</title>
       <link>https://computingbiology.github.io/class5/</link>
       <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
       <author>evans@virginia.edu (David Evans)</author>
@@ -147,7 +147,7 @@ Readings (Repeated from Class 5)</description>
     </item>
     
     <item>
-      <title>Class 4</title>
+      <title>Class 4: The Human Genome</title>
       <link>https://computingbiology.github.io/class4/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       <author>evans@virginia.edu (David Evans)</author>
@@ -157,14 +157,14 @@ Schedule and Readings Project 1 is due on Monday, September 5 (8:59pm). See the 
     </item>
     
     <item>
-      <title>Class 3</title>
+      <title>Class 3: Reading Genomes</title>
       <link>https://computingbiology.github.io/class3/</link>
       <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
       <author>evans@virginia.edu (David Evans)</author>
       <guid>https://computingbiology.github.io/class3/</guid>
       <description>Schedule and Readings Before Monday, 31 January:
  Read Chapter 11 &amp;ndash; 18 of Hubert&amp;rsquo;s The DNA Book. Finish reading Chapter 3 (including 3.9) of the Bioinformatics Algorithms: How do we assemble genomes?.  Project 1 is due on Monday, September 5 (8:59pm). Everyone should have a partner for Project 1, and be making progess on it. If you don&amp;rsquo;t have a partner for it, let Prof. Evans know.
-Slides The slides are here: class3.</description>
+Slides The slides are here: Class 3: Reading Genomes</description>
     </item>
     
     <item>

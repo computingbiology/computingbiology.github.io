@@ -38,7 +38,7 @@ Algorithms_: [_How do we assemble genomes?_](//www.bioinformaticsalgorithms.org/
 
 ## Slides
  
-The slides are here: [class2.pdf](https://www.dropbox.com/s/rzbrepfg19eqov3/csbio-class2.pdf?dl=0)
+The slides are here: [Class 2: Platform for Life on Earth](https://www.dropbox.com/s/rzbrepfg19eqov3/csbio-class2.pdf?dl=0)
 
 Some links to materials for the class:
 

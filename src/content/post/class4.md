@@ -1,7 +1,7 @@
 +++
 date = "01 Sep 2022"
 draft = false
-title = "Class 4"
+title = "Class 4: The Human Genome"
 author = "David Evans"
 slug = "class4"
 +++
@@ -21,7 +21,7 @@ and select the notification you want. We recommend at least selecting from the "
 
 ## Slides
  
-Here are the slides: [class4.pdf](https://www.dropbox.com/s/9vml5wp8s5i0cd3/csbio-class4.pdf?dl=0)
+Here are the slides: [Class 4: The Human Genome](https://www.dropbox.com/s/9vml5wp8s5i0cd3/csbio-class4.pdf?dl=0)
 
 <center>
 <a href="https://www.dropbox.com/s/v025n58qiisi4g5/humangenomemosiac.jpg?dl=0"><img src="/images/humangenomemosaic-small.jpg" width="50%"></a>

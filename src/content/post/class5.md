@@ -1,7 +1,7 @@
 +++
 date = "06 Sep 2022"
 draft = false
-title = "Class 5"
+title = "Class 5: Analyzing Genomes"
 author = "David Evans"
 slug = "class5"
 +++
@@ -25,7 +25,7 @@ Before next Thursday, 15 September:
 
 ## Slides
  
-The slides are here: [class5.pdf](https://www.dropbox.com/s/ezqympjbfyd1on1/csbio-class5.pdf?dl=0)
+The slides are here: [Class 5: Analyzing Genomes](https://www.dropbox.com/s/ezqympjbfyd1on1/csbio-class5.pdf?dl=0)
 
 ## Links
 

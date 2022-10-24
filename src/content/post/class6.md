@@ -1,7 +1,7 @@
 +++
 date = "08 Sep 2022"
 draft = false
-title = "Class 6"
+title = "Class 6: Alignment Algorithms"
 author = "David Evans"
 slug = "class6"
 +++

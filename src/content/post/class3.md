@@ -1,7 +1,7 @@
 +++
 date = "30 Aug 2022"
 draft = false
-title = "Class 3"
+title = "Class 3: Reading Genomes"
 author = "David Evans"
 slug = "class3"
 +++
@@ -22,7 +22,7 @@ know.
 
 ## Slides
  
-The slides are here: [class3.pdf](https://www.dropbox.com/s/yzgpbpxo5b6zyry/csbio-class3.pdf?dl=0)
+The slides are here: [Class 3: Reading Genomes](https://www.dropbox.com/s/yzgpbpxo5b6zyry/csbio-class3.pdf?dl=0)
 
 Some links to materials for the class:
 
