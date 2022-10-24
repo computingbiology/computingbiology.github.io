@@ -17,7 +17,7 @@ Quiz 2 was originally scheduled to be October 27, but since we won't have finish
 
 ## Slides and Links
 
-The slides are here: [Class 15: Recombinante DNA](https://www.dropbox.com/s/okdcngnwnz5avqw/csbio-class15.pdf?dl=0)
+The slides are here: [Class 15: Recombinant DNA](https://www.dropbox.com/s/okdcngnwnz5avqw/csbio-class15.pdf?dl=0)
 
 - Paul Berg, David Baltimore, Herbert W. Boyer, Stanley N. Cohen, Ronald W. Davis, David S. Hogness, Daniel Nathans, Richard Roblin, James D. Watson, Sherman Weissman, Norton D. Zinder. [_Potential Biohazards of Recombinant DNA Molecules_](/docs/berg-biohazards1974.pdf). Science, 1974.
 
