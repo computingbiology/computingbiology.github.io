@@ -1,5 +1,5 @@
 +++
-date = "25 Oct 2022"
+date = "24 Oct 2022"
 draft = false
 title = "Class 16: CRISPR in Bacteria"
 author = "David Evans"
