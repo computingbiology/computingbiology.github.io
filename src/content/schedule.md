@@ -110,11 +110,10 @@ To schedule other times to meet with Dave use: [_https://davidevans.youcanbook.m
 - Reductions
 - Adleman's DNA Computer
 
-**Tuesday, 11 October**: Quiz 1 (in classe)
-
 11 October: [Class 13: Genotypes and Phenotypes](/class13)
 - Mendel and Inheritance
 - Genome Wide Association Studies
+- [**Quiz 1**](/docs/quiz1.pdf) (in class) &mdash; answers discussed in [Class 15](/class15)
 
 13 October: Project Coordination
 
@@ -125,17 +124,19 @@ To schedule other times to meet with Dave use: [_https://davidevans.youcanbook.m
 - Costs and Information-Theoretic Benefits of Sex
 - Recombinant DNA
 
-20 October: Class 15: CRISPR in Bacteria
+20 October: [Class 15: Recombinant DNA](/class15)
+- Quiz 1 Discussion
+- Recombinant DNA
 
-25 October: Class 16: CRISPR in Humans
-
-**Thursday, 27 October**: Quiz 2
+25 October: Class 16: CRISPR in Bacteria
 
 27 October: Class 17: Protein Structure Prediction
 
 1 November: Class 18: AlphaFold
 
+**Thursday, 3 November**: Quiz 2
 3 November: Class 19: BetaFold
+
 
 **Monday, 7 November**: Project Report Due
 
@@ -143,7 +144,7 @@ To schedule other times to meet with Dave use: [_https://davidevans.youcanbook.m
 
 10 November: Class 22: Programmable Pharmaceuticals
 
-**Tuesday, 15 November**: Quiz 3
+**Tuesday, 15 November**: Quiz 3 (to be rescheduled)
 
 15 November: Class 23: TBA
 
