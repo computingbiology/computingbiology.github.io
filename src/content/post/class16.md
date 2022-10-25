@@ -28,7 +28,7 @@ mechanistic variations of the CRISPR-Cas systems_](/docs/mohanraju2016.pdf). Sci
 
 ## Slides and Links
  
-The slides will be posted here: [Class 16: CRISPR in Bacteria](https://www.dropbox.com/s/37akqikytz1c2vi/csbio-class16.pdf?dl=0)
+Slides: [Class 16: CRISPR in Bacteria](https://www.dropbox.com/s/37akqikytz1c2vi/csbio-class16.pdf?dl=0)
 
 - Shigeru Iida, Markus B. Streiff, Thomas A. Bickle, and Werner Arber. [_Two DNA Antirestriction Systems Characterization of Bacteriophage P1, darA, and darB: Characterization of darA<sup>-</sup> Phages_](/docs/iida1987.pdf). Virology, 1987.
 
