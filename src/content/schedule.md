@@ -130,25 +130,23 @@ To schedule other times to meet with Dave use: [_https://davidevans.youcanbook.m
 
 25 October: Class 16: CRISPR in Bacteria
 
-27 October: Class 17: Protein Structure Prediction
+27 October: Class 17: CRISPR in Humans
 
-1 November: Class 18: AlphaFold
+1 November: Class 18: Crispyr CRISPR
 
 **Thursday, 3 November**: Quiz 2
-3 November: Class 19: BetaFold
 
+3 November: Class 19: Protein Structure Prediction
 
 **Monday, 7 November**: Project Report Due
 
 8 November: Election Day (No Classes)
 
-10 November: Class 22: Programmable Pharmaceuticals
+10 November: Class 22: AlphaFold 
 
-**Tuesday, 15 November**: Quiz 3 (to be rescheduled)
+15 November: Class 23: BetaFold
 
-15 November: Class 23: TBA
-
-17 November: Class 24: TBA
+17 November: Class 24: Programmable Pharmaceuticals
 
 22 November: Class 25: TBA
 
@@ -158,7 +156,7 @@ To schedule other times to meet with Dave use: [_https://davidevans.youcanbook.m
 
 1 December: Class 27: TBA
 
-**Thursday, 1 December**: Quiz 4 (tentative)
+**Thursday, 1 December**: Quiz 3
 
 6 December: Class 28: TBA
 

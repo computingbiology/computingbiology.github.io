@@ -6,6 +6,17 @@ author = "David Evans"
 slug = "class16"
 +++
 
+## Schedule
+
+Quiz 2 will be on **Thursday, November 3** and will focus on material
+from Classes 14 &ndash; 18 (mostly on editing genomes, but
+also including most likely one question on the discussion of Quiz 1
+from [Class 14](/class14).)
+
+[Project reports](/finalproject) are due **Monday, 7 November**. This
+should be a complete project report, which will be graded. You will
+receive feedback on it, and have an opportunity to revise and improve.
+
 ## Readings
 
 Read before **Tuesday, 1 November** (but earlier is better):
@@ -17,7 +28,7 @@ mechanistic variations of the CRISPR-Cas systems_](/docs/mohanraju2016.pdf). Sci
 
 ## Slides and Links
  
-The slides will be posted here: [Class 16: CRISPR in Bacteria](TODO)
+The slides will be posted here: [Class 16: CRISPR in Bacteria](https://www.dropbox.com/s/37akqikytz1c2vi/csbio-class16.pdf?dl=0)
 
 - Shigeru Iida, Markus B. Streiff, Thomas A. Bickle, and Werner Arber. [_Two DNA Antirestriction Systems Characterization of Bacteriophage P1, darA, and darB: Characterization of darA<sup>-</sup> Phages_](/docs/iida1987.pdf). Virology, 1987.
 
@@ -31,4 +42,3 @@ The slides will be posted here: [Class 16: CRISPR in Bacteria](TODO)
 - Martin Jinek, Krzysztof Chylinski, Ines Fonfara, Michael Hauer, Jennifer A. Doudna, Emmanuelle Charpentier. 
 [_A Programmable Dual-RNA–Guided DNA Endonuclease in Adaptive Bacterial Immunity_](https://www.science.org/doi/10.1126/science.1225829), Science, 28 June 2012. [[PDF](/docs/jinek2012.pdf)]
 
-- CRISPR patent: [_Methods and compositions for RNA-directed target DNA modification and for RNA-directed transcription modulation_](https://patents.google.com/patent/US20220010338A1/en)
