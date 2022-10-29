@@ -54,11 +54,12 @@ For a more positive view on Eric Lander (and a very interesting story about anot
 
 - Kim Sneppen & Szabolcs Semsey, [_Mismatch repair at stop codons is directed independent of GATC methylation on the Escherichia coli chromosome_](https://www.nature.com/articles/srep07346). Scientific Reports, 2014.
 
+- Le Cong, F. Ann Ran, David Cox, Shuailiang Lin, Robert Barretto, Naomi Habib, Patrick D. Hsu, Xuebing Wu, Wenyan Jiang, Luciano A. Marraffini, Feng Zhang.
+[_Multiplex Genome Engineering Using CRISPR/Cas Systems_](https://www.science.org/doi/10.1126/science.1231143). Science, 3 Jan 2013.
+
 - CRISPR patent: [_Methods and compositions for RNA-directed target DNA modification and for RNA-directed transcription modulation_](https://patents.google.com/patent/US20220010338A1/en)
 
 - CRISPR Patent Ruling: [Decision on Priority 37 C.F.R. § 41.125(a)](/docs/usptocrispr.pdf), USPTO 28 February 2022.
 
-- Le Cong, F. Ann Ran, David Cox, Shuailiang Lin, Robert Barretto, Naomi Habib, Patrick D. Hsu, Xuebing Wu, Wenyan Jiang, Luciano A. Marraffini, Feng Zhang.
-[_Multiplex Genome Engineering Using CRISPR/Cas Systems_](https://www.science.org/doi/10.1126/science.1231143). Science, 3 Jan 2013.
 
 
