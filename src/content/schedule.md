@@ -128,9 +128,18 @@ To schedule other times to meet with Dave use: [_https://davidevans.youcanbook.m
 - Quiz 1 Discussion
 - Recombinant DNA
 
-25 October: Class 16: CRISPR in Bacteria
+25 October: [Class 16: CRISPR in Bacteria](/class16)
+- CRISPR mechanisms in Prokaryotes
+- Capturing Invader DNA
+- Designing gRNA
+- Off-Target Effects
 
-27 October: Class 17: CRISPR in Humans
+27 October: [Class 17: CRISPR in Humans](/class17)
+- Limits on the size of the CRISPR array
+- DNA Repair Mechanisms
+- CRISPR for Genome Editing
+- CRISPR Patent Dispute
+- Applications of CRISPR
 
 1 November: Class 18: Crispyr CRISPR
 
