@@ -34,7 +34,7 @@ The quote about Eric Lander is from Michael Eisen's blog, [_The Villain of CRISP
 
 > Lander’s recent essay in Cell entitled <a href="https://www.cell.com/cell/fulltext/S0092-8674(15)01705-5">"The Heroes of CRISPR"</a> is his masterwork, at once so evil and yet so brilliant that I find it hard not to stand in awe even as I picture him cackling loudly in his Kendall Square lair, giant laser weapon behind him poised to destroy Berkeley if we don’t hand over our patents.
 
-For a more positive view on Eric Lander (and a very interesting story), watch this episode from The Moth:
+For a more positive view on Eric Lander (and a very interesting story about another legal case involving genetics, this one about using DNA evidence to exonerate those wrongly accused which Lander was [critical to](https://innocenceproject.org/eric-lander-calls-for-officials-to-uphold-best-forensic-practices/)), watch this episode from The Moth:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QyyHF9ahQP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
