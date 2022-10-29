@@ -6,7 +6,9 @@ author = "David Evans"
 slug = "class17"
 +++
 
-## Schedule (repeated from [Class 16](/class16))
+## Schedule and Readings
+
+(repeated from [Class 16](/class16))
 
 Quiz 2 will be on **Thursday, November 3** and will focus on material
 from Classes 14 &ndash; 18 (mostly on editing genomes, but
@@ -16,8 +18,6 @@ from [Class 14](/class14).)
 [Project reports](/finalproject) are due **Monday, 7 November**. This
 should be a complete project report, which will be graded. You will
 receive feedback on it, and have an opportunity to revise and improve.
-
-## Readings (repeated from [Class 16](/class16))
 
 Read before **Tuesday, 1 November** (but earlier is better):
 - DNA Book: [Chapter 28: _Bacterial Virus Warfare_](https://berthub.eu/dna-book/private/bacterial-virus-warfare-crispr) and [Chapter 29: _Genetic Manipulation, CRISPR & beyond_](https://berthub.eu/dna-book/private/genetic-manipulation-crispr)
@@ -36,8 +36,9 @@ The quote about Eric Lander is from Michael Eisen's blog, [_The Villain of CRISP
 
 For a more positive view on Eric Lander (and a very interesting story about another legal case involving genetics, this one about using DNA evidence properly in criminal trials which Lander was [critical to including the Innocence Project](https://innocenceproject.org/eric-lander-calls-for-officials-to-uphold-best-forensic-practices/)), watch this episode from The Moth:
 
+<center>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QyyHF9ahQP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+</center>
 
 - Alex Mira, Howard Ochman, and Nancy Moran. [_Deletional bias and the evolution of bacterial genomes_](/docs/mira2001.pdf). Trends in Genetics, October 2001.
 
