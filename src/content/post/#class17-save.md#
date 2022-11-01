@@ -1,14 +1,12 @@
 +++
 date = "27 Oct 2022"
-draft = false
-title = "Class 17: CRISPR for Humans"
+draft = true
+title = "Class 17: CRISPR for Humanity"
 author = "David Evans"
 slug = "class17"
 +++
 
-## Schedule and Readings
-
-(repeated from [Class 16](/class16))
+## Schedule (repeated from [Class 16](/class16))
 
 Quiz 2 will be on **Thursday, November 3** and will focus on material
 from Classes 14 &ndash; 18 (mostly on editing genomes, but
@@ -19,6 +17,8 @@ from [Class 14](/class14).)
 should be a complete project report, which will be graded. You will
 receive feedback on it, and have an opportunity to revise and improve.
 
+## Readings (repeated from [Class 16](/class16))
+
 Read before **Tuesday, 1 November** (but earlier is better):
 - DNA Book: [Chapter 28: _Bacterial Virus Warfare_](https://berthub.eu/dna-book/private/bacterial-virus-warfare-crispr) and [Chapter 29: _Genetic Manipulation, CRISPR & beyond_](https://berthub.eu/dna-book/private/genetic-manipulation-crispr)
 
@@ -28,23 +28,11 @@ mechanistic variations of the CRISPR-Cas systems_](/docs/mohanraju2016.pdf). Sci
 
 ## Slides and Links
  
-Slides: [Class 17: CRISPR for Humans](https://www.dropbox.com/s/lsd363869ypojtl/csbio-class17.pdf?dl=0)
-
-The quote about Eric Lander is from Michael Eisen's blog, [_The Villain of CRISPR_](https://www.michaeleisen.org/blog/?p=1825):
-
-> Lander’s recent essay in Cell entitled <a href="https://www.cell.com/cell/fulltext/S0092-8674(15)01705-5">"The Heroes of CRISPR"</a> is his masterwork, at once so evil and yet so brilliant that I find it hard not to stand in awe even as I picture him cackling loudly in his Kendall Square lair, giant laser weapon behind him poised to destroy Berkeley if we don’t hand over our patents.
-
-For a more positive view on Eric Lander (and a very interesting story about another legal case involving genetics, this one about using DNA evidence properly in criminal trials which Lander was [critical to including the Innocence Project](https://innocenceproject.org/eric-lander-calls-for-officials-to-uphold-best-forensic-practices/)), watch this episode from The Moth:
-
-<center>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QyyHF9ahQP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
+Slides: [Class 17: CRISPR for Humanity](https://www.dropbox.com/s/lsd363869ypojtl/csbio-class17.pdf?dl=0)
 
 - Alex Mira, Howard Ochman, and Nancy Moran. [_Deletional bias and the evolution of bacterial genomes_](/docs/mira2001.pdf). Trends in Genetics, October 2001.
 
 - Sandra C. Garrett. [_Pruning and Tending Immune Memories: Spacer Dynamics in the CRISPR Array_](https://www.frontiersin.org/articles/10.3389/fmicb.2021.664299/full). Frontiers in Microbiology, 1 April 2021.
-
-- Shomu's Biology: [Homologous Recombination](https://www.youtube.com/watch?v=hEcd_CRtAaM)
 
 - Nimrat Chatterjee and Graham C. Walker. [_Mechanisms of DNA damage, repair and mutagenesis_](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC5474181/). Enviromental and Molecular Mutagenesis, 9 May 2017.
 
@@ -56,12 +44,11 @@ For a more positive view on Eric Lander (and a very interesting story about anot
 
 - Kim Sneppen & Szabolcs Semsey, [_Mismatch repair at stop codons is directed independent of GATC methylation on the Escherichia coli chromosome_](https://www.nature.com/articles/srep07346). Scientific Reports, 2014.
 
-- Le Cong, F. Ann Ran, David Cox, Shuailiang Lin, Robert Barretto, Naomi Habib, Patrick D. Hsu, Xuebing Wu, Wenyan Jiang, Luciano A. Marraffini, Feng Zhang.
-[_Multiplex Genome Engineering Using CRISPR/Cas Systems_](https://www.science.org/doi/10.1126/science.1231143). Science, 3 Jan 2013.
+- Shomu's Biology: [Homologous Recombination](https://www.youtube.com/watch?v=hEcd_CRtAaM)
 
 - CRISPR patent: [_Methods and compositions for RNA-directed target DNA modification and for RNA-directed transcription modulation_](https://patents.google.com/patent/US20220010338A1/en)
 
-- CRISPR Patent Ruling: [Decision on Priority 37 C.F.R. § 41.125(a)](/docs/usptocrispr.pdf), USPTO 28 February 2022.
+- CRISPR Patent Ruling: [Decision on Priority 37 C.F.R. § 41.125(a)](/docs/usptocrispr.pdf), USPTO 28 February 2022 (under appeal).
 
-
+- Le Cong, F. Ann Ran, David Cox, Shuailiang Lin, Robert Barretto, Naomi Habib, Patrick D. Hsu, Xuebing Wu, Wenyan Jiang, Luciano A. Marraffini, Feng Zhang. [_Multiplex Genome Engineering Using CRISPR/Cas Systems_](https://www.science.org/doi/10.1126/science.1231143). Science, 3 Jan 2013.
 
