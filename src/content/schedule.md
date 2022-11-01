@@ -141,23 +141,26 @@ To schedule other times to meet with Dave use: [_https://davidevans.youcanbook.m
 - CRISPR Patent Dispute
 - Applications of CRISPR
 
-1 November: Class 18: Crispyr CRISPR
+1 November: [Class 18: Crispyr CRISPR](/class18)
+- CRISPR Recap
+- Human Germline Editing
+- Base Editing
 
 **Thursday, 3 November**: Quiz 2
 
-3 November: Class 19: Protein Structure Prediction
+3 November: Class 19: Prime Editing, Quiz
 
 **Monday, 7 November**: Project Report Due
 
 8 November: Election Day (No Classes)
 
-10 November: Class 22: AlphaFold 
+10 November: Class 20: Protein Structure Prediction
 
-15 November: Class 23: BetaFold
+15 November: Class 21: AlphaFold
 
-17 November: Class 24: Programmable Pharmaceuticals
+17 November: Class 22: Epidemiology
 
-22 November: Class 25: TBA
+22 November: Class 23: TBA
 
 24 November: Thanksgiving Break (No Classes)
 
