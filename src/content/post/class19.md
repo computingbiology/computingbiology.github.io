@@ -8,7 +8,9 @@ slug = "class19"
 
 ## Schedule
 
-Project Reports are due on Monday, 7 November (AoE). Use this form to submit your project: [Project Report Form](https://forms.gle/XrGVTsj6KDRkMgwbA)
+Project Reports are due on Monday, 7 November (AoE).
+
+Use this form to submit your project: [Project Report Form](https://forms.gle/XrGVTsj6KDRkMgwbA)
 
 Tuesday, November 8 is Election Day (and a UVA class holiday &mdash; no class on Tuesday).
 
