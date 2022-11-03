@@ -150,7 +150,7 @@ To schedule other times to meet with Dave use: [_https://davidevans.youcanbook.m
 
 3 November: Class 19: Prime Editing, Quiz
 
-**Monday, 7 November**: Project Report Due
+**Monday, 7 November**: [Project Report Due](https://forms.gle/XrGVTsj6KDRkMgwbA)
 
 8 November: Election Day (No Classes)
 
