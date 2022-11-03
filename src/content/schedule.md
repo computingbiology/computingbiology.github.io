@@ -148,7 +148,9 @@ To schedule other times to meet with Dave use: [_https://davidevans.youcanbook.m
 
 **Thursday, 3 November**: Quiz 2
 
-3 November: Class 19: Prime Editing, Quiz
+3 November: [Class 19: Even Crispyr CRISPR](/class19)
+- Prime Editing
+- Quiz 2
 
 **Monday, 7 November**: [Project Report Due](https://forms.gle/XrGVTsj6KDRkMgwbA)
 
