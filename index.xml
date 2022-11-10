@@ -8,7 +8,20 @@
     <language>en-us</language>
     <managingEditor>evans@virginia.edu (David Evans)</managingEditor>
     <webMaster>evans@virginia.edu (David Evans)</webMaster>
-    <lastBuildDate>Thu, 03 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class 20: Death and Cancer</title>
+      <link>https://computingbiology.github.io/class20/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/class20/</guid>
+      <description>Slides and Links Slides: Class 20: Death and Cancer
+  CDC WONDER Death Statistics
+  Peyton Rous. A Sarcoma of the Fowl Transmissible by an Agent Separable from the Tumor Cells. Journal of Experimental Medicine. April 1911.
+  Kimberly M. Newkirk, Erin M. Brannick, and Donna F. Kusewitt. Neoplasia and Tumor Biology (Chapter 6 from Pathologic Basis of Veterinary Disease). 2017.
+  Robert J. Duronio and Yue Xiong.</description>
+    </item>
+    
     <item>
       <title>Class 19: Prime Editing</title>
       <link>https://computingbiology.github.io/class19/</link>
