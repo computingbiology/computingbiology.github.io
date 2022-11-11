@@ -156,9 +156,11 @@ To schedule other times to meet with Dave use: [_https://davidevans.youcanbook.m
 
 8 November: Election Day (No Classes)
 
-10 November: Class 20: Protein Structure Prediction
+10 November: [Class 20: Death and Cancer](/class20)
+- What do 20-24 year olds in the United States die from?
+- Cancer
 
-15 November: Class 21: AlphaFold
+15 November: Class 21: TBA
 
 17 November: Class 22: Epidemiology
 
@@ -172,6 +174,6 @@ To schedule other times to meet with Dave use: [_https://davidevans.youcanbook.m
 
 **Thursday, 1 December**: Quiz 3
 
-6 December: Class 28: TBA
+6 December: Class 28: Project Presentations
 
 **Tuesday, 6 December**: Revised Final Project Report Due
