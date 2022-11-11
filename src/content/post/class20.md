@@ -33,3 +33,4 @@ Slides: [Class 20: Death and Cancer](https://www.dropbox.com/s/gvwfb5l3b2h6o1j/c
 </center>
 
 
+- Matt Might, [_Winning the War on Error: Solving Halting Problem, Curing Cancer_](https://www.youtube.com/watch?v=EVkHgKCqAcI) (video), Code Mesh 2017.
