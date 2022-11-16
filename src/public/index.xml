@@ -8,7 +8,20 @@
     <language>en-us</language>
     <managingEditor>evans@virginia.edu (David Evans)</managingEditor>
     <webMaster>evans@virginia.edu (David Evans)</webMaster>
-    <lastBuildDate>Thu, 10 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Sep 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Class Update</title>
+      <link>https://computingbiology.github.io/class-update/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/class-update/</guid>
+      <description>Please see the message on the github discussions site: https://github.com/computingbiology/fall2022/discussions/47.</description>
+    </item>
+    
     <item>
       <title>Class 20: Death and Cancer</title>
       <link>https://computingbiology.github.io/class20/</link>
