@@ -160,11 +160,9 @@ To schedule other times to meet with Dave use: [_https://davidevans.youcanbook.m
 - What do 20-24 year olds in the United States die from?
 - Cancer
 
-15 November: Class 21: TBA
+17 November: [Class 21: Computational Epidemiology](/class21) (guest lecture by Jack Heavey)
 
-17 November: Class 22: Epidemiology
-
-22 November: Class 23: TBA
+22 November: Class 22: Programmable Pharmaceuticals
 
 24 November: Thanksgiving Break (No Classes)
 
