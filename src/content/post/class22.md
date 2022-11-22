@@ -8,7 +8,8 @@ slug = "class22"
 
 ## Slides and Links
  
-Slides: 
+Slides: [Class 22: Programmable
+Pharmaceuticals](https://www.dropbox.com/s/ubaoqfgf6whhjh3/csbio-class22.pdf?dl=0)
 
 - Michael Bretthauer, Magnus Løberg, Paulina Wieszczy, Mette Kalager, Louise Emilsson, Kjetil Garborg, Maciej Rupinski, Evelien Dekker, Manon Spaander, Marek Bugajski, Øyvind Holme, Ann G. Zauber, et al., for the NordICC Study Group. [_Effect of Colonoscopy Screening on Risks of Colorectal Cancer and Related Death_](https://www.nejm.org/doi/full/10.1056/NEJMoa2208375). New England Journal of Medicine, October 2022.
 
