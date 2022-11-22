@@ -162,7 +162,10 @@ To schedule other times to meet with Dave use: [_https://davidevans.youcanbook.m
 
 17 November: [Class 21: Computational Epidemiology](/class21) (guest lecture by Jack Heavey)
 
-22 November: Class 22: Programmable Pharmaceuticals
+22 November: [Class 22: Programmable Pharmaceuticals](/class22)
+- Epidemiological Mystery: _What happened with stomach cancer?_
+- Programmable Pharmaceuticals
+
 
 24 November: Thanksgiving Break (No Classes)
 
