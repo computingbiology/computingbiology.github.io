@@ -8,7 +8,16 @@
     <language>en-us</language>
     <managingEditor>evans@virginia.edu (David Evans)</managingEditor>
     <webMaster>evans@virginia.edu (David Evans)</webMaster>
-    <lastBuildDate>Mon, 21 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Plans for Week and Presentations</title>
+      <link>https://computingbiology.github.io/plans-for-week-and-presentations/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/plans-for-week-and-presentations/</guid>
+      <description>I&amp;rsquo;ve posted the Schedule for Presentations and a Plan for this week on the github discussions site. (Everyone should get email notifications for these from the github site (if not, check that you have the &amp;ldquo;Watch&amp;rdquo; selected for the repository), but I&amp;rsquo;m posting redundantly here in case you are not getting them.)</description>
+    </item>
+    
     <item>
       <title>Class 21: Computational Epidemiology</title>
       <link>https://computingbiology.github.io/class21/</link>
@@ -17,15 +26,6 @@
       <guid>https://computingbiology.github.io/class21/</guid>
       <description>Class 21 was a guest leacture by Jack Heavey on Computational Epidemiology.
 Here are the slides: Computational Epidemiology</description>
-    </item>
-    
-    <item>
-      <title>Class Update</title>
-      <link>https://computingbiology.github.io/class-update/</link>
-      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
-      <author>evans@virginia.edu (David Evans)</author>
-      <guid>https://computingbiology.github.io/class-update/</guid>
-      <description>Please see the message on the github discussions site: https://github.com/computingbiology/fall2022/discussions/47.</description>
     </item>
     
     <item>
