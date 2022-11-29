@@ -16,7 +16,7 @@ the github discussions site.
 
 ## Slides and Links
  
-Slides: [Class 23: Protein Structure Prediction]()
+Slides: [Class 23: Protein Structure Prediction](https://www.dropbox.com/s/njydcm02mtwehi6/csbio-class23.pdf?dl=0) (without annotations, will be updated later)
 
 - Ken A. Dill, S. Banu Ozkan, M. Scott Shell, and Thomas R. Weikl. [_The Protein Folding Problem_](docs/dill08.pdf). Annual Review of Biophysics, 2008.
 
