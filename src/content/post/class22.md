@@ -1,6 +1,6 @@
 +++
 date = "10 Nov 2022"
-draft = true
+draft = false
 title = "Class 22: Programmable Pharmaceuticals"
 author = "David Evans"
 slug = "class22"

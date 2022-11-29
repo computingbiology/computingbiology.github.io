@@ -8,7 +8,20 @@
     <language>en-us</language>
     <managingEditor>evans@virginia.edu (David Evans)</managingEditor>
     <webMaster>evans@virginia.edu (David Evans)</webMaster>
-    <lastBuildDate>Mon, 28 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class 23: Protein Structure Prediction</title>
+      <link>https://computingbiology.github.io/class23/</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/class23/</guid>
+      <description>Schedule See the Schedule for Presentations and a Plan for this week on the github discussions site.
+Slides and Links Slides: Class 23: Protein Structure Prediction
+  Ken A. Dill, S. Banu Ozkan, M. Scott Shell, and Thomas R. Weikl. The Protein Folding Problem. Annual Review of Biophysics, 2008.
+  Bonnie Berger and Tom Leighton. Protein Folding in the Hydrophobic-Hydrophilic Model is NP-Complete. RECOMB 1998.
+  Scott Aaronson, NP-complete Problems and Physical Reality.</description>
+    </item>
+    
     <item>
       <title>Plans for Week and Presentations</title>
       <link>https://computingbiology.github.io/plans-for-week-and-presentations/</link>
@@ -39,6 +52,17 @@ Here are the slides: Computational Epidemiology</description>
   Peyton Rous. A Sarcoma of the Fowl Transmissible by an Agent Separable from the Tumor Cells. Journal of Experimental Medicine. April 1911.
   Kimberly M. Newkirk, Erin M. Brannick, and Donna F. Kusewitt. Neoplasia and Tumor Biology (Chapter 6 from Pathologic Basis of Veterinary Disease). 2017.
   Robert J. Duronio and Yue Xiong.</description>
+    </item>
+    
+    <item>
+      <title>Class 22: Programmable Pharmaceuticals</title>
+      <link>https://computingbiology.github.io/class22/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/class22/</guid>
+      <description>Slides and Links Slides: Class 22: Programmable Pharmaceuticals
+  Michael Bretthauer, Magnus Løberg, Paulina Wieszczy, Mette Kalager, Louise Emilsson, Kjetil Garborg, Maciej Rupinski, Evelien Dekker, Manon Spaander, Marek Bugajski, Øyvind Holme, Ann G. Zauber, et al., for the NordICC Study Group. Effect of Colonoscopy Screening on Risks of Colorectal Cancer and Related Death. New England Journal of Medicine, October 2022.
+  Zhen Xie, Liliana Wroblewska, Laura Prochazka, Ron Weiss, Yaakov Benenson.</description>
     </item>
     
     <item>

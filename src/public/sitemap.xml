@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://computingbiology.github.io/</loc>
-    <lastmod>2022-11-28T00:00:00+00:00</lastmod>
+    <loc>https://computingbiology.github.io/class23/</loc>
+    <lastmod>2022-11-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://computingbiology.github.io/plans-for-week-and-presentations/</loc>
-    <lastmod>2022-11-28T00:00:00+00:00</lastmod>
+    <loc>https://computingbiology.github.io/</loc>
+    <lastmod>2022-11-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://computingbiology.github.io/post/</loc>
+    <lastmod>2022-11-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://computingbiology.github.io/plans-for-week-and-presentations/</loc>
     <lastmod>2022-11-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://computingbiology.github.io/class21/</loc>
     <lastmod>2022-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://computingbiology.github.io/class20/</loc>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://computingbiology.github.io/class22/</loc>
     <lastmod>2022-11-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://computingbiology.github.io/class19/</loc>
