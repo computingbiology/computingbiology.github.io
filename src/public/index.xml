@@ -8,7 +8,23 @@
     <language>en-us</language>
     <managingEditor>evans@virginia.edu (David Evans)</managingEditor>
     <webMaster>evans@virginia.edu (David Evans)</webMaster>
-    <lastBuildDate>Tue, 29 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Sep 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://computingbiology.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quiz 3</title>
+      <link>https://computingbiology.github.io/quiz-3/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (David Evans)</author>
+      <guid>https://computingbiology.github.io/quiz-3/</guid>
+      <description>Quiz 3 is posted here: Quiz 3
+The quiz is untimed (no time limit enforced), but is expected to take about 30 minutes.
+Before taking the quiz, make sure you understand and are confident you are able to follow the honor policy for this quiz:
+  The quiz is closed resources. Once you start the quiz, you are not allowed to use any other materials. You should not switch to other browser tabs or look at any notes.</description>
+    </item>
+    
     <item>
       <title>Class 23: Protein Structure Prediction</title>
       <link>https://computingbiology.github.io/class23/</link>
