@@ -8,11 +8,7 @@
     <language>en-us</language>
     <managingEditor>evans@virginia.edu (David Evans)</managingEditor>
     <webMaster>evans@virginia.edu (David Evans)</webMaster>
-    <lastBuildDate>Mon, 05 Dec 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://computingbiology.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 05 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://computingbiology.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Final Project Submission</title>
       <link>https://computingbiology.github.io/final-project-submission/</link>
@@ -20,7 +16,8 @@
       <author>evans@virginia.edu (David Evans)</author>
       <guid>https://computingbiology.github.io/final-project-submission/</guid>
       <description>The form for submitting your final project is here: Final Project Artifact Submission Form
-You should submit your final project by Tuesday, Dec 6 (AoE), which is 7:00am Eastern Time on Wednesday, Dec 7 (there is a 4 hour grace period on this, so you can submit up to 11:00am Wednesday, Dec 7 without any need to arrange an extension).</description>
+You should submit your final project by Tuesday, Dec 6 (AoE), which is 7:00am Eastern Time on Wednesday, Dec 7 (there is a 4 hour grace period on this, so you can submit up to 11:00am Wednesday, Dec 7 without any need to arrange an extension).
+Note: this is different from the form you should use to submit your presentation: Project Presentation Form (as mentioned here).</description>
     </item>
     
     <item>
